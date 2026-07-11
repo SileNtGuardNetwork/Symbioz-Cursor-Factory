@@ -1,0 +1,40 @@
+---
+description: Universal architecture discipline for product and platform work
+globs: ["**/*"]
+alwaysApply: false
+---
+
+# Architecture Rule
+
+Use this rule for architecture decisions, new packages, framework choices, data boundaries, integrations, and structural refactors.
+
+## Required sequence
+
+1. Read the current product brief, architecture notes, package boundaries, and existing patterns.
+2. Define target, scope, constraints, risks, verification, stop condition, and approval boundary.
+3. Prefer the smallest architecture that supports the current product slice.
+4. Reuse existing modules before adding new packages, services, abstractions, or providers.
+5. Record material decisions in an ADR or decision log.
+
+## Boundaries
+
+- Do not install dependencies without explicit approval.
+- Do not change database schema, production infrastructure, billing, auth provider, or AI provider without explicit scope and approval.
+- Do not introduce a new package without a clear public API, owner, tests, and a real consumer.
+- Keep external services behind typed adapters.
+- Keep domain logic outside UI components.
+- Keep secrets out of source code, examples, logs, screenshots, and documentation.
+
+## Architecture output
+
+Before implementation, provide:
+
+- chosen approach
+- rejected alternatives
+- affected packages and paths
+- data and security impact
+- migration and rollback considerations
+- verification plan
+- unresolved decisions
+
+Architecture is not complete until the implementation path and proof of correctness are clear.
