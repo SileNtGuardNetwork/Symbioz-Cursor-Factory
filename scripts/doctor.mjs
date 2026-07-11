@@ -13,15 +13,25 @@ function addCheck(name, status, detail) {
 
 function commandVersion(command, args = ['--version']) {
   try {
-    return execFileSync(command, args, {
+    const executable = process.platform === 'win32'
+      ? (process.env.ComSpec || 'cmd.exe')
+      : command
+    const commandArgs = process.platform === 'win32'
+      ? ['/d', '/s', '/c', [command, ...args].join(' ')]
+      : args
+
+    return execFileSync(executable, commandArgs, {
       cwd: root,
       encoding: 'utf8',
       stdio: ['ignore', 'pipe', 'ignore'],
+      windowsHide: true,
     }).trim()
   } catch {
     return null
   }
 }
+
+addCheck('Platform', 'INFO', `${process.platform} ${process.arch}`)
 
 const nodeVersion = process.version
 const nodeMajor = Number(nodeVersion.slice(1).split('.')[0])
@@ -53,6 +63,9 @@ if (existsSync(packagePath)) {
     const pkg = JSON.parse(readFileSync(packagePath, 'utf8'))
     addCheck('package.json', 'PASS', `${pkg.name ?? 'unnamed'} ${pkg.version ?? 'unversioned'}`)
     addCheck('validate script', pkg.scripts?.validate ? 'PASS' : 'FAIL', pkg.scripts?.validate ?? 'missing')
+    addCheck('doctor script', pkg.scripts?.doctor ? 'PASS' : 'FAIL', pkg.scripts?.doctor ?? 'missing')
+    addCheck('verify script', pkg.scripts?.verify ? 'PASS' : 'FAIL', pkg.scripts?.verify ?? 'missing')
+    addCheck('test script', pkg.scripts?.test === 'npm run verify' ? 'PASS' : 'FAIL', pkg.scripts?.test ?? 'missing')
   } catch {
     addCheck('package.json', 'FAIL', 'invalid JSON')
   }
@@ -63,7 +76,7 @@ if (existsSync(packagePath)) {
 const mcpPath = join(root, '.cursor', 'mcp.json')
 addCheck(
   'Project MCP configuration',
-  existsSync(mcpPath) ? 'INFO' : 'INFO',
+  'INFO',
   existsSync(mcpPath)
     ? 'present; contents intentionally not read'
     : 'not present; account-bound MCP setup may be completed later',
