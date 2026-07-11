@@ -17,17 +17,17 @@ Last updated: 2026-07-11
 |---|---|---|---|
 | Product definition | DOCUMENTED | PRODUCT.md, README files | external user comprehension test |
 | Architecture | DOCUMENTED | ARCHITECTURE.md, AGENTS.md | clean project application |
-| Core Rules | CONFIGURED | `.cursor/rules/` | all eight Rules discovered in Cursor and behavior tested |
+| Core Rules | CONFIGURED | eight Rules passed static audit 002; only `00-core.mdc` is always-on; validator enforces Rule contracts | native Cursor discovery and behavior test |
 | Core Skills | OPERATIONALLY_VERIFIED | eight Skills discovered in Cursor UI; `product-brief` passed MiMo Code verification 003 against the synchronized local repository | native Cursor Agent invocation and controlled-implementation harmless test |
 | Security boundaries | DOCUMENTED | SECURITY.md, security Rule and Skill | adversarial workflow test |
 | MCP profiles | DOCUMENTED | MCP_PROFILES.md, MCP_CATALOG.md | OAuth connection and tool invocation |
 | Cursor settings | DOCUMENTED | CURSOR_SETTINGS.md | settings audit on current Cursor build |
-| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions runs 29137440300 and 29137503159; Windows local verification 002 | clean-project execution |
-| Environment doctor | OPERATIONALLY_VERIFIED | GitHub Actions run 29137503159; Windows local verification 002 | clean-project execution |
+| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions runs 29137440300 and 29137503159; Windows local verification 002; Rules audit 002 | clean-project execution |
+| Environment doctor | OPERATIONALLY_VERIFIED | GitHub Actions run 29137503159; Windows local verification 002; Rules audit 002 | clean-project execution |
 | GitHub Actions | OPERATIONALLY_VERIFIED | validation, doctor, and report artifact completed successfully | required branch check configuration |
 | Installation guide | DOCUMENTED | INSTALLATION.md | clean-room installation |
 | Operational protocol | DOCUMENTED | OPERATIONAL_VERIFICATION.md and ALPHA_ACCEPTANCE_TEST.md | complete remaining Cursor and MCP checks |
-| Browser QA | CONFIGURED | browser QA Skill | successful Playwright and DevTools run |
+| Browser QA | CONFIGURED | browser QA Skill and QA Rule | successful Playwright and DevTools run |
 | Public alpha | NOT_READY | no tagged release | complete Cursor, MCP, and clean-install verification |
 
 ## Verified foundation result
@@ -90,6 +90,34 @@ Evidence:
 
 This proves local foundation and doctor execution on the target Windows workstation. It does not prove clean-project installation or external MCP operation.
 
+## Verified Rules contract audit
+
+All eight Rules passed the remediated static audit on the target Windows workstation:
+
+```text
+PASS_CURSOR_RULES_AUDIT_002
+PASS_FOUNDATION_VALIDATION
+PASS_FACTORY_DOCTOR
+```
+
+The audit confirmed:
+
+- exactly eight Rule files exist
+- all frontmatter contracts contain `description`, `globs`, and `alwaysApply`
+- only `00-core.mdc` has `alwaysApply: true`
+- Reviewer Rule contains explicit globs
+- QA Rule contains complete responsibilities, verification sequence, boundaries, browser evidence requirements, and completion evidence
+- responsibilities remain separated
+- safety and approval boundaries remain intact
+- `npm test` exited `0`
+- Git working tree remained clean
+
+Evidence:
+
+- `docs/verification/CURSOR_RULES_AUDIT_002.md`
+
+This proves the repository Rule contracts and activation configuration statically. It does not yet prove native Cursor Rule discovery or runtime application behavior.
+
 ## Current release decision
 
 The repository is not yet `PUBLIC_ALPHA`.
@@ -102,19 +130,21 @@ Completed promotion requirements:
 4. [x] all eight Skills are discovered in the local Cursor UI
 5. [x] `product-brief` completes a harmless task end to end through MiMo Code using the synchronized current Skill
 6. [x] `npm test` and the environment doctor pass on the target Windows workstation
+7. [x] all eight Rules pass the static contract audit and only the core Rule is configured always-on
 
 Remaining promotion requirements:
 
-7. [ ] all eight Rules are discoverable and only the core Rule is always-on
-8. [ ] native Cursor Agent invocation is verified when an executable plan is available
-9. [ ] Core MCP tools are invoked successfully with safe permissions
-10. [ ] installation instructions are completed on a clean project
-11. [ ] confirm no private Symbioz product data is present through final human review
-12. [ ] configure branch protection and require the validation check
+8. [ ] all eight Rules are discoverable in Cursor and activation behavior is verified
+9. [ ] native Cursor Agent invocation is verified when an executable plan is available
+10. [ ] Core MCP tools are invoked successfully with safe permissions
+11. [ ] installation instructions are completed on a clean project
+12. [ ] confirm no private Symbioz product data is present through final human review
+13. [ ] configure branch protection and require the validation check
 
 ## Human-only verification still required
 
 - local Cursor version and settings audit
+- native Cursor Rule discovery and activation behavior
 - native Cursor Agent execution when available
 - OAuth authorization for account-bound services
 - real MCP tool invocation
