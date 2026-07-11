@@ -14,10 +14,21 @@ This checklist defines the minimum evidence required before tagging `v0.1.0-alph
 
 ## Local environment
 
-- [ ] `npm test` passes on the target local environment
-- [ ] `npm run doctor` returns `PASS_FACTORY_DOCTOR`
-- [ ] no secret-bearing MCP configuration is committed
-- [ ] `.cursorignore` is reviewed for the target project
+- [x] `npm test` passes on the target local environment
+- [x] `npm run doctor` returns `PASS_FACTORY_DOCTOR`
+- [x] no secret-bearing MCP configuration is committed
+- [x] `.cursorignore` is reviewed for the target project
+
+Evidence:
+
+- Windows workstation verification 002 passed on branch `foundation/universal-core`.
+- Node.js: `v24.15.0`
+- npm: `11.12.1`
+- Git: `2.55.0.windows.1`
+- `PASS_FOUNDATION_VALIDATION`
+- `PASS_FACTORY_DOCTOR`
+- exit code `0`
+- clean working tree
 
 ## Cursor
 
