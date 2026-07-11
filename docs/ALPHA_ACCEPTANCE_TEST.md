@@ -1,0 +1,77 @@
+# Public Alpha Acceptance Test
+
+This checklist defines the minimum evidence required before tagging `v0.1.0-alpha`.
+
+## Repository
+
+- [x] public repository exists
+- [x] English and Russian README files exist
+- [x] product, architecture, agent, security, contribution, and support contracts exist
+- [x] eight baseline Rules exist
+- [x] eight baseline Skills exist
+- [x] foundation validation passes in GitHub Actions
+- [ ] branch protection and required validation check are configured
+
+## Local environment
+
+- [ ] `npm test` passes on the target local environment
+- [ ] `npm run doctor` returns `PASS_FACTORY_DOCTOR`
+- [ ] no secret-bearing MCP configuration is committed
+- [ ] `.cursorignore` is reviewed for the target project
+
+## Cursor
+
+- [ ] current Cursor version recorded
+- [ ] all eight Rules are discoverable
+- [ ] only the core Rule is always-on
+- [ ] all eight Skills are discoverable
+- [ ] `product-brief` can be invoked successfully
+- [ ] `controlled-implementation` completes the harmless test task
+- [ ] agent reports approval boundaries and does not deploy
+
+## MCP
+
+- [ ] GitHub read operation verified
+- [ ] documentation-context operation verified
+- [ ] browser automation read-only operation verified
+- [ ] Chrome DevTools read-only operation verified
+- [ ] permission scopes recorded
+- [ ] revocation method recorded
+- [ ] no production customer data used
+
+## Clean installation
+
+- [ ] Factory added to a clean compatible project
+- [ ] existing files not overwritten without review
+- [ ] validation passes after installation
+- [ ] Rules and Skills discovered after installation
+- [ ] uninstall or removal path tested
+
+## Public safety
+
+- [ ] final secret scan reviewed
+- [ ] final private-product provenance review completed
+- [ ] third-party attributions and disclaimer reviewed
+- [ ] unsupported stacks and limitations remain visible
+- [ ] release notes prepared
+- [ ] human owner approved public alpha
+
+## Decision
+
+### Pass
+
+Use only when every required item is complete:
+
+```text
+PASS_PUBLIC_ALPHA_ACCEPTANCE
+```
+
+### Blocked
+
+List every missing item and use:
+
+```text
+BLOCKED_PUBLIC_ALPHA_ACCEPTANCE
+```
+
+No partial checklist may be described as a completed public alpha release.
