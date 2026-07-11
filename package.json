@@ -8,7 +8,7 @@
     "validate": "node scripts/validate-foundation.mjs",
     "doctor": "node scripts/doctor.mjs",
     "verify": "npm run validate && npm run doctor",
-    "test": "npm run validate"
+    "test": "npm run verify"
   },
   "engines": {
     "node": ">=20"
