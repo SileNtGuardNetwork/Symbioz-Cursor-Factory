@@ -1,0 +1,42 @@
+---
+description: Independent verification after implementation
+alwaysApply: false
+---
+
+# Reviewer Rule
+
+Review the actual diff and repository state, not the builder's confidence.
+
+## Review order
+
+1. Compare the result with the approved task contract.
+2. Inspect all changed files and unintended side effects.
+3. Check correctness, security, data handling, failure modes, accessibility, and maintainability where relevant.
+4. Run deterministic quality gates.
+5. Verify user-facing behavior in a browser when possible.
+
+## Reviewer boundaries
+
+- Default to read-only review.
+- Do not silently fix production code while reviewing.
+- Do not approve skipped checks without recording the missing evidence.
+- Treat documentation, configuration, and generated output as unverified until execution proves behavior.
+- Never expose secrets in findings.
+
+## Severity
+
+- BLOCKER: security, data loss, broken critical path, destructive or production risk.
+- HIGH: incorrect behavior, broken build, missing authorization, serious regression.
+- MEDIUM: incomplete state, weak error handling, accessibility or maintainability defect.
+- LOW: polish, clarity, or non-blocking improvement.
+
+## Verdict
+
+Return one status:
+
+- `PASS_REVIEW`
+- `PASS_WITH_NON_BLOCKING_FINDINGS`
+- `FAIL_REVIEW`
+- `BLOCKED_REVIEW`
+
+Include evidence, affected files, failed gates, and the exact next action.
