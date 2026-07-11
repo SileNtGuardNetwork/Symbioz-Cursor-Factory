@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 
-import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs'
+import { existsSync, readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { dirname, join, resolve } from 'node:path'
 
 const root = process.cwd()
 const failures = []
+const reportPath = join(root, 'validation-report.txt')
 
 const requiredFiles = [
   'README.md',
@@ -163,14 +164,21 @@ if (existsSync(workflowPath)) {
   if (!workflow.includes('npm test')) failures.push('WORKFLOW_MISSING_TEST_COMMAND')
 }
 
-if (failures.length > 0) {
-  console.error('FAIL_FOUNDATION_VALIDATION')
-  for (const failure of failures) console.error(`- ${failure}`)
-  process.exit(1)
+const reportLines = failures.length > 0
+  ? ['FAIL_FOUNDATION_VALIDATION', ...failures.map((failure) => `- ${failure}`)]
+  : [
+      'PASS_FOUNDATION_VALIDATION',
+      `Checked ${requiredFiles.length} required files.`,
+      `Checked ${skillFiles.length} skills.`,
+      `Checked ${ruleFiles.length} rules.`,
+      `Checked ${textFiles.length} text files for secrets and local links.`,
+    ]
+
+writeFileSync(reportPath, `${reportLines.join('\n')}\n`, 'utf8')
+
+for (const line of reportLines) {
+  if (failures.length > 0) console.error(line)
+  else console.log(line)
 }
 
-console.log('PASS_FOUNDATION_VALIDATION')
-console.log(`Checked ${requiredFiles.length} required files.`)
-console.log(`Checked ${skillFiles.length} skills.`)
-console.log(`Checked ${ruleFiles.length} rules.`)
-console.log(`Checked ${textFiles.length} text files for secrets and local links.`)
+if (failures.length > 0) process.exit(1)
