@@ -1,0 +1,14 @@
+{
+  "name": "symbioz-cursor-factory",
+  "version": "0.1.0-alpha.0",
+  "private": true,
+  "description": "Open-source Cursor operating system for structured SaaS product development.",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate-repository.mjs",
+    "test": "npm run validate"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
