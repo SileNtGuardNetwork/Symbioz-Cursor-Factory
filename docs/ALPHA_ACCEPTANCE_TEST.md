@@ -24,10 +24,15 @@ This checklist defines the minimum evidence required before tagging `v0.1.0-alph
 - [ ] current Cursor version recorded
 - [ ] all eight Rules are discoverable
 - [ ] only the core Rule is always-on
-- [ ] all eight Skills are discoverable
-- [ ] `product-brief` can be invoked successfully
+- [x] all eight Skills are discoverable
+- [ ] `product-brief` can be invoked successfully by the native Cursor Agent
 - [ ] `controlled-implementation` completes the harmless test task
 - [ ] agent reports approval boundaries and does not deploy
+
+External execution evidence:
+
+- MiMo Code successfully executed the synchronized current `product-brief` Skill in verification 003.
+- This is retained as external-executor evidence and does not satisfy the native Cursor Agent item above.
 
 ## MCP
 
