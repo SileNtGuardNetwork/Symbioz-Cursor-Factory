@@ -33,27 +33,47 @@ Evidence:
 ## Cursor
 
 - [ ] current Cursor version recorded
-- [ ] all eight Rules are discoverable
-- [ ] only the core Rule is always-on
+- [x] all eight Rules are discoverable
+- [x] only the core Rule is always-on
 - [x] all eight Skills are discoverable
 - [ ] `product-brief` can be invoked successfully by the native Cursor Agent
-- [ ] `controlled-implementation` completes the harmless test task
-- [ ] agent reports approval boundaries and does not deploy
+- [x] `controlled-implementation` completes the harmless test task through MiMo Code
+- [ ] agent consistently reports all approval boundaries and does not deploy
 
 External execution evidence:
 
 - MiMo Code successfully executed the synchronized current `product-brief` Skill in verification 003.
-- This is retained as external-executor evidence and does not satisfy the native Cursor Agent item above.
+- MiMo Code completed controlled implementation 001 with positive verification, a negative Rule-count test, a separately approved commit and push, and successful remote CI.
+- These results are retained as external-executor evidence and do not satisfy native Cursor Agent execution.
+
+Evidence:
+
+- `docs/verification/PRODUCT_BRIEF_MIMO_003.md`
+- `docs/verification/CURSOR_RULES_DISCOVERY_001.md`
+- `docs/verification/CONTROLLED_IMPLEMENTATION_MIMO_001.md`
 
 ## MCP
 
-- [ ] GitHub read operation verified
+- [ ] GitHub read operation verified through the target Cursor executor
 - [ ] documentation-context operation verified
 - [ ] browser automation read-only operation verified
 - [ ] Chrome DevTools read-only operation verified
 - [ ] permission scopes recorded
 - [ ] revocation method recorded
 - [ ] no production customer data used
+
+Current GitHub MCP limitation:
+
+- Cursor starts the GitHub MCP server and displays its tools.
+- MiMo Auto does not currently receive those tools in its session registry.
+- Server configuration is not counted as operational invocation evidence.
+
+## Browser QA
+
+- [ ] Playwright critical-path check completed
+- [ ] Chrome DevTools console and network inspection completed
+- [ ] responsive behavior verified
+- [ ] no production environment or customer data used
 
 ## Clean installation
 
@@ -62,6 +82,15 @@ External execution evidence:
 - [ ] validation passes after installation
 - [ ] Rules and Skills discovered after installation
 - [ ] uninstall or removal path tested
+
+## Real-product proof
+
+- [ ] Factory applied to the private Symbioz SaaS repository
+- [ ] one bounded vertical slice implemented
+- [ ] automated checks pass
+- [ ] browser QA passes
+- [ ] preview reviewed by the founder
+- [ ] no production deployment occurs without explicit approval
 
 ## Public safety
 
