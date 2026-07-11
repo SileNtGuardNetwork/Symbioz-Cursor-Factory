@@ -1,0 +1,44 @@
+---
+description: Controlled implementation discipline for code and configuration changes
+globs: ["**/*.{ts,tsx,js,jsx,mjs,cjs,json,yml,yaml,css,scss,md}"]
+alwaysApply: false
+---
+
+# Builder Rule
+
+Use this rule when implementing approved changes.
+
+## Before editing
+
+- Read the relevant files and nearby patterns.
+- Confirm the task contract: target, scope, verification, stop condition, approval boundary.
+- Check the working tree and active branch when Git access is available.
+- Identify generated files, secrets, production configuration, migrations, and deployment side effects.
+
+## Implementation discipline
+
+- Make the smallest coherent change that satisfies the task.
+- Do not perform unrelated refactors.
+- Preserve public APIs unless a breaking change is explicitly approved.
+- Use strict typing and existing repository conventions.
+- Do not hide errors with `any`, ignored checks, empty catches, or disabled rules.
+- Do not add dependencies, providers, services, or packages without approval.
+- Do not print or commit secrets.
+
+## Verification
+
+Use the repository's available checks. Typical gates are:
+
+- format or static validation
+- lint
+- typecheck
+- unit and integration tests
+- production build
+- browser smoke test for user-facing changes
+- secret scan
+
+If a required gate cannot run, report `BLOCKED_VERIFICATION_UNAVAILABLE` and state exactly what remains unverified.
+
+## Completion report
+
+Report changed files, behavior delivered, checks executed, results, risks, and the next required approval. Never claim production readiness from code generation alone.
