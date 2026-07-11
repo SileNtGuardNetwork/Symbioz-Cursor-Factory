@@ -1,0 +1,33 @@
+name: Validate Foundation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - foundation/**
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate repository foundation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Validate foundation
+        run: npm test
