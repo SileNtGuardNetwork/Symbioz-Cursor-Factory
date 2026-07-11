@@ -152,10 +152,26 @@ for (const file of ruleFiles) {
   const content = readText(file)
   if (!content.startsWith('---\n')) failures.push(`INVALID_RULE_FRONTMATTER ${file}`)
 
-  const alwaysApply = /^alwaysApply:\s*true\s*$/m.test(content)
+  const frontmatterEnd = content.indexOf('\n---\n', 4)
+  if (frontmatterEnd === -1) failures.push(`UNCLOSED_RULE_FRONTMATTER ${file}`)
+
+  const frontmatter = frontmatterEnd === -1 ? '' : content.slice(4, frontmatterEnd)
+  if (!/^description:\s*.+$/m.test(frontmatter)) failures.push(`MISSING_RULE_DESCRIPTION ${file}`)
+  if (!/^globs:\s*(?:\[.*\]|\n(?:\s+-\s+.+\n?)+)$/m.test(frontmatter)) failures.push(`MISSING_RULE_GLOBS ${file}`)
+  if (!/^alwaysApply:\s*(true|false)\s*$/m.test(frontmatter)) failures.push(`MISSING_RULE_ALWAYS_APPLY ${file}`)
+
+  const alwaysApply = /^alwaysApply:\s*true\s*$/m.test(frontmatter)
   if (alwaysApply && file !== '.cursor/rules/00-core.mdc') {
     failures.push(`UNEXPECTED_ALWAYS_APPLY ${file}`)
   }
+  if (file === '.cursor/rules/00-core.mdc' && !alwaysApply) {
+    failures.push(`CORE_RULE_NOT_ALWAYS_APPLY ${file}`)
+  }
+
+  const body = frontmatterEnd === -1 ? '' : content.slice(frontmatterEnd + 5).trim()
+  const nonEmptyBodyLines = body.split('\n').filter((line) => line.trim().length > 0)
+  if (nonEmptyBodyLines.length < 8) failures.push(`INCOMPLETE_RULE_BODY ${file}`)
+  if (!/^#\s+.+$/m.test(body)) failures.push(`MISSING_RULE_TITLE ${file}`)
 }
 
 const markdownLinkPattern = /\[[^\]]+\]\((?!https?:|mailto:|#)([^)]+)\)/g
