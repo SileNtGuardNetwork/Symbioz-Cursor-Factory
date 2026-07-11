@@ -41,11 +41,12 @@ const requiredFiles = [
   'docs/FAQ.md',
   'docs/TROUBLESHOOTING.md',
   'docs/RELEASE_CHECKLIST.md',
-  'docs/EXAMPLE_PROJECT_CONTRACT.md',
+  'examples/PROJECT_CONTRACT.md',
   '.github/workflows/validate.yml',
-  '.github/pull_request_template.md',
+  '.github/PULL_REQUEST_TEMPLATE.md',
   '.github/ISSUE_TEMPLATE/bug_report.yml',
   '.github/ISSUE_TEMPLATE/feature_request.yml',
+  '.github/ISSUE_TEMPLATE/config.yml',
   '.github/CODEOWNERS',
 ]
 
@@ -73,6 +74,7 @@ const textFiles = [
     ...walkFiles('.cursor'),
     ...walkFiles('docs'),
     ...walkFiles('.github'),
+    ...walkFiles('examples'),
   ]),
 ].filter((file) => /\.(md|mdc|json|yml|yaml|mjs)$/.test(file))
 
