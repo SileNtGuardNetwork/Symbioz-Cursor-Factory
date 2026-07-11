@@ -17,8 +17,12 @@ const requiredFiles = [
   'PRODUCT.md',
   'ARCHITECTURE.md',
   'AGENTS.md',
+  'CHANGELOG.md',
+  'SUPPORT.md',
+  'CODE_OF_CONDUCT.md',
   'package.json',
   '.gitignore',
+  '.cursorignore',
   '.cursor/rules/00-core.mdc',
   '.cursor/rules/01-architecture.mdc',
   '.cursor/rules/02-builder.mdc',
@@ -42,13 +46,18 @@ const requiredFiles = [
   'docs/FAQ.md',
   'docs/TROUBLESHOOTING.md',
   'docs/RELEASE_CHECKLIST.md',
+  'docs/STATUS.md',
+  'docs/OPERATIONAL_VERIFICATION.md',
+  'docs/ALPHA_ACCEPTANCE_TEST.md',
   'examples/PROJECT_CONTRACT.md',
+  'scripts/doctor.mjs',
   '.github/workflows/validate.yml',
   '.github/PULL_REQUEST_TEMPLATE.md',
   '.github/ISSUE_TEMPLATE/bug_report.yml',
   '.github/ISSUE_TEMPLATE/feature_request.yml',
   '.github/ISSUE_TEMPLATE/config.yml',
   '.github/CODEOWNERS',
+  '.github/dependabot.yml',
 ]
 
 function walkFiles(relativeDir) {
@@ -76,6 +85,7 @@ const textFiles = [
     ...walkFiles('docs'),
     ...walkFiles('.github'),
     ...walkFiles('examples'),
+    ...walkFiles('scripts'),
   ]),
 ].filter((file) => /\.(md|mdc|json|yml|yaml|mjs)$/.test(file))
 
@@ -157,13 +167,26 @@ for (const file of textFiles.filter((candidate) => /\.(md|mdc)$/.test(candidate)
   }
 }
 
+const packagePath = join(root, 'package.json')
+if (existsSync(packagePath)) {
+  try {
+    const pkg = JSON.parse(readFileSync(packagePath, 'utf8'))
+    if (!pkg.scripts?.validate) failures.push('PACKAGE_MISSING_VALIDATE_SCRIPT')
+    if (!pkg.scripts?.doctor) failures.push('PACKAGE_MISSING_DOCTOR_SCRIPT')
+    if (!pkg.scripts?.verify) failures.push('PACKAGE_MISSING_VERIFY_SCRIPT')
+  } catch {
+    failures.push('INVALID_PACKAGE_JSON')
+  }
+}
+
 const workflowPath = join(root, '.github/workflows/validate.yml')
 if (existsSync(workflowPath)) {
   const workflow = readFileSync(workflowPath, 'utf8')
   if (!/permissions:\s*\n\s+contents:\s+read/m.test(workflow)) {
     failures.push('WORKFLOW_PERMISSIONS_NOT_MINIMAL .github/workflows/validate.yml')
   }
-  if (!workflow.includes('npm test')) failures.push('WORKFLOW_MISSING_TEST_COMMAND')
+  if (!workflow.includes('npm run verify')) failures.push('WORKFLOW_MISSING_VERIFY_COMMAND')
+  if (!workflow.includes('actions/upload-artifact@v4')) failures.push('WORKFLOW_MISSING_REPORT_ARTIFACT')
 }
 
 const reportLines = failures.length > 0
