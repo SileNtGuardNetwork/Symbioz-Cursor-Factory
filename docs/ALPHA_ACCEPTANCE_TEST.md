@@ -77,11 +77,12 @@ Current GitHub MCP limitation:
 
 ## Clean installation
 
-- [ ] Factory added to a clean compatible project
-- [ ] existing files not overwritten without review
-- [ ] validation passes after installation
-- [ ] Rules and Skills discovered after installation
-- [ ] uninstall or removal path tested
+- [ ] baseline installation payload copied
+- [ ] collision review completed
+- [ ] `PASS_FACTORY_INSTALLATION_VALIDATION`
+- [ ] Rules and Skills discovered
+- [ ] target quality gates recorded separately
+- [ ] uninstall/removal path successfully tested
 
 ## Real-product proof
 

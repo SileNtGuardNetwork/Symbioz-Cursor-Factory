@@ -52,6 +52,8 @@ const requiredFiles = [
   'docs/ALPHA_ACCEPTANCE_TEST.md',
   'examples/PROJECT_CONTRACT.md',
   'scripts/doctor.mjs',
+  'install/manifest.json',
+  'install/validate-installation.mjs',
   '.github/workflows/validate.yml',
   '.github/PULL_REQUEST_TEMPLATE.md',
   '.github/ISSUE_TEMPLATE/bug_report.yml',

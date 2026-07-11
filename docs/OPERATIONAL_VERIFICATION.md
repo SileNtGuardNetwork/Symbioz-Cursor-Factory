@@ -166,14 +166,23 @@ or one explicit blocked status per tool.
 
 Use a repository that does not already contain Factory files.
 
-Verify:
+Required clean-install evidence:
 
-1. installation instructions are understandable without undocumented knowledge
-2. existing project files are not overwritten silently
-3. repository validation runs
-4. Cursor discovers Rules and Skills
-5. removal steps are clear
-6. no credentials are introduced
+- compatible target prerequisites recorded (Git, Node.js 20+, target contracts)
+- pre-install git status recorded
+- destination collision inventory completed
+- exact copied paths recorded
+- `PASS_FACTORY_INSTALLATION_VALIDATION`
+- validator exit code 0
+- Cursor discovery of all eight Rules verified
+- Cursor discovery of all eight Skills verified
+- target quality gates executed separately when available (test, lint, typecheck, build)
+- no credentials introduced
+- uninstall completed successfully
+- post-uninstall git status and diff reviewed
+- `PASS_CLEAN_INSTALL`
+
+Do not require `PASS_FOUNDATION_VALIDATION` or `PASS_FACTORY_DOCTOR` from the target repository.
 
 Required status:
 

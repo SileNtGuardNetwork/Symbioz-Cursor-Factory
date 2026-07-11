@@ -170,9 +170,9 @@ New Rules, Skills, profiles, and templates should be added only when:
 
 ## Current limitations
 
-- local Cursor discovery is not yet operationally verified
-- MCP OAuth and invocation are not yet operationally verified
-- no installer or environment doctor exists
-- the first SaaS template is not yet included
-- cross-platform setup is not yet verified
-- public release readiness is not yet achieved
+- native Cursor Rules and Skills discovery has been verified locally
+- the foundation environment doctor exists and is operationally verified
+- target clean-install validation is now implemented but real clean-room execution remains pending
+- MCP invocation through the target Cursor executor remains incomplete
+- cross-platform clean-room verification remains incomplete
+- public release readiness remains incomplete
