@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Show runtime versions
         run: |
@@ -36,3 +36,12 @@ jobs:
 
       - name: Validate foundation
         run: npm test
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: foundation-validation-report
+          path: validation-report.txt
+          if-no-files-found: error
+          retention-days: 14
