@@ -22,13 +22,13 @@ Last updated: 2026-07-11
 | Security boundaries | DOCUMENTED | SECURITY.md, security Rule and Skill | adversarial workflow test |
 | MCP profiles | DOCUMENTED | MCP_PROFILES.md, MCP_CATALOG.md | OAuth connection and tool invocation |
 | Cursor settings | DOCUMENTED | CURSOR_SETTINGS.md | settings audit on current Cursor build |
-| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions runs 29137440300 and 29137503159 | local clean-install execution |
-| Environment doctor | OPERATIONALLY_VERIFIED | `npm run doctor` passed in GitHub Actions run 29137503159 | local Cursor workstation execution |
+| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions runs 29137440300 and 29137503159; Windows local verification 002 | clean-project execution |
+| Environment doctor | OPERATIONALLY_VERIFIED | GitHub Actions run 29137503159; Windows local verification 002 | clean-project execution |
 | GitHub Actions | OPERATIONALLY_VERIFIED | validation, doctor, and report artifact completed successfully | required branch check configuration |
 | Installation guide | DOCUMENTED | INSTALLATION.md | clean-room installation |
 | Operational protocol | DOCUMENTED | OPERATIONAL_VERIFICATION.md and ALPHA_ACCEPTANCE_TEST.md | complete remaining Cursor and MCP checks |
 | Browser QA | CONFIGURED | browser QA Skill | successful Playwright and DevTools run |
-| Public alpha | NOT_READY | no tagged release | complete Cursor, MCP, local, and clean-install verification |
+| Public alpha | NOT_READY | no tagged release | complete Cursor, MCP, and clean-install verification |
 
 ## Verified foundation result
 
@@ -64,6 +64,32 @@ The first test exposed duplicate output and unapproved decisions. The Skill was 
 
 This proves repository Skill discovery and successful external-agent execution. It does not prove native Cursor Agent execution because the current local Cursor plan does not provide working Agent execution.
 
+## Verified local Windows foundation
+
+After fixing CRLF handling, Windows npm discovery, and the package test chain, the target local workstation completed:
+
+```text
+PASS_FOUNDATION_VALIDATION
+PASS_FACTORY_DOCTOR
+PASS_LOCAL_FOUNDATION_VERIFICATION_002
+```
+
+Environment:
+
+- Windows `win32 x64`
+- Node.js `v24.15.0`
+- npm `11.12.1`
+- Git `2.55.0.windows.1`
+- `npm test` exit code `0`
+- clean Git working tree after execution
+
+Evidence:
+
+- `docs/verification/LOCAL_FOUNDATION_WINDOWS_001.md`
+- `docs/verification/LOCAL_FOUNDATION_WINDOWS_002.md`
+
+This proves local foundation and doctor execution on the target Windows workstation. It does not prove clean-project installation or external MCP operation.
+
 ## Current release decision
 
 The repository is not yet `PUBLIC_ALPHA`.
@@ -75,12 +101,12 @@ Completed promotion requirements:
 3. [x] validation artifact is retained for audit
 4. [x] all eight Skills are discovered in the local Cursor UI
 5. [x] `product-brief` completes a harmless task end to end through MiMo Code using the synchronized current Skill
+6. [x] `npm test` and the environment doctor pass on the target Windows workstation
 
 Remaining promotion requirements:
 
-6. [ ] all eight Rules are discoverable and only the core Rule is always-on
-7. [ ] native Cursor Agent invocation is verified when an executable plan is available
-8. [ ] `npm test` and `npm run doctor` pass on the target local workstation
+7. [ ] all eight Rules are discoverable and only the core Rule is always-on
+8. [ ] native Cursor Agent invocation is verified when an executable plan is available
 9. [ ] Core MCP tools are invoked successfully with safe permissions
 10. [ ] installation instructions are completed on a clean project
 11. [ ] confirm no private Symbioz product data is present through final human review
