@@ -1,0 +1,42 @@
+---
+description: Product design and visual quality rule for interfaces, responsive states, accessibility, and design consistency
+globs: ["**/*.tsx", "**/*.jsx", "**/*.css", "**/*.scss", "**/components/**", "**/app/**"]
+alwaysApply: false
+---
+
+# Product Design Rule
+
+Before implementation, define:
+
+- screen purpose
+- target user
+- primary action
+- content hierarchy
+- visual direction
+- responsive behavior
+- required states
+
+## Requirements
+
+- Use an explicit design system or project tokens.
+- Do not introduce random colors, spacing, radii, shadows, fonts, or icon packs.
+- Provide normal, hover, focus, active, disabled, loading, empty, success, and error states when relevant.
+- Validate desktop, tablet, mobile, and narrow-mobile layouts.
+- Preserve visible keyboard focus and semantic HTML.
+- Respect reduced-motion preferences.
+- Avoid generic AI gradients, decorative dashboards, excessive glassmorphism, and visual effects without product purpose.
+- Do not change product logic while performing visual work.
+
+## Verification
+
+Visual work requires browser evidence where possible:
+
+- route loads
+- no console errors
+- no horizontal overflow
+- key content is readable
+- primary action is visually dominant
+- responsive layouts remain usable
+- screenshots are reviewed against the approved direction
+
+Major visual-direction changes require founder or product-owner approval.
