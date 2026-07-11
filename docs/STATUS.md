@@ -22,41 +22,48 @@ Last updated: 2026-07-11
 | Security boundaries | DOCUMENTED | SECURITY.md, security Rule and Skill | adversarial workflow test |
 | MCP profiles | DOCUMENTED | MCP_PROFILES.md, MCP_CATALOG.md | OAuth connection and tool invocation |
 | Cursor settings | DOCUMENTED | CURSOR_SETTINGS.md | settings audit on current Cursor build |
-| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions run 29137440300 and validation artifact | local clean-install execution |
-| GitHub Actions | OPERATIONALLY_VERIFIED | `Validate Foundation` completed successfully | required branch check configuration |
+| Foundation validator | OPERATIONALLY_VERIFIED | GitHub Actions runs 29137440300 and 29137503159 | local clean-install execution |
+| Environment doctor | OPERATIONALLY_VERIFIED | `npm run doctor` passed in GitHub Actions run 29137503159 | local Cursor workstation execution |
+| GitHub Actions | OPERATIONALLY_VERIFIED | validation, doctor, and report artifact completed successfully | required branch check configuration |
 | Installation guide | DOCUMENTED | INSTALLATION.md | clean-room installation |
+| Operational protocol | DOCUMENTED | OPERATIONAL_VERIFICATION.md and ALPHA_ACCEPTANCE_TEST.md | execute in current Cursor build |
 | Browser QA | CONFIGURED | browser QA Skill | successful Playwright and DevTools run |
-| Public alpha | NOT_READY | no tagged release | complete Cursor and MCP verification |
+| Public alpha | NOT_READY | no tagged release | complete Cursor, MCP, and clean-install verification |
 
 ## Verified foundation result
 
-The current branch produced:
+The repository has passed automated foundation and environment verification.
+
+Latest successful workflow:
 
 ```text
-PASS_FOUNDATION_VALIDATION
-Checked 41 required files.
-Checked 8 skills.
-Checked 8 rules.
-Checked 40 text files for secrets and local links.
+GitHub Actions run: 29137503159
+Validate foundation and environment: PASS
+Validation report artifact: PASS
 ```
 
-This proves repository consistency for the checked contracts. It does not prove local Cursor discovery or external MCP operation.
+The validator confirms required files, Skill contracts, Rule contracts, local links, known secret patterns, workflow permissions, and required scripts. The doctor confirms the CI environment can execute the supported baseline without reading MCP secrets.
+
+This does not prove local Cursor discovery or external MCP operation.
 
 ## Current release decision
 
 The repository is not yet `PUBLIC_ALPHA`.
 
-Completed promotion requirement:
+Completed promotion requirements:
 
 1. [x] foundation validator passes in CI
+2. [x] environment doctor passes in CI
+3. [x] validation artifact is retained for audit
 
 Remaining promotion requirements:
 
-2. [ ] Cursor discovers all Rules and Skills
-3. [ ] at least one Skill completes a harmless task end to end
-4. [ ] Core MCP tools are invoked successfully with safe permissions
-5. [ ] installation instructions are completed on a clean project
-6. [ ] confirm no private Symbioz product data is present through final human review
+4. [ ] Cursor discovers all Rules and Skills
+5. [ ] at least one Skill completes a harmless task end to end
+6. [ ] Core MCP tools are invoked successfully with safe permissions
+7. [ ] installation instructions are completed on a clean project
+8. [ ] confirm no private Symbioz product data is present through final human review
+9. [ ] configure branch protection and require the validation check
 
 ## Human-only verification still required
 
@@ -65,4 +72,5 @@ Remaining promotion requirements:
 - real MCP tool invocation
 - browser-driven verification
 - clean-project installation
+- repository settings for branch protection and Discussions
 - founder approval before public release or production access
