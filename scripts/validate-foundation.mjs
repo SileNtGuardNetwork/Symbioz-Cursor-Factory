@@ -22,6 +22,7 @@ const requiredFiles = [
   'CODE_OF_CONDUCT.md',
   'package.json',
   '.gitignore',
+  '.gitattributes',
   '.cursorignore',
   '.cursor/rules/00-core.mdc',
   '.cursor/rules/01-architecture.mdc',
@@ -74,6 +75,10 @@ function walkFiles(relativeDir) {
   return files
 }
 
+function readText(relativePath) {
+  return readFileSync(join(root, relativePath), 'utf8').replace(/\r\n?/g, '\n')
+}
+
 for (const file of requiredFiles) {
   if (!existsSync(join(root, file))) failures.push(`MISSING ${file}`)
 }
@@ -102,7 +107,7 @@ const secretPatterns = [
 for (const file of textFiles) {
   const fullPath = join(root, file)
   if (!existsSync(fullPath)) continue
-  const content = readFileSync(fullPath, 'utf8')
+  const content = readText(file)
   for (const pattern of secretPatterns) {
     if (pattern.test(content)) failures.push(`SECRET_PATTERN ${file} ${pattern}`)
   }
@@ -112,7 +117,7 @@ const skillFiles = walkFiles('.cursor/skills').filter((file) => file.endsWith('/
 const skillNames = new Set()
 
 for (const file of skillFiles) {
-  const content = readFileSync(join(root, file), 'utf8')
+  const content = readText(file)
   if (!content.startsWith('---\n')) failures.push(`INVALID_FRONTMATTER ${file}`)
 
   const nameMatch = content.match(/^name:\s*([^\n]+)$/m)
@@ -144,7 +149,7 @@ for (const file of skillFiles) {
 
 const ruleFiles = walkFiles('.cursor/rules').filter((file) => file.endsWith('.mdc'))
 for (const file of ruleFiles) {
-  const content = readFileSync(join(root, file), 'utf8')
+  const content = readText(file)
   if (!content.startsWith('---\n')) failures.push(`INVALID_RULE_FRONTMATTER ${file}`)
 
   const alwaysApply = /^alwaysApply:\s*true\s*$/m.test(content)
@@ -157,7 +162,7 @@ const markdownLinkPattern = /\[[^\]]+\]\((?!https?:|mailto:|#)([^)]+)\)/g
 for (const file of textFiles.filter((candidate) => /\.(md|mdc)$/.test(candidate))) {
   const fullPath = join(root, file)
   if (!existsSync(fullPath)) continue
-  const content = readFileSync(fullPath, 'utf8')
+  const content = readText(file)
   let match
   while ((match = markdownLinkPattern.exec(content)) !== null) {
     const target = match[1].split('#')[0]
@@ -170,10 +175,12 @@ for (const file of textFiles.filter((candidate) => /\.(md|mdc)$/.test(candidate)
 const packagePath = join(root, 'package.json')
 if (existsSync(packagePath)) {
   try {
-    const pkg = JSON.parse(readFileSync(packagePath, 'utf8'))
+    const pkg = JSON.parse(readText('package.json'))
     if (!pkg.scripts?.validate) failures.push('PACKAGE_MISSING_VALIDATE_SCRIPT')
     if (!pkg.scripts?.doctor) failures.push('PACKAGE_MISSING_DOCTOR_SCRIPT')
     if (!pkg.scripts?.verify) failures.push('PACKAGE_MISSING_VERIFY_SCRIPT')
+    if (!pkg.scripts?.test) failures.push('PACKAGE_MISSING_TEST_SCRIPT')
+    else if (pkg.scripts.test !== 'npm run verify') failures.push('PACKAGE_TEST_MUST_RUN_VERIFY')
   } catch {
     failures.push('INVALID_PACKAGE_JSON')
   }
@@ -181,7 +188,7 @@ if (existsSync(packagePath)) {
 
 const workflowPath = join(root, '.github/workflows/validate.yml')
 if (existsSync(workflowPath)) {
-  const workflow = readFileSync(workflowPath, 'utf8')
+  const workflow = readText('.github/workflows/validate.yml')
   if (!/permissions:\s*\n\s+contents:\s+read/m.test(workflow)) {
     failures.push('WORKFLOW_PERMISSIONS_NOT_MINIMAL .github/workflows/validate.yml')
   }
