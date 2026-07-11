@@ -148,6 +148,7 @@ for (const file of skillFiles) {
 }
 
 const ruleFiles = walkFiles('.cursor/rules').filter((file) => file.endsWith('.mdc'))
+if (ruleFiles.length !== 8) failures.push(`EXPECTED_8_RULES_FOUND_${ruleFiles.length}`)
 for (const file of ruleFiles) {
   const content = readText(file)
   if (!content.startsWith('---\n')) failures.push(`INVALID_RULE_FRONTMATTER ${file}`)
