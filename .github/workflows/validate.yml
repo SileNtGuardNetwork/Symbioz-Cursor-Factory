@@ -34,8 +34,8 @@ jobs:
           node --version
           npm --version
 
-      - name: Validate foundation
-        run: npm test
+      - name: Validate foundation and environment
+        run: npm run verify
 
       - name: Upload validation report
         if: always()
