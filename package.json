@@ -6,6 +6,8 @@
   "license": "MIT",
   "scripts": {
     "validate": "node scripts/validate-foundation.mjs",
+    "doctor": "node scripts/doctor.mjs",
+    "verify": "npm run validate && npm run doctor",
     "test": "npm run validate"
   },
   "engines": {
