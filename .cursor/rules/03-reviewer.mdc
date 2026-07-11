@@ -1,5 +1,6 @@
 ---
 description: Independent verification after implementation
+globs: ["**/*"]
 alwaysApply: false
 ---
 
