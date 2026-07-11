@@ -17,7 +17,7 @@ Last updated: 2026-07-11
 |---|---|---|---|
 | Product definition | DOCUMENTED | PRODUCT.md, README files | external user comprehension test |
 | Architecture | DOCUMENTED | ARCHITECTURE.md, AGENTS.md | clean project application |
-| Core Rules | CONFIGURED | eight Rules passed static audit 002; only `00-core.mdc` is always-on; validator enforces Rule contracts | native Cursor discovery and behavior test |
+| Core Rules | CONFIGURED | eight Rules passed static audit 002 and were discovered 8/8 in native Cursor UI; only `00-core.mdc` is configured always-on | live Rule behavior test |
 | Core Skills | OPERATIONALLY_VERIFIED | eight Skills discovered in Cursor UI; `product-brief` passed MiMo Code verification 003 against the synchronized local repository | native Cursor Agent invocation and controlled-implementation harmless test |
 | Security boundaries | DOCUMENTED | SECURITY.md, security Rule and Skill | adversarial workflow test |
 | MCP profiles | DOCUMENTED | MCP_PROFILES.md, MCP_CATALOG.md | OAuth connection and tool invocation |
@@ -28,7 +28,7 @@ Last updated: 2026-07-11
 | Installation guide | DOCUMENTED | INSTALLATION.md | clean-room installation |
 | Operational protocol | DOCUMENTED | OPERATIONAL_VERIFICATION.md and ALPHA_ACCEPTANCE_TEST.md | complete remaining Cursor and MCP checks |
 | Browser QA | CONFIGURED | browser QA Skill and QA Rule | successful Playwright and DevTools run |
-| Public alpha | NOT_READY | no tagged release | complete Cursor, MCP, and clean-install verification |
+| Public alpha | NOT_READY | no tagged release | complete Cursor behavior, MCP, and clean-install verification |
 
 ## Verified foundation result
 
@@ -116,7 +116,37 @@ Evidence:
 
 - `docs/verification/CURSOR_RULES_AUDIT_002.md`
 
-This proves the repository Rule contracts and activation configuration statically. It does not yet prove native Cursor Rule discovery or runtime application behavior.
+This proves the repository Rule contracts and activation configuration statically.
+
+## Verified native Cursor Rules discovery
+
+Cursor Settings displayed all eight Factory Rules:
+
+```text
+00-core
+01-architecture
+02-builder
+03-reviewer
+04-qa
+05-design
+06-security
+07-documentation
+```
+
+The UI rendered `00-core` as the non-conditional Factory Rule and rendered file-pattern labels for all seven non-core Factory Rules. Additional `context7` and `AGENTS` entries were visible but are not part of the eight Factory Rules.
+
+Evidence:
+
+- `docs/verification/CURSOR_RULES_DISCOVERY_001.md`
+
+Result:
+
+```text
+PASS_CURSOR_RULES_DISCOVERY_001
+FACTORY_RULES_FOUND: 8/8
+```
+
+This proves native Cursor discovery and UI rendering of the configured activation model. It does not yet prove live behavioral enforcement by every Rule.
 
 ## Current release decision
 
@@ -131,20 +161,21 @@ Completed promotion requirements:
 5. [x] `product-brief` completes a harmless task end to end through MiMo Code using the synchronized current Skill
 6. [x] `npm test` and the environment doctor pass on the target Windows workstation
 7. [x] all eight Rules pass the static contract audit and only the core Rule is configured always-on
+8. [x] all eight Factory Rules are discovered in native Cursor UI and the activation configuration renders as expected
 
 Remaining promotion requirements:
 
-8. [ ] all eight Rules are discoverable in Cursor and activation behavior is verified
-9. [ ] native Cursor Agent invocation is verified when an executable plan is available
-10. [ ] Core MCP tools are invoked successfully with safe permissions
-11. [ ] installation instructions are completed on a clean project
-12. [ ] confirm no private Symbioz product data is present through final human review
-13. [ ] configure branch protection and require the validation check
+9. [ ] live Rule behavior is verified through an available Cursor model
+10. [ ] native Cursor Agent invocation is verified when an executable plan is available
+11. [ ] Core MCP tools are invoked successfully with safe permissions
+12. [ ] installation instructions are completed on a clean project
+13. [ ] confirm no private Symbioz product data is present through final human review
+14. [ ] configure branch protection and require the validation check
 
 ## Human-only verification still required
 
 - local Cursor version and settings audit
-- native Cursor Rule discovery and activation behavior
+- live Cursor Rule behavior test
 - native Cursor Agent execution when available
 - OAuth authorization for account-bound services
 - real MCP tool invocation
