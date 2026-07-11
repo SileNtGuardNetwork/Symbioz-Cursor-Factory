@@ -145,7 +145,9 @@ for (const file of ruleFiles) {
 
 const markdownLinkPattern = /\[[^\]]+\]\((?!https?:|mailto:|#)([^)]+)\)/g
 for (const file of textFiles.filter((candidate) => /\.(md|mdc)$/.test(candidate))) {
-  const content = readFileSync(join(root, file), 'utf8')
+  const fullPath = join(root, file)
+  if (!existsSync(fullPath)) continue
+  const content = readFileSync(fullPath, 'utf8')
   let match
   while ((match = markdownLinkPattern.exec(content)) !== null) {
     const target = match[1].split('#')[0]
