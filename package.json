@@ -5,7 +5,7 @@
   "description": "Open-source Cursor operating system for structured SaaS product development.",
   "license": "MIT",
   "scripts": {
-    "validate": "node scripts/validate-repository.mjs",
+    "validate": "node scripts/validate-foundation.mjs",
     "test": "npm run validate"
   },
   "engines": {
