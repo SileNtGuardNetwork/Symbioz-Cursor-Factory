@@ -38,12 +38,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: npm
-          cache-dependency-path: tools/vitrina-visual-audit/package-lock.json
 
       - name: Install audit dependencies
         working-directory: tools/vitrina-visual-audit
-        run: npm ci
+        run: npm install --no-audit --no-fund
 
       - name: Install Chromium
         working-directory: tools/vitrina-visual-audit
@@ -57,6 +55,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          if [ ! -d visual-audit ]; then
+            echo "No visual-audit directory was produced"
+            exit 1
+          fi
           rm -rf docs/vitrina-visual-audit
           mkdir -p docs/vitrina-visual-audit
           cp -R visual-audit/. docs/vitrina-visual-audit/
