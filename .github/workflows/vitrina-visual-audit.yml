@@ -19,12 +19,16 @@ on:
     paths:
       - 'tools/vitrina-visual-audit/**'
       - '.github/workflows/vitrina-visual-audit.yml'
+  pull_request:
+    paths:
+      - 'tools/vitrina-visual-audit/**'
+      - '.github/workflows/vitrina-visual-audit.yml'
 
 permissions:
   contents: write
 
 concurrency:
-  group: vitrina-visual-audit
+  group: vitrina-visual-audit-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -33,7 +37,7 @@ jobs:
     timeout-minutes: 55
     env:
       AUDIT_URL: https://www.delaemdigital.com
-      AUDIT_SCOPE: ${{ inputs.scope || 'full' }}
+      AUDIT_SCOPE: ${{ github.event_name == 'pull_request' && 'smoke' || inputs.scope || 'full' }}
       AUDIT_DIR: visual-audit
 
     steps:
@@ -57,7 +61,7 @@ jobs:
         run: node tools/vitrina-visual-audit/audit.mjs
 
       - name: Publish latest visual state
-        if: always()
+        if: always() && github.event_name != 'pull_request'
         shell: bash
         run: |
           set -euo pipefail
