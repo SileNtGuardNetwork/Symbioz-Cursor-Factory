@@ -13,6 +13,12 @@ on:
           - full
   schedule:
     - cron: '17 3 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'tools/vitrina-visual-audit/**'
+      - '.github/workflows/vitrina-visual-audit.yml'
 
 permissions:
   contents: write
