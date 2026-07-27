@@ -1,206 +1,206 @@
 {
-  "generatedAt": "2026-07-27T07:48:14.127Z",
+  "generatedAt": "2026-07-27T11:37:32.048Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--store.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
     "visual-audit/desktop-1440/furniture--store.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/cars--store.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
+    "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
+    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/tires--store.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--store.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
-    "visual-audit/desktop-1440/fashion--store.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/tires--seller-panel.png",
-    "visual-audit/desktop-1440/fashion--ai-open.png",
+    "visual-audit/desktop-1440/cosmetics--store.png",
+    "visual-audit/desktop-1440/fashion--store.png",
     "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/fashion--ai-open.png",
     "visual-audit/desktop-1440/fashion--product.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
-    "visual-audit/desktop-1440/fashion--seller-panel.png",
     "visual-audit/desktop-1440/shoes--store.png",
-    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
+    "visual-audit/desktop-1440/fashion--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/jewelry--ai-open.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
+    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--product.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/kids--store.png",
+    "visual-audit/desktop-1440/shoes--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--store.png",
     "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/shoes--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--store.png",
-    "visual-audit/desktop-1440/lighting--seller-panel.png",
-    "visual-audit/desktop-1440/home--seller-panel.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
-    "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
-    "visual-audit/desktop-1440/plumbing--store.png",
-    "visual-audit/desktop-1440/doors--store.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
-    "visual-audit/desktop-1440/building--store.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/lighting--store.png",
+    "visual-audit/desktop-1440/home--seller-panel.png",
+    "visual-audit/desktop-1440/plumbing--store.png",
+    "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
     "visual-audit/desktop-1440/doors--seller-panel.png",
-    "visual-audit/desktop-1440/tools--store.png",
+    "visual-audit/desktop-1440/building--store.png",
+    "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/doors--buyer-account.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/building--seller-panel.png",
-    "visual-audit/desktop-1440/tools--seller-panel.png",
+    "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
-    "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/tools--buyer-account.png",
     "visual-audit/desktop-1440/flowers--seller-panel.png",
-    "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/pets--store.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
-    "visual-audit/desktop-1440/books--store.png",
+    "visual-audit/desktop-1440/tools--seller-panel.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
+    "visual-audit/desktop-1440/tools--buyer-account.png",
+    "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/sport--store.png",
+    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/gifts--store.png",
-    "visual-audit/desktop-1440/sport--seller-panel.png",
-    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/books--seller-panel.png",
-    "visual-audit/desktop-1440/coffee--store.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--store.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/gifts--buyer-account.png",
+    "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--store.png",
+    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
+    "visual-audit/desktop-1440/meat-fish--seller-panel.png",
     "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/coffee--buyer-account.png",
+    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/coffee--buyer-account.png",
     "visual-audit/desktop-1440/food-delivery--store.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
-    "visual-audit/desktop-1440/meat-fish--seller-panel.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
+    "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
     "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/home.png",
-    "visual-audit/mobile-390/premium-tech--store.png",
-    "visual-audit/mobile-390/electronics--store.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/mobile-390/premium-tech--ai-open.png",
-    "visual-audit/mobile-390/premium-tech--seller-panel.png",
+    "visual-audit/mobile-390/electronics--store.png",
     "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/electronics--seller-panel.png",
     "visual-audit/mobile-390/furniture--ai-open.png",
-    "visual-audit/mobile-390/premium-tech--buyer-account.png",
-    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/electronics--seller-panel.png",
     "visual-audit/mobile-390/electronics--buyer-account.png",
-    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/premium-tech--store.png",
+    "visual-audit/mobile-390/premium-tech--ai-open.png",
     "visual-audit/mobile-390/farm--store.png",
+    "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/furniture--seller-panel.png",
     "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/cars--ai-open.png",
     "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/premium-tech--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--store.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
-    "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/auto-parts--seller-panel.png",
-    "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--buyer-account.png",
-    "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
     "visual-audit/mobile-390/cars--seller-panel.png",
-    "visual-audit/mobile-390/cosmetics--product.png",
-    "visual-audit/mobile-390/fashion--store.png",
+    "visual-audit/mobile-390/tires--store.png",
+    "visual-audit/mobile-390/premium-tech--buyer-account.png",
     "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/tires--seller-panel.png",
+    "visual-audit/mobile-390/cosmetics--store.png",
+    "visual-audit/mobile-390/fashion--store.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
     "visual-audit/mobile-390/fashion--ai-open.png",
-    "visual-audit/mobile-390/cosmetics--seller-panel.png",
-    "visual-audit/mobile-390/fashion--product.png",
+    "visual-audit/mobile-390/cosmetics--product.png",
     "visual-audit/mobile-390/shoes--store.png",
-    "visual-audit/mobile-390/fashion--seller-panel.png",
-    "visual-audit/mobile-390/cosmetics--buyer-account.png",
+    "visual-audit/mobile-390/cosmetics--seller-panel.png",
     "visual-audit/mobile-390/shoes--seller-panel.png",
+    "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/jewelry--store.png",
-    "visual-audit/mobile-390/fashion--buyer-account.png",
-    "visual-audit/mobile-390/jewelry--ai-open.png",
     "visual-audit/mobile-390/shoes--buyer-account.png",
+    "visual-audit/mobile-390/jewelry--ai-open.png",
     "visual-audit/mobile-390/kids--store.png",
-    "visual-audit/mobile-390/jewelry--product.png",
-    "visual-audit/mobile-390/home--store.png",
-    "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/fashion--product.png",
+    "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/kids--seller-panel.png",
-    "visual-audit/mobile-390/home--seller-panel.png",
-    "visual-audit/mobile-390/jewelry--buyer-account.png",
+    "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
-    "visual-audit/mobile-390/home--buyer-account.png",
+    "visual-audit/mobile-390/home--store.png",
     "visual-audit/mobile-390/tableware--store.png",
+    "visual-audit/mobile-390/jewelry--product.png",
+    "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/home--seller-panel.png",
+    "visual-audit/mobile-390/tableware--seller-panel.png",
+    "visual-audit/mobile-390/jewelry--buyer-account.png",
+    "visual-audit/mobile-390/home--buyer-account.png",
+    "visual-audit/mobile-390/tableware--buyer-account.png",
     "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/plumbing--store.png",
-    "visual-audit/mobile-390/tableware--seller-panel.png",
-    "visual-audit/mobile-390/lighting--seller-panel.png",
-    "visual-audit/mobile-390/tableware--buyer-account.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
-    "visual-audit/mobile-390/lighting--buyer-account.png",
     "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/plumbing--buyer-account.png",
-    "visual-audit/mobile-390/building--store.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
+    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
+    "visual-audit/mobile-390/lighting--buyer-account.png",
+    "visual-audit/mobile-390/doors--buyer-account.png",
+    "visual-audit/mobile-390/building--store.png",
     "visual-audit/mobile-390/tools--store.png",
     "visual-audit/mobile-390/building--seller-panel.png",
-    "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/tools--seller-panel.png",
+    "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/building--buyer-account.png",
-    "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/tools--buyer-account.png",
+    "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/pets--store.png",
     "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/pets--seller-panel.png",
+    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/sport--seller-panel.png",
-    "visual-audit/mobile-390/flowers--buyer-account.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/flowers--buyer-account.png",
+    "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/gifts--store.png",
-    "visual-audit/mobile-390/books--seller-panel.png",
-    "visual-audit/mobile-390/gifts--seller-panel.png",
-    "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/gifts--buyer-account.png",
     "visual-audit/mobile-390/coffee--store.png",
-    "visual-audit/mobile-390/bakery--store.png",
-    "visual-audit/mobile-390/sport--buyer-account.png",
+    "visual-audit/mobile-390/gifts--seller-panel.png",
+    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/coffee--seller-panel.png",
+    "visual-audit/mobile-390/books--buyer-account.png",
+    "visual-audit/mobile-390/coffee--buyer-account.png",
+    "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
-    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
+    "visual-audit/mobile-390/gifts--buyer-account.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
+    "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/optics--store.png",
-    "visual-audit/mobile-390/meat-fish--buyer-account.png",
-    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
+    "visual-audit/mobile-390/optics--seller-panel.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
@@ -252,19 +252,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 590.3999999999942
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10461.200000000012
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10592.899999999994
+          "time": 415.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -507,7 +499,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 277.4000000000233
+          "time": 393.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -657,15 +649,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 314.4000000000233
+          "time": 452.5
         },
         {
           "value": 0.004325883487654321,
-          "time": 10184.200000000012
+          "time": 10285.399999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10295.300000000047
+          "time": 10448.299999999988
         }
       ],
       "nextErrorOverlay": false,
@@ -811,19 +803,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 327.79999999998836
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10199.899999999994
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10327.299999999988
+          "time": 387.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -969,19 +953,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 288.70000000001164
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10170
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10303.400000000023
+          "time": 434.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -1224,7 +1200,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 569
+          "time": 502.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1374,15 +1350,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 290.29999999998836
+          "time": 437.80000000001746
         },
         {
           "value": 0.004325883487654321,
-          "time": 10141.700000000012
+          "time": 10252.200000000012
         },
         {
           "value": 0.004325883487654321,
-          "time": 10280.899999999965
+          "time": 10416.300000000017
         }
       ],
       "nextErrorOverlay": false,
@@ -1558,19 +1534,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 269
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10148.600000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10269.299999999988
+          "time": 551.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -1720,19 +1688,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 321.8999999999942
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10199
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10319.299999999988
+          "time": 391.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1878,19 +1838,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 437.79999999998836
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10302.799999999988
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10426
+          "time": 1006.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -2040,15 +1992,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 294.3999999999942
+          "time": 506.09999999999127
         },
         {
           "value": 0.004325883487654321,
-          "time": 10169.800000000017
+          "time": 10329.899999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10288.300000000017
+          "time": 10734
         }
       ],
       "nextErrorOverlay": false,
@@ -2323,7 +2275,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 302.5
+          "time": 1272.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -2473,19 +2425,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 332.20000000001164
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10206.400000000023
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10331.800000000017
+          "time": 456.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -2631,11 +2575,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 274.70000000001164
+          "time": 693.5
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10274.5
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10460.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -2910,7 +2862,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 266.3000000000029
+          "time": 422.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -3060,19 +3012,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 275
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10150.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10307.800000000017
+          "time": 428.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -3222,15 +3166,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 403.6000000000058
+          "time": 410.80000000001746
         },
         {
           "value": 0.004325883487654321,
-          "time": 10262.399999999994
+          "time": 10278.300000000017
         },
         {
           "value": 0.004325883487654321,
-          "time": 10394
+          "time": 10442.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -3361,7 +3305,7 @@
       "layoutShifts": [
         {
           "value": 0.14558128074363427,
-          "time": 1370.4000000000087
+          "time": 1542.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3543,7 +3487,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 285.6000000000058
+          "time": 466.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3693,11 +3637,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 787
+          "time": 429.5
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10265.799999999988
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10492.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -3843,11 +3795,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 286.6000000000058
+          "time": 421.70000000001164
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10227.300000000017
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10420.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -3993,19 +3953,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 265
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10143.099999999977
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10323
+          "time": 429.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -4155,7 +4107,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 285
+          "time": 444.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4313,19 +4265,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 270.29999999998836
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10146.299999999988
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10270.5
+          "time": 436.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4471,19 +4415,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 400.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10265.700000000012
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10396.5
+          "time": 401.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4726,7 +4662,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 289.1000000000058
+          "time": 463.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -4872,19 +4808,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 312.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10185.900000000023
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10318
+          "time": 412.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -5034,15 +4962,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 292.29999999998836
+          "time": 485.8999999999942
         },
         {
           "value": 0.004325883487654321,
-          "time": 10177.5
+          "time": 10295.899999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10301.100000000006
+          "time": 10495.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -5188,19 +5116,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 289.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10171.099999999977
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10307.299999999988
+          "time": 415.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -5346,19 +5266,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 345.19999999998254
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10202.599999999977
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10316.799999999988
+          "time": 463.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -5504,11 +5416,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 354.29999999998836
+          "time": 542.8000000000175
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10375.600000000006
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10558.800000000017
         }
       ],
       "nextErrorOverlay": false,
@@ -8279,7 +8199,7 @@
       "layoutShifts": [
         {
           "value": 0.07291286912139994,
-          "time": 366.29999999998836
+          "time": 491.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -9288,9 +9208,42 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "trackCommerceEvent TypeError: Failed to fetch",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
+      ]
     },
     {
       "state": "premium-tech--buyer-account",
@@ -9304,19 +9257,52 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--buyer-account.png",
       "title": "Кабинет покупателя · Витрина",
       "finalUrl": "https://www.delaemdigital.com/buyer?store=premium-tech",
-      "textLength": 388,
+      "textLength": 18,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 844,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "trackCommerceEvent TypeError: Failed to fetch",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
+      ]
     },
     {
       "state": "premium-tech--seller-panel",
@@ -9330,10 +9316,10 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--seller-panel.png",
       "title": "Панель продавца — NEXO · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech/manage",
-      "textLength": 1403,
+      "textLength": 1432,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3220,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9386,12 +9372,58 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.07547891185317904,
+      "layoutShifts": [
+        {
+          "value": 0.025159637284393015,
+          "time": 852.1999999999825
+        },
+        {
+          "value": 0.025159637284393015,
+          "time": 10416.299999999988
+        },
+        {
+          "value": 0.025159637284393015,
+          "time": 10452.899999999994
+        }
+      ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "trackCommerceEvent TypeError: Failed to fetch",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
+      ]
     },
     {
       "state": "premium-tech--store",
@@ -9422,9 +9454,42 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "trackCommerceEvent TypeError: Failed to fetch",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
+        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
+      ]
     },
     {
       "state": "shoes--buyer-account",
@@ -10096,7 +10161,7 @@
     "statusFailures": 8,
     "horizontalOverflow": 0,
     "brokenImages": 0,
-    "browserErrors": 24,
+    "browserErrors": 83,
     "highCls": 1
   }
 }
