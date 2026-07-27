@@ -1,0 +1,88 @@
+name: Vitrina Visual Audit
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: Audit scope
+        required: false
+        default: full
+        type: choice
+        options:
+          - smoke
+          - full
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'tools/vitrina-visual-audit/**'
+      - '.github/workflows/vitrina-visual-audit.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vitrina-visual-audit
+  cancel-in-progress: true
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    env:
+      AUDIT_URL: https://www.delaemdigital.com
+      AUDIT_SCOPE: ${{ inputs.scope || 'full' }}
+      AUDIT_DIR: visual-audit
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install audit dependencies
+        working-directory: tools/vitrina-visual-audit
+        run: npm install --no-audit --no-fund
+
+      - name: Install Chromium
+        working-directory: tools/vitrina-visual-audit
+        run: npx playwright install --with-deps chromium
+
+      - name: Capture production
+        run: node tools/vitrina-visual-audit/audit.mjs
+
+      - name: Publish latest visual state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -d visual-audit ]; then
+            echo "No visual-audit directory was produced"
+            exit 1
+          fi
+          rm -rf docs/vitrina-visual-audit
+          mkdir -p docs/vitrina-visual-audit
+          cp -R visual-audit/. docs/vitrina-visual-audit/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/vitrina-visual-audit
+          if git diff --cached --quiet; then
+            echo "No visual changes to publish"
+          else
+            git commit -m "Update Vitrina visual audit"
+            git push
+          fi
+
+      - name: Upload complete audit artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vitrina-visual-audit-${{ github.run_number }}
+          path: visual-audit
+          retention-days: 30
+          if-no-files-found: error
