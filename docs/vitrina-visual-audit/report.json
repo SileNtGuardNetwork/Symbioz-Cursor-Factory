@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-27T11:37:32.048Z",
+  "generatedAt": "2026-07-27T15:11:41.741Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/home.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
     "visual-audit/desktop-1440/furniture--store.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
-    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--ai-open.png",
+    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
-    "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/furniture--buyer-account.png",
+    "visual-audit/desktop-1440/farm--store.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/cars--store.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
@@ -30,178 +30,178 @@
     "visual-audit/desktop-1440/tires--seller-panel.png",
     "visual-audit/desktop-1440/cosmetics--store.png",
     "visual-audit/desktop-1440/fashion--store.png",
-    "visual-audit/desktop-1440/tires--buyer-account.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
+    "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
     "visual-audit/desktop-1440/fashion--product.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/shoes--store.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
-    "visual-audit/desktop-1440/fashion--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
-    "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/jewelry--ai-open.png",
     "visual-audit/desktop-1440/cosmetics--buyer-account.png",
-    "visual-audit/desktop-1440/jewelry--product.png",
-    "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/fashion--buyer-account.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--store.png",
     "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/shoes--buyer-account.png",
-    "visual-audit/desktop-1440/jewelry--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--ai-open.png",
+    "visual-audit/desktop-1440/jewelry--product.png",
     "visual-audit/desktop-1440/home--store.png",
-    "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/tableware--seller-panel.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/tableware--buyer-account.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--store.png",
+    "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--seller-panel.png",
-    "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
-    "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/tableware--store.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--store.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--seller-panel.png",
+    "visual-audit/desktop-1440/plumbing--store.png",
+    "visual-audit/desktop-1440/tableware--buyer-account.png",
+    "visual-audit/desktop-1440/lighting--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/doors--store.png",
+    "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/building--store.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
     "visual-audit/desktop-1440/doors--seller-panel.png",
-    "visual-audit/desktop-1440/building--store.png",
-    "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/doors--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/building--seller-panel.png",
     "visual-audit/desktop-1440/tools--store.png",
-    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
-    "visual-audit/desktop-1440/flowers--seller-panel.png",
-    "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/pets--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
-    "visual-audit/desktop-1440/pets--buyer-account.png",
+    "visual-audit/desktop-1440/pets--store.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
+    "visual-audit/desktop-1440/flowers--seller-panel.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/pets--seller-panel.png",
     "visual-audit/desktop-1440/sport--store.png",
+    "visual-audit/desktop-1440/pets--buyer-account.png",
     "visual-audit/desktop-1440/books--store.png",
-    "visual-audit/desktop-1440/gifts--store.png",
-    "visual-audit/desktop-1440/books--seller-panel.png",
-    "visual-audit/desktop-1440/gifts--seller-panel.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
-    "visual-audit/desktop-1440/gifts--buyer-account.png",
-    "visual-audit/desktop-1440/coffee--store.png",
     "visual-audit/desktop-1440/sport--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--store.png",
+    "visual-audit/desktop-1440/gifts--store.png",
     "visual-audit/desktop-1440/sport--buyer-account.png",
-    "visual-audit/desktop-1440/meat-fish--store.png",
-    "visual-audit/desktop-1440/meat-fish--seller-panel.png",
+    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
+    "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/gifts--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--store.png",
+    "visual-audit/desktop-1440/gifts--buyer-account.png",
     "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/meat-fish--store.png",
     "visual-audit/desktop-1440/coffee--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--store.png",
+    "visual-audit/desktop-1440/bakery--seller-panel.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--store.png",
+    "visual-audit/desktop-1440/meat-fish--seller-panel.png",
     "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/b2b-wholesale--store.png",
+    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/optics--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
-    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
-    "visual-audit/mobile-390/home.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/mobile-390/electronics--store.png",
-    "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/furniture--ai-open.png",
-    "visual-audit/mobile-390/electronics--seller-panel.png",
-    "visual-audit/mobile-390/electronics--buyer-account.png",
+    "visual-audit/mobile-390/home.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/premium-tech--store.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--ai-open.png",
+    "visual-audit/mobile-390/electronics--store.png",
+    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
+    "visual-audit/mobile-390/furniture--store.png",
+    "visual-audit/mobile-390/electronics--buyer-account.png",
+    "visual-audit/mobile-390/furniture--ai-open.png",
     "visual-audit/mobile-390/farm--store.png",
-    "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/furniture--product.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
-    "visual-audit/mobile-390/furniture--seller-panel.png",
-    "visual-audit/mobile-390/cars--store.png",
-    "visual-audit/mobile-390/cars--ai-open.png",
-    "visual-audit/mobile-390/furniture--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--seller-panel.png",
-    "visual-audit/mobile-390/auto-parts--store.png",
-    "visual-audit/mobile-390/auto-parts--seller-panel.png",
-    "visual-audit/mobile-390/auto-parts--buyer-account.png",
-    "visual-audit/mobile-390/cars--seller-panel.png",
-    "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/premium-tech--buyer-account.png",
-    "visual-audit/mobile-390/cars--buyer-account.png",
-    "visual-audit/mobile-390/tires--seller-panel.png",
+    "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/cars--store.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/cars--ai-open.png",
+    "visual-audit/mobile-390/cars--seller-panel.png",
+    "visual-audit/mobile-390/auto-parts--store.png",
+    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/auto-parts--seller-panel.png",
+    "visual-audit/mobile-390/furniture--buyer-account.png",
+    "visual-audit/mobile-390/auto-parts--buyer-account.png",
+    "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/fashion--store.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
-    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/tires--seller-panel.png",
+    "visual-audit/mobile-390/cars--buyer-account.png",
     "visual-audit/mobile-390/cosmetics--product.png",
-    "visual-audit/mobile-390/shoes--store.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
+    "visual-audit/mobile-390/fashion--store.png",
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
-    "visual-audit/mobile-390/shoes--seller-panel.png",
+    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/jewelry--store.png",
-    "visual-audit/mobile-390/shoes--buyer-account.png",
+    "visual-audit/mobile-390/shoes--seller-panel.png",
     "visual-audit/mobile-390/jewelry--ai-open.png",
+    "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/kids--store.png",
     "visual-audit/mobile-390/fashion--product.png",
     "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
-    "visual-audit/mobile-390/home--store.png",
-    "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/jewelry--product.png",
     "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/tableware--store.png",
+    "visual-audit/mobile-390/jewelry--buyer-account.png",
     "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
-    "visual-audit/mobile-390/jewelry--buyer-account.png",
+    "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
-    "visual-audit/mobile-390/lighting--store.png",
+    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
-    "visual-audit/mobile-390/lighting--seller-panel.png",
-    "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
-    "visual-audit/mobile-390/doors--buyer-account.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
+    "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/building--store.png",
-    "visual-audit/mobile-390/tools--store.png",
-    "visual-audit/mobile-390/building--seller-panel.png",
-    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/plumbing--buyer-account.png",
-    "visual-audit/mobile-390/building--buyer-account.png",
-    "visual-audit/mobile-390/tools--buyer-account.png",
+    "visual-audit/mobile-390/doors--buyer-account.png",
+    "visual-audit/mobile-390/building--seller-panel.png",
+    "visual-audit/mobile-390/tools--store.png",
     "visual-audit/mobile-390/flowers--store.png",
-    "visual-audit/mobile-390/pets--store.png",
-    "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/pets--seller-panel.png",
+    "visual-audit/mobile-390/building--buyer-account.png",
+    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/flowers--seller-panel.png",
-    "visual-audit/mobile-390/sport--seller-panel.png",
-    "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/pets--store.png",
+    "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/flowers--buyer-account.png",
-    "visual-audit/mobile-390/sport--buyer-account.png",
+    "visual-audit/mobile-390/pets--seller-panel.png",
+    "visual-audit/mobile-390/sport--store.png",
     "visual-audit/mobile-390/books--store.png",
+    "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/sport--seller-panel.png",
+    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/gifts--store.png",
+    "visual-audit/mobile-390/sport--buyer-account.png",
+    "visual-audit/mobile-390/books--buyer-account.png",
     "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
-    "visual-audit/mobile-390/books--seller-panel.png",
-    "visual-audit/mobile-390/coffee--seller-panel.png",
-    "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/bakery--store.png",
-    "visual-audit/mobile-390/meat-fish--store.png",
-    "visual-audit/mobile-390/bakery--seller-panel.png",
-    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
+    "visual-audit/mobile-390/coffee--seller-panel.png",
+    "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/meat-fish--store.png",
+    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
-    "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--store.png",
+    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/optics--store.png",
-    "visual-audit/mobile-390/b2b-wholesale--store.png",
+    "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--seller-panel.png",
-    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
     "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
+    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
@@ -256,7 +256,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 415.3999999999942
+          "time": 353.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -495,11 +495,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 393.30000000001746
+          "time": 271.79999999998836
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10096.600000000035
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10278.100000000035
         }
       ],
       "nextErrorOverlay": false,
@@ -645,19 +653,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 452.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10285.399999999994
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10448.299999999988
+          "time": 347
         }
       ],
       "nextErrorOverlay": false,
@@ -807,7 +807,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 387.70000000001164
+          "time": 345.5
         }
       ],
       "nextErrorOverlay": false,
@@ -827,10 +827,10 @@
       "screenshotPath": "visual-audit/desktop-1440/books--store.png",
       "title": "POLKA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/books",
-      "textLength": 3405,
+      "textLength": 3394,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5099,
+      "scrollHeight": 5050,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -957,7 +957,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 434.0999999999767
+          "time": 376.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1070,10 +1070,10 @@
       "screenshotPath": "visual-audit/desktop-1440/cars--ai-open.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3647,
+      "textLength": 3617,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5223,
+      "scrollHeight": 5125,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1200,7 +1200,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 502.79999999998836
+          "time": 620.2999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -1220,10 +1220,10 @@
       "screenshotPath": "visual-audit/desktop-1440/cars--store.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3302,
+      "textLength": 3272,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5223,
+      "scrollHeight": 5125,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1346,19 +1346,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 437.80000000001746
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10252.200000000012
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10416.300000000017
+          "time": 435.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1378,10 +1370,10 @@
       "screenshotPath": "visual-audit/desktop-1440/coffee--store.png",
       "title": "ROAST — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/coffee",
-      "textLength": 3221,
+      "textLength": 3192,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5294,
+      "scrollHeight": 5245,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1538,7 +1530,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 551.3999999999942
+          "time": 797.7999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -1560,10 +1552,10 @@
       "screenshotPath": "visual-audit/desktop-1440/cosmetics--store.png",
       "title": "LUMI — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cosmetics",
-      "textLength": 3332,
+      "textLength": 3319,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5109,
+      "scrollHeight": 5060,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1692,7 +1684,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 391.1000000000058
+          "time": 473.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -1712,10 +1704,10 @@
       "screenshotPath": "visual-audit/desktop-1440/doors--store.png",
       "title": "PORTA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/doors",
-      "textLength": 3284,
+      "textLength": 3267,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 6122,
+      "scrollHeight": 6073,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1838,11 +1830,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 1006.3999999999942
+          "time": 315
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10124.899999999994
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10292.599999999977
         }
       ],
       "nextErrorOverlay": false,
@@ -1862,10 +1862,10 @@
       "screenshotPath": "visual-audit/desktop-1440/electronics--store.png",
       "title": "VOLT — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/electronics",
-      "textLength": 3470,
+      "textLength": 3450,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5139,
+      "scrollHeight": 5090,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -1992,15 +1992,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 506.09999999999127
+          "time": 546.9000000000233
         },
         {
           "value": 0.004325883487654321,
-          "time": 10329.899999999994
+          "time": 10315.800000000017
         },
         {
           "value": 0.004325883487654321,
-          "time": 10734
+          "time": 10728.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -2275,7 +2275,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 1272.6000000000058
+          "time": 575.8999999999651
         }
       ],
       "nextErrorOverlay": false,
@@ -2429,7 +2429,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 456.30000000001746
+          "time": 455.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -2579,15 +2579,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 693.5
+          "time": 401.5999999999767
         },
         {
           "value": 0.004325883487654321,
-          "time": 10274.5
+          "time": 10220.799999999988
         },
         {
           "value": 0.004325883487654321,
-          "time": 10460.200000000012
+          "time": 10425.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -2607,10 +2607,10 @@
       "screenshotPath": "visual-audit/desktop-1440/food-delivery--store.png",
       "title": "EAT. — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/food-delivery",
-      "textLength": 3192,
+      "textLength": 3184,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5294,
+      "scrollHeight": 5245,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -2700,7 +2700,7 @@
       "screenshotPath": "visual-audit/desktop-1440/furniture--ai-open.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3551,
+      "textLength": 3543,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6163,
@@ -2862,7 +2862,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 422.8000000000029
+          "time": 375.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -2884,7 +2884,7 @@
       "screenshotPath": "visual-audit/desktop-1440/furniture--store.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3206,
+      "textLength": 3198,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6163,
@@ -3016,7 +3016,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 428.20000000001164
+          "time": 289.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3162,19 +3162,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 410.80000000001746
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10278.300000000017
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10442.200000000012
+          "time": 304.69999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -3287,27 +3279,15 @@
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 4990,
+      "textLength": 2961,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 8887,
+      "scrollHeight": 4251,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "div",
-          "className": "PremiumShowroomHero-module__ICR-HG__ambientGlow",
-          "left": 674,
-          "right": 1442
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14558128074363427,
-      "layoutShifts": [
-        {
-          "value": 0.14558128074363427,
-          "time": 1542.1000000000058
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -3487,7 +3467,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 466.1000000000058
+          "time": 275.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3641,15 +3621,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 429.5
+          "time": 323.1000000000349
         },
         {
           "value": 0.004325883487654321,
-          "time": 10265.799999999988
+          "time": 10127.300000000047
         },
         {
           "value": 0.004325883487654321,
-          "time": 10492.600000000006
+          "time": 10301.400000000023
         }
       ],
       "nextErrorOverlay": false,
@@ -3669,10 +3649,10 @@
       "screenshotPath": "visual-audit/desktop-1440/kids--store.png",
       "title": "PICO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/kids",
-      "textLength": 3382,
+      "textLength": 3386,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5266,
+      "scrollHeight": 5217,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -3795,19 +3775,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 421.70000000001164
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10227.300000000017
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10420.600000000006
+          "time": 330.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -3827,10 +3799,10 @@
       "screenshotPath": "visual-audit/desktop-1440/lighting--store.png",
       "title": "LUX — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/lighting",
-      "textLength": 3056,
+      "textLength": 3025,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 6455,
+      "scrollHeight": 6406,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -3957,7 +3929,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 429.19999999998254
+          "time": 444.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4107,7 +4079,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 444.5
+          "time": 383.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4127,10 +4099,10 @@
       "screenshotPath": "visual-audit/desktop-1440/optics--store.png",
       "title": "VIZOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/optics",
-      "textLength": 3236,
+      "textLength": 3213,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5263,
+      "scrollHeight": 5214,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -4269,7 +4241,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 436.30000000001746
+          "time": 313.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4289,10 +4261,10 @@
       "screenshotPath": "visual-audit/desktop-1440/pets--store.png",
       "title": "LAPA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/pets",
-      "textLength": 3257,
+      "textLength": 3254,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5242,
+      "scrollHeight": 5144,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -4394,7 +4366,28 @@
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "plumbing--seller-panel",
@@ -4414,18 +4407,44 @@
       "scrollHeight": 1696,
       "horizontalOverflow": false,
       "overflowElements": [],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3"
+      ],
       "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 401.30000000001746
+          "time": 296.20000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "plumbing--store",
@@ -4512,13 +4531,52 @@
           "right": 1917
         }
       ],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11"
+      ],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "premium-tech--ai-open",
@@ -4662,7 +4720,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 463.8000000000029
+          "time": 888.3000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -4812,7 +4870,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 412.3000000000029
+          "time": 363.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -4832,10 +4890,10 @@
       "screenshotPath": "visual-audit/desktop-1440/shoes--store.png",
       "title": "FORMA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/shoes",
-      "textLength": 3315,
+      "textLength": 3313,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5242,
+      "scrollHeight": 5193,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -4937,7 +4995,28 @@
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "sport--seller-panel",
@@ -4957,26 +5036,44 @@
       "scrollHeight": 1696,
       "horizontalOverflow": false,
       "overflowElements": [],
-      "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3"
+      ],
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 485.8999999999942
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10295.899999999994
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10495.200000000012
+          "time": 326.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "sport--store",
@@ -4990,10 +5087,10 @@
       "screenshotPath": "visual-audit/desktop-1440/sport--store.png",
       "title": "PULSE — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/sport",
-      "textLength": 3165,
+      "textLength": 3122,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5175,
+      "scrollHeight": 5126,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -5063,13 +5160,52 @@
           "right": 1917
         }
       ],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11"
+      ],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "tableware--buyer-account",
@@ -5120,7 +5256,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 415.29999999998836
+          "time": 823.1000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -5270,7 +5406,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 463.3000000000029
+          "time": 327.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -5416,19 +5552,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 542.8000000000175
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10375.600000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10558.800000000017
+          "time": 312.69999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -5448,10 +5576,10 @@
       "screenshotPath": "visual-audit/desktop-1440/tools--store.png",
       "title": "PROTO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tools",
-      "textLength": 3396,
+      "textLength": 3428,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 5171,
+      "scrollHeight": 5073,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -5544,7 +5672,7 @@
       "textLength": 381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -5570,7 +5698,7 @@
       "textLength": 1407,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -5642,17 +5770,17 @@
       "screenshotPath": "visual-audit/mobile-390/auto-parts--store.png",
       "title": "TORQUE — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/auto-parts",
-      "textLength": 3509,
+      "textLength": 2789,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13268,
+      "scrollHeight": 8732,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 333,
-          "right": 415
+          "left": 317,
+          "right": 399
         }
       ],
       "brokenImages": [],
@@ -5675,17 +5803,17 @@
       "screenshotPath": "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
       "title": "BULK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
-      "textLength": 3627,
+      "textLength": 3039,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13325,
+      "scrollHeight": 8759,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 306,
-          "right": 425
+          "left": 290,
+          "right": 409
         }
       ],
       "brokenImages": [],
@@ -5711,7 +5839,7 @@
       "textLength": 376,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -5737,7 +5865,7 @@
       "textLength": 1395,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -5809,17 +5937,17 @@
       "screenshotPath": "visual-audit/mobile-390/b2b-wholesale--store.png",
       "title": "BULK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
-      "textLength": 3285,
+      "textLength": 2697,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13325,
+      "scrollHeight": 8759,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 306,
-          "right": 425
+          "left": 290,
+          "right": 409
         }
       ],
       "brokenImages": [],
@@ -5845,7 +5973,7 @@
       "textLength": 381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -5871,7 +5999,7 @@
       "textLength": 1392,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -5943,10 +6071,10 @@
       "screenshotPath": "visual-audit/mobile-390/bakery--store.png",
       "title": "CRUMB — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/bakery",
-      "textLength": 3238,
+      "textLength": 2590,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8679,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -5972,7 +6100,7 @@
       "textLength": 374,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -5998,7 +6126,7 @@
       "textLength": 1411,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6070,19 +6198,12 @@
       "screenshotPath": "visual-audit/mobile-390/books--store.png",
       "title": "POLKA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/books",
-      "textLength": 3361,
+      "textLength": 2678,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13225,
+      "scrollHeight": 8673,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 306,
-          "right": 397
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -6106,7 +6227,7 @@
       "textLength": 383,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6132,7 +6253,7 @@
       "textLength": 1391,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6204,10 +6325,10 @@
       "screenshotPath": "visual-audit/mobile-390/building--store.png",
       "title": "STENA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/building",
-      "textLength": 3132,
+      "textLength": 2604,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13333,
+      "scrollHeight": 8782,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6230,19 +6351,12 @@
       "screenshotPath": "visual-audit/mobile-390/cars--ai-open.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3596,
+      "textLength": 3038,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13288,
+      "scrollHeight": 8701,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 380,
-          "right": 481
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -6266,7 +6380,7 @@
       "textLength": 378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6292,7 +6406,7 @@
       "textLength": 1384,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6364,19 +6478,12 @@
       "screenshotPath": "visual-audit/mobile-390/cars--store.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3254,
+      "textLength": 2696,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13288,
+      "scrollHeight": 8701,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 380,
-          "right": 481
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -6400,7 +6507,7 @@
       "textLength": 379,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6426,7 +6533,7 @@
       "textLength": 1397,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6498,10 +6605,10 @@
       "screenshotPath": "visual-audit/mobile-390/coffee--store.png",
       "title": "ROAST — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/coffee",
-      "textLength": 3172,
+      "textLength": 2591,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13309,
+      "scrollHeight": 8722,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6527,7 +6634,7 @@
       "textLength": 378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6583,7 +6690,7 @@
       "textLength": 1391,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6657,10 +6764,10 @@
       "screenshotPath": "visual-audit/mobile-390/cosmetics--store.png",
       "title": "LUMI — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cosmetics",
-      "textLength": 3284,
+      "textLength": 2587,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13306,
+      "scrollHeight": 8688,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6688,7 +6795,7 @@
       "textLength": 381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6714,7 +6821,7 @@
       "textLength": 1389,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6786,19 +6893,12 @@
       "screenshotPath": "visual-audit/mobile-390/doors--store.png",
       "title": "PORTA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/doors",
-      "textLength": 3233,
+      "textLength": 2640,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13291,
+      "scrollHeight": 8724,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 369,
-          "right": 452
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -6822,7 +6922,7 @@
       "textLength": 380,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6848,7 +6948,7 @@
       "textLength": 1418,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -6920,19 +7020,12 @@
       "screenshotPath": "visual-audit/mobile-390/electronics--store.png",
       "title": "VOLT — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/electronics",
-      "textLength": 3420,
+      "textLength": 2752,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13277,
+      "scrollHeight": 8751,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 358,
-          "right": 444
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -6956,7 +7049,7 @@
       "textLength": 388,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -6982,7 +7075,7 @@
       "textLength": 1394,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7054,17 +7147,17 @@
       "screenshotPath": "visual-audit/mobile-390/farm--store.png",
       "title": "ZËRNO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/farm",
-      "textLength": 3355,
+      "textLength": 2755,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8776,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 352,
-          "right": 420
+          "left": 341,
+          "right": 404
         }
       ],
       "brokenImages": [],
@@ -7090,7 +7183,7 @@
       "textLength": 3228,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 12050,
+      "scrollHeight": 8464,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7137,7 +7230,7 @@
       "textLength": 375,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7193,7 +7286,7 @@
       "textLength": 1389,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7270,7 +7363,7 @@
       "textLength": 2886,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 12050,
+      "scrollHeight": 8464,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7317,7 +7410,7 @@
       "textLength": 374,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7343,7 +7436,7 @@
       "textLength": 1392,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7415,17 +7508,17 @@
       "screenshotPath": "visual-audit/mobile-390/flowers--store.png",
       "title": "FLEUR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/flowers",
-      "textLength": 3335,
+      "textLength": 2651,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13386,
+      "scrollHeight": 8769,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 353,
-          "right": 432
+          "left": 337,
+          "right": 416
         }
       ],
       "brokenImages": [],
@@ -7451,7 +7544,7 @@
       "textLength": 381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7477,7 +7570,7 @@
       "textLength": 1377,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7549,10 +7642,10 @@
       "screenshotPath": "visual-audit/mobile-390/food-delivery--store.png",
       "title": "EAT. — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/food-delivery",
-      "textLength": 3141,
+      "textLength": 2509,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8644,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7575,10 +7668,10 @@
       "screenshotPath": "visual-audit/mobile-390/furniture--ai-open.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3503,
+      "textLength": 2907,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13217,
+      "scrollHeight": 8630,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7606,7 +7699,7 @@
       "textLength": 375,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7662,7 +7755,7 @@
       "textLength": 1376,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7736,10 +7829,10 @@
       "screenshotPath": "visual-audit/mobile-390/furniture--store.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3161,
+      "textLength": 2565,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13217,
+      "scrollHeight": 8630,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7767,7 +7860,7 @@
       "textLength": 376,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7793,7 +7886,7 @@
       "textLength": 1399,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7865,17 +7958,17 @@
       "screenshotPath": "visual-audit/mobile-390/gifts--store.png",
       "title": "MOMENT — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/gifts",
-      "textLength": 3452,
+      "textLength": 2732,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13203,
+      "scrollHeight": 8651,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 350,
-          "right": 448
+          "left": 334,
+          "right": 432
         }
       ],
       "brokenImages": [],
@@ -7901,7 +7994,7 @@
       "textLength": 384,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -7927,7 +8020,7 @@
       "textLength": 1381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -7999,10 +8092,10 @@
       "screenshotPath": "visual-audit/mobile-390/home--store.png",
       "title": "SEN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/home",
-      "textLength": 3307,
+      "textLength": 2623,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13292,
+      "scrollHeight": 8705,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8025,183 +8118,244 @@
       "screenshotPath": "visual-audit/mobile-390/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 4831,
+      "textLength": 1608,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13752,
+      "scrollHeight": 6488,
       "horizontalOverflow": false,
       "overflowElements": [
         {
-          "tag": "button",
-          "className": "",
-          "left": 294,
-          "right": 545
+          "tag": "article",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeCard PremiumShowroomHeroArt-module__WDA5eG__storeCard PremiumShowroomHeroCommerce-module__z3TpAW__storeCard PremiumShowroomHero-module__ICR-HG__sideCard PremiumShowroomHeroArt-module__WDA5eG__sideCard",
+          "left": 197,
+          "right": 399
         },
         {
           "tag": "div",
-          "className": "",
-          "left": 361,
-          "right": 496
+          "className": "PremiumShowroomHero-module__ICR-HG__browserBar PremiumShowroomHeroArt-module__WDA5eG__browserBar PremiumShowroomHeroCommerce-module__z3TpAW__browserBar",
+          "left": 197,
+          "right": 398
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeNav PremiumShowroomHeroArt-module__WDA5eG__storeNav PremiumShowroomHeroCommerce-module__z3TpAW__storeNav",
+          "left": 197,
+          "right": 398
         },
         {
           "tag": "small",
           "className": "",
-          "left": 361,
-          "right": 496
+          "left": 385,
+          "right": 394
         },
         {
-          "tag": "strong",
-          "className": "",
-          "left": 361,
-          "right": 496
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeVisual PremiumShowroomHeroArt-module__WDA5eG__storeVisual PremiumShowroomHeroCommerce-module__z3TpAW__storeVisual",
+          "left": 197,
+          "right": 398
         },
         {
-          "tag": "svg",
+          "tag": "img",
           "className": "",
-          "left": 510,
-          "right": 528
+          "left": 196,
+          "right": 400
         },
         {
-          "tag": "path",
-          "className": "",
-          "left": 517,
-          "right": 522
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__visualShade PremiumShowroomHeroArt-module__WDA5eG__visualShade",
+          "left": 197,
+          "right": 398
         },
         {
-          "tag": "button",
-          "className": "",
-          "left": 553,
-          "right": 805
+          "tag": "div",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__categoryRail",
+          "left": 203,
+          "right": 392
         },
         {
           "tag": "span",
           "className": "",
-          "left": 570,
-          "right": 608
+          "left": 330,
+          "right": 392
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__productRail PremiumShowroomHeroArt-module__WDA5eG__productRail PremiumShowroomHeroCommerce-module__z3TpAW__productSection",
+          "left": 197,
+          "right": 398
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__productGrid",
+          "left": 202,
+          "right": 393
+        },
+        {
+          "tag": "article",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__productCard",
+          "left": 331,
+          "right": 393
         },
         {
           "tag": "div",
           "className": "",
-          "left": 620,
-          "right": 756
+          "left": 331,
+          "right": 392
         },
         {
-          "tag": "small",
+          "tag": "img",
           "className": "",
-          "left": 620,
-          "right": 756
+          "left": 331,
+          "right": 392
         },
         {
-          "tag": "strong",
-          "className": "",
-          "left": 620,
-          "right": 756
+          "tag": "article",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeCard PremiumShowroomHeroArt-module__WDA5eG__storeCard PremiumShowroomHeroCommerce-module__z3TpAW__storeCard PremiumShowroomHero-module__ICR-HG__sideCard PremiumShowroomHeroArt-module__WDA5eG__sideCard",
+          "left": -48,
+          "right": 154
         },
         {
-          "tag": "svg",
-          "className": "",
-          "left": 770,
-          "right": 788
-        },
-        {
-          "tag": "path",
-          "className": "",
-          "left": 777,
-          "right": 781
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 813,
-          "right": 1065
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__browserBar PremiumShowroomHeroArt-module__WDA5eG__browserBar PremiumShowroomHeroCommerce-module__z3TpAW__browserBar",
+          "left": -47,
+          "right": 154
         },
         {
           "tag": "span",
           "className": "",
-          "left": 830,
-          "right": 868
+          "left": -39,
+          "right": -19
+        },
+        {
+          "tag": "i",
+          "className": "",
+          "left": -39,
+          "right": -35
+        },
+        {
+          "tag": "i",
+          "className": "",
+          "left": -31,
+          "right": -27
+        },
+        {
+          "tag": "i",
+          "className": "",
+          "left": -23,
+          "right": -19
         },
         {
           "tag": "div",
-          "className": "",
-          "left": 880,
-          "right": 1016
-        },
-        {
-          "tag": "small",
-          "className": "",
-          "left": 880,
-          "right": 1016
+          "className": "PremiumShowroomHero-module__ICR-HG__storeNav PremiumShowroomHeroArt-module__WDA5eG__storeNav PremiumShowroomHeroCommerce-module__z3TpAW__storeNav",
+          "left": -47,
+          "right": 154
         },
         {
           "tag": "strong",
           "className": "",
-          "left": 880,
-          "right": 1016
+          "left": -37,
+          "right": 90
         },
         {
-          "tag": "svg",
-          "className": "",
-          "left": 1030,
-          "right": 1048
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeVisual PremiumShowroomHeroArt-module__WDA5eG__storeVisual PremiumShowroomHeroCommerce-module__z3TpAW__storeVisual",
+          "left": -47,
+          "right": 154
         },
         {
-          "tag": "path",
+          "tag": "img",
           "className": "",
-          "left": 1037,
-          "right": 1041
+          "left": -49,
+          "right": 155
         },
         {
-          "tag": "button",
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__visualShade PremiumShowroomHeroArt-module__WDA5eG__visualShade",
+          "left": -47,
+          "right": 154
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__storeCopy PremiumShowroomHeroArt-module__WDA5eG__storeCopy PremiumShowroomHeroCommerce-module__z3TpAW__storeCopy",
+          "left": -36,
+          "right": 94
+        },
+        {
+          "tag": "small",
           "className": "",
-          "left": 1073,
-          "right": 1325
+          "left": -36,
+          "right": -9
+        },
+        {
+          "tag": "h2",
+          "className": "",
+          "left": -36,
+          "right": 94
+        },
+        {
+          "tag": "a",
+          "className": "",
+          "left": -36,
+          "right": 49
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__categoryRail",
+          "left": -41,
+          "right": 148
         },
         {
           "tag": "span",
           "className": "",
-          "left": 1090,
-          "right": 1128
+          "left": -41,
+          "right": 21
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHero-module__ICR-HG__productRail PremiumShowroomHeroArt-module__WDA5eG__productRail PremiumShowroomHeroCommerce-module__z3TpAW__productSection",
+          "left": -47,
+          "right": 154
+        },
+        {
+          "tag": "div",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__productGrid",
+          "left": -42,
+          "right": 149
+        },
+        {
+          "tag": "article",
+          "className": "PremiumShowroomHeroCommerce-module__z3TpAW__productCard",
+          "left": -42,
+          "right": 20
         },
         {
           "tag": "div",
           "className": "",
-          "left": 1140,
-          "right": 1276
+          "left": -41,
+          "right": 20
         },
         {
-          "tag": "small",
+          "tag": "img",
           "className": "",
-          "left": 1140,
-          "right": 1276
+          "left": -41,
+          "right": 20
+        },
+        {
+          "tag": "span",
+          "className": "",
+          "left": -39,
+          "right": 17
         },
         {
           "tag": "strong",
           "className": "",
-          "left": 1140,
-          "right": 1276
-        },
-        {
-          "tag": "svg",
-          "className": "",
-          "left": 1290,
-          "right": 1308
-        },
-        {
-          "tag": "path",
-          "className": "",
-          "left": 1296,
-          "right": 1301
+          "left": -39,
+          "right": 17
         }
       ],
       "brokenImages": [],
-      "cls": 0.07291286912139994,
-      "layoutShifts": [
-        {
-          "value": 0.07291286912139994,
-          "time": 491.29999999998836
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -8219,10 +8373,10 @@
       "screenshotPath": "visual-audit/mobile-390/jewelry--ai-open.png",
       "title": "AURA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
-      "textLength": 3439,
+      "textLength": 2935,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13200,
+      "scrollHeight": 8583,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8250,7 +8404,7 @@
       "textLength": 378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8306,7 +8460,7 @@
       "textLength": 1378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8380,10 +8534,10 @@
       "screenshotPath": "visual-audit/mobile-390/jewelry--store.png",
       "title": "AURA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
-      "textLength": 3097,
+      "textLength": 2593,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13200,
+      "scrollHeight": 8583,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8411,7 +8565,7 @@
       "textLength": 383,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8437,7 +8591,7 @@
       "textLength": 1393,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8509,10 +8663,10 @@
       "screenshotPath": "visual-audit/mobile-390/kids--store.png",
       "title": "PICO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/kids",
-      "textLength": 3329,
+      "textLength": 2637,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13223,
+      "scrollHeight": 8694,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8538,7 +8692,7 @@
       "textLength": 378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8564,7 +8718,7 @@
       "textLength": 1366,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8636,19 +8790,12 @@
       "screenshotPath": "visual-audit/mobile-390/lighting--store.png",
       "title": "LUX — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/lighting",
-      "textLength": 3008,
+      "textLength": 2521,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13389,
+      "scrollHeight": 8772,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 297,
-          "right": 394
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -8672,7 +8819,7 @@
       "textLength": 380,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8698,7 +8845,7 @@
       "textLength": 1377,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8770,10 +8917,10 @@
       "screenshotPath": "visual-audit/mobile-390/meat-fish--store.png",
       "title": "PRIME — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/meat-fish",
-      "textLength": 3197,
+      "textLength": 2561,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8664,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8799,7 +8946,7 @@
       "textLength": 375,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8825,7 +8972,7 @@
       "textLength": 1394,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8897,19 +9044,12 @@
       "screenshotPath": "visual-audit/mobile-390/optics--store.png",
       "title": "VIZOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/optics",
-      "textLength": 3191,
+      "textLength": 2652,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13257,
+      "scrollHeight": 8721,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 349,
-          "right": 435
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -8933,7 +9073,7 @@
       "textLength": 378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -8959,7 +9099,7 @@
       "textLength": 1388,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9031,10 +9171,10 @@
       "screenshotPath": "visual-audit/mobile-390/pets--store.png",
       "title": "LAPA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/pets",
-      "textLength": 3209,
+      "textLength": 2546,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8694,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9060,7 +9200,7 @@
       "textLength": 379,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9069,7 +9209,25 @@
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "plumbing--seller-panel",
@@ -9086,7 +9244,7 @@
       "textLength": 1388,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9138,13 +9296,36 @@
           "right": 710
         }
       ],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3"
+      ],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "plumbing--store",
@@ -9158,26 +9339,58 @@
       "screenshotPath": "visual-audit/mobile-390/plumbing--store.png",
       "title": "NORD — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/plumbing",
-      "textLength": 3124,
+      "textLength": 2608,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13268,
+      "scrollHeight": 8696,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 328,
-          "right": 424
+          "left": 312,
+          "right": 408
         }
       ],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7"
+      ],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "premium-tech--ai-open",
@@ -9191,59 +9404,26 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--ai-open.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2920,
+      "textLength": 2657,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 10483,
+      "scrollHeight": 7407,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 330,
-          "right": 416
+          "left": 314,
+          "right": 400
         }
       ],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "trackCommerceEvent TypeError: Failed to fetch",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -9257,52 +9437,19 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--buyer-account.png",
       "title": "Кабинет покупателя · Витрина",
       "finalUrl": "https://www.delaemdigital.com/buyer?store=premium-tech",
-      "textLength": 18,
+      "textLength": 388,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 844,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "trackCommerceEvent TypeError: Failed to fetch",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--seller-panel",
@@ -9316,10 +9463,10 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--seller-panel.png",
       "title": "Панель продавца — NEXO · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech/manage",
-      "textLength": 1432,
+      "textLength": 1403,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3220,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9372,58 +9519,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.07547891185317904,
-      "layoutShifts": [
-        {
-          "value": 0.025159637284393015,
-          "time": 852.1999999999825
-        },
-        {
-          "value": 0.025159637284393015,
-          "time": 10416.299999999988
-        },
-        {
-          "value": 0.025159637284393015,
-          "time": 10452.899999999994
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "trackCommerceEvent TypeError: Failed to fetch",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--store",
@@ -9437,59 +9538,26 @@
       "screenshotPath": "visual-audit/mobile-390/premium-tech--store.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2578,
+      "textLength": 2315,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 10483,
+      "scrollHeight": 7407,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 330,
-          "right": 416
+          "left": 314,
+          "right": 400
         }
       ],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "trackCommerceEvent TypeError: Failed to fetch",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED",
-        "Access to fetch at 'https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech' from origin 'https://www.delaemdigital.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
-        "Failed to load resource: net::ERR_FAILED"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_product_variants?select=id%2Cproduct_id%2Csku%2Ctitle%2Coption_values%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=position.asc — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_products?select=id%2Cslug%2Cname%2Cdescription%2Cprice%2Cold_price%2Cstock%2Creserved%2Cimages%2Cattributes%2Ccommerce_categories%28name%29&store_id=eq.459da811-662c-4837-97be-b3aafed2dbd0&is_active=eq.true&archived_at=is.null&order=created_at.asc — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/track_commerce_event — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "POST https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/rpc/get_commerce_demo_snapshot_by_visitor — net::ERR_FAILED",
-        "GET https://kvfzybzvhorroewpwbrv.supabase.co/rest/v1/commerce_stores?select=id%2Cname%2Caccent%2Cstatus&slug=eq.premium-tech — net::ERR_FAILED"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--buyer-account",
@@ -9506,7 +9574,7 @@
       "textLength": 374,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9532,7 +9600,7 @@
       "textLength": 1378,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9604,19 +9672,12 @@
       "screenshotPath": "visual-audit/mobile-390/shoes--store.png",
       "title": "FORMA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/shoes",
-      "textLength": 3271,
+      "textLength": 2669,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13246,
+      "scrollHeight": 8649,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 333,
-          "right": 404
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -9640,7 +9701,7 @@
       "textLength": 386,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9649,7 +9710,24 @@
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "sport--seller-panel",
@@ -9666,7 +9744,7 @@
       "textLength": 1394,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9718,13 +9796,35 @@
           "right": 710
         }
       ],
-      "brokenImages": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3"
+      ],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "sport--store",
@@ -9738,26 +9838,50 @@
       "screenshotPath": "visual-audit/mobile-390/sport--store.png",
       "title": "PULSE — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/sport",
-      "textLength": 3109,
+      "textLength": 2622,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13320,
+      "scrollHeight": 8749,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 287,
-          "right": 404
-        }
+      "overflowElements": [],
+      "brokenImages": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7"
       ],
-      "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+      ]
     },
     {
       "state": "tableware--buyer-account",
@@ -9774,7 +9898,7 @@
       "textLength": 375,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9800,7 +9924,7 @@
       "textLength": 1388,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9872,10 +9996,10 @@
       "screenshotPath": "visual-audit/mobile-390/tableware--store.png",
       "title": "ATELIER 12 — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tableware",
-      "textLength": 3278,
+      "textLength": 2570,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13326,
+      "scrollHeight": 8739,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9901,7 +10025,7 @@
       "textLength": 381,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -9927,7 +10051,7 @@
       "textLength": 1393,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -9999,17 +10123,17 @@
       "screenshotPath": "visual-audit/mobile-390/tires--store.png",
       "title": "TRACK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tires",
-      "textLength": 3324,
+      "textLength": 2712,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13311,
+      "scrollHeight": 8775,
       "horizontalOverflow": false,
       "overflowElements": [
         {
           "tag": "button",
           "className": "",
-          "left": 360,
-          "right": 446
+          "left": 344,
+          "right": 430
         }
       ],
       "brokenImages": [],
@@ -10035,7 +10159,7 @@
       "textLength": 380,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 1489,
+      "scrollHeight": 1470,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -10061,7 +10185,7 @@
       "textLength": 1390,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3165,
+      "scrollHeight": 3152,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -10133,19 +10257,12 @@
       "screenshotPath": "visual-audit/mobile-390/tools--store.png",
       "title": "PROTO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tools",
-      "textLength": 3346,
+      "textLength": 2718,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 13291,
+      "scrollHeight": 8724,
       "horizontalOverflow": false,
-      "overflowElements": [
-        {
-          "tag": "button",
-          "className": "",
-          "left": 375,
-          "right": 464
-        }
-      ],
+      "overflowElements": [],
       "brokenImages": [],
       "cls": 0,
       "layoutShifts": [],
@@ -10160,8 +10277,8 @@
     "navigationFailures": 0,
     "statusFailures": 8,
     "horizontalOverflow": 0,
-    "brokenImages": 0,
-    "browserErrors": 83,
-    "highCls": 1
+    "brokenImages": 76,
+    "browserErrors": 24,
+    "highCls": 0
   }
 }
