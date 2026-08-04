@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "factoryVersion": "0.1.0-alpha.0",
+  "managedRules": [
+    ".cursor/rules/00-core.mdc",
+    ".cursor/rules/01-architecture.mdc",
+    ".cursor/rules/02-builder.mdc",
+    ".cursor/rules/03-reviewer.mdc",
+    ".cursor/rules/04-qa.mdc",
+    ".cursor/rules/05-design.mdc",
+    ".cursor/rules/06-security.mdc",
+    ".cursor/rules/07-documentation.mdc"
+  ],
+  "managedSkills": [
+    ".cursor/skills/product-brief/SKILL.md",
+    ".cursor/skills/architecture/SKILL.md",
+    ".cursor/skills/controlled-implementation/SKILL.md",
+    ".cursor/skills/browser-qa/SKILL.md",
+    ".cursor/skills/code-review/SKILL.md",
+    ".cursor/skills/security-review/SKILL.md",
+    ".cursor/skills/documentation-sync/SKILL.md",
+    ".cursor/skills/release-preparation/SKILL.md"
+  ],
+  "targetLocations": {
+    "manifest": ".symbioz/manifest.json",
+    "validator": ".symbioz/validate-installation.mjs"
+  },
+  "requiredTargetContracts": [
+    "AGENTS.md",
+    "PRODUCT.md",
+    "ARCHITECTURE.md",
+    "SECURITY.md"
+  ]
+}

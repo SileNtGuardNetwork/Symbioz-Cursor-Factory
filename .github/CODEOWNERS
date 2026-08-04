@@ -1,0 +1,10 @@
+# Default ownership
+* @SileNtGuardNetwork
+
+# High-risk contracts
+/.cursor/ @SileNtGuardNetwork
+/.github/workflows/ @SileNtGuardNetwork
+/scripts/ @SileNtGuardNetwork
+/SECURITY.md @SileNtGuardNetwork
+/ARCHITECTURE.md @SileNtGuardNetwork
+/AGENTS.md @SileNtGuardNetwork

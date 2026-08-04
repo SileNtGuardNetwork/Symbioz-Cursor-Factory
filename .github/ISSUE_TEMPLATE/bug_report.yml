@@ -1,0 +1,66 @@
+name: Bug report
+description: Report a reproducible problem in installation, Rules, Skills, MCP guidance, or validation.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include secrets, tokens, raw `.env` files, private repository content, or customer data.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Installation
+        - Cursor Rules
+        - Agent Skills
+        - MCP profile or guide
+        - Validation or CI
+        - Documentation
+        - Security
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Cursor version, Node version, and relevant tool versions.
+      placeholder: Windows 11, Cursor x.y.z, Node 20.x
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest safe sequence that reproduces the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted evidence
+      description: Paste redacted logs, screenshots, or validation output. Remove credentials and private data.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety confirmation
+      options:
+        - label: I removed secrets, credentials, private source code, and customer data.
+          required: true
+        - label: I tested this in a safe environment and did not perform an unapproved production action.
+          required: true
