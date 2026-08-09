@@ -1,160 +1,160 @@
 {
-  "generatedAt": "2026-08-09T17:45:52.708Z",
+  "generatedAt": "2026-08-09T18:59:29.215Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/home.png",
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/furniture--store.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
     "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
     "visual-audit/desktop-1440/tires--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--store.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
     "visual-audit/desktop-1440/tires--seller-panel.png",
-    "visual-audit/desktop-1440/fashion--store.png",
+    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--store.png",
+    "visual-audit/desktop-1440/fashion--store.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
-    "visual-audit/desktop-1440/fashion--product.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
     "visual-audit/desktop-1440/shoes--store.png",
+    "visual-audit/desktop-1440/fashion--product.png",
     "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
     "visual-audit/desktop-1440/cosmetics--buyer-account.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/jewelry--ai-open.png",
-    "visual-audit/desktop-1440/jewelry--product.png",
+    "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--product.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
     "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--store.png",
     "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
     "visual-audit/desktop-1440/lighting--store.png",
-    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
+    "visual-audit/desktop-1440/home--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/doors--store.png",
-    "visual-audit/desktop-1440/plumbing--seller-panel.png",
-    "visual-audit/desktop-1440/lighting--seller-panel.png",
-    "visual-audit/desktop-1440/plumbing--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/building--store.png",
+    "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/building--seller-panel.png",
+    "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/tools--store.png",
-    "visual-audit/desktop-1440/doors--seller-panel.png",
-    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
-    "visual-audit/desktop-1440/building--seller-panel.png",
-    "visual-audit/desktop-1440/tools--buyer-account.png",
-    "visual-audit/desktop-1440/building--buyer-account.png",
-    "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/sport--seller-panel.png",
     "visual-audit/desktop-1440/flowers--seller-panel.png",
+    "visual-audit/desktop-1440/doors--seller-panel.png",
+    "visual-audit/desktop-1440/tools--buyer-account.png",
+    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/pets--store.png",
     "visual-audit/desktop-1440/books--store.png",
-    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
+    "visual-audit/desktop-1440/sport--seller-panel.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
     "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/gifts--store.png",
     "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/bakery--store.png",
-    "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/coffee--buyer-account.png",
-    "visual-audit/desktop-1440/meat-fish--store.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
     "visual-audit/desktop-1440/bakery--seller-panel.png",
     "visual-audit/desktop-1440/gifts--buyer-account.png",
+    "visual-audit/desktop-1440/coffee--seller-panel.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
+    "visual-audit/desktop-1440/meat-fish--store.png",
+    "visual-audit/desktop-1440/coffee--buyer-account.png",
     "visual-audit/desktop-1440/food-delivery--store.png",
-    "visual-audit/desktop-1440/optics--store.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
+    "visual-audit/desktop-1440/optics--store.png",
+    "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
-    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/desktop-1440/food-delivery--seller-panel.png",
-    "visual-audit/desktop-1440/optics--seller-panel.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/home.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
+    "visual-audit/mobile-390/electronics--store.png",
     "visual-audit/mobile-390/premium-tech--store.png",
     "visual-audit/mobile-390/premium-tech--ai-open.png",
-    "visual-audit/mobile-390/electronics--store.png",
-    "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/premium-tech--seller-panel.png",
-    "visual-audit/mobile-390/furniture--ai-open.png",
+    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/electronics--seller-panel.png",
-    "visual-audit/mobile-390/furniture--product.png",
-    "visual-audit/mobile-390/premium-tech--buyer-account.png",
-    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/electronics--buyer-account.png",
+    "visual-audit/mobile-390/furniture--store.png",
+    "visual-audit/mobile-390/furniture--ai-open.png",
     "visual-audit/mobile-390/farm--store.png",
-    "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/premium-tech--seller-panel.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/premium-tech--buyer-account.png",
+    "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/cars--ai-open.png",
     "visual-audit/mobile-390/auto-parts--store.png",
-    "visual-audit/mobile-390/cars--seller-panel.png",
+    "visual-audit/mobile-390/furniture--product.png",
     "visual-audit/mobile-390/auto-parts--seller-panel.png",
-    "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/furniture--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--buyer-account.png",
+    "visual-audit/mobile-390/furniture--buyer-account.png",
     "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/cosmetics--store.png",
     "visual-audit/mobile-390/tires--seller-panel.png",
+    "visual-audit/mobile-390/cars--seller-panel.png",
     "visual-audit/mobile-390/cosmetics--product.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
+    "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/fashion--store.png",
     "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/fashion--ai-open.png",
-    "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/shoes--seller-panel.png",
-    "visual-audit/mobile-390/fashion--product.png",
     "visual-audit/mobile-390/jewelry--store.png",
-    "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/jewelry--ai-open.png",
-    "visual-audit/mobile-390/jewelry--product.png",
-    "visual-audit/mobile-390/fashion--buyer-account.png",
-    "visual-audit/mobile-390/jewelry--seller-panel.png",
-    "visual-audit/mobile-390/kids--store.png",
-    "visual-audit/mobile-390/jewelry--buyer-account.png",
-    "visual-audit/mobile-390/kids--seller-panel.png",
-    "visual-audit/mobile-390/home--store.png",
-    "visual-audit/mobile-390/kids--buyer-account.png",
     "visual-audit/mobile-390/shoes--buyer-account.png",
+    "visual-audit/mobile-390/kids--store.png",
+    "visual-audit/mobile-390/kids--seller-panel.png",
+    "visual-audit/mobile-390/kids--buyer-account.png",
+    "visual-audit/mobile-390/fashion--product.png",
+    "visual-audit/mobile-390/fashion--seller-panel.png",
+    "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/jewelry--product.png",
+    "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/home--seller-panel.png",
+    "visual-audit/mobile-390/jewelry--buyer-account.png",
     "visual-audit/mobile-390/tableware--store.png",
-    "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/home--buyer-account.png",
+    "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
     "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/lighting--seller-panel.png",
@@ -162,8 +162,8 @@
     "visual-audit/mobile-390/plumbing--seller-panel.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
     "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/building--store.png",
     "visual-audit/mobile-390/plumbing--buyer-account.png",
+    "visual-audit/mobile-390/building--store.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/tools--store.png",
     "visual-audit/mobile-390/building--seller-panel.png",
@@ -174,36 +174,36 @@
     "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/pets--store.png",
     "visual-audit/mobile-390/flowers--seller-panel.png",
-    "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/sport--store.png",
+    "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/flowers--buyer-account.png",
-    "visual-audit/mobile-390/sport--seller-panel.png",
+    "visual-audit/mobile-390/pets--buyer-account.png",
     "visual-audit/mobile-390/books--store.png",
+    "visual-audit/mobile-390/sport--seller-panel.png",
+    "visual-audit/mobile-390/gifts--store.png",
     "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/books--seller-panel.png",
-    "visual-audit/mobile-390/gifts--store.png",
-    "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/coffee--store.png",
-    "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/gifts--seller-panel.png",
+    "visual-audit/mobile-390/books--buyer-account.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
     "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/coffee--buyer-account.png",
-    "visual-audit/mobile-390/food-delivery--store.png",
-    "visual-audit/mobile-390/food-delivery--seller-panel.png",
-    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/food-delivery--store.png",
+    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
+    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/optics--seller-panel.png",
-    "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
+    "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
   ],
   "pages": [
@@ -256,15 +256,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 326.70000000001164
+          "time": 370
         },
         {
           "value": 0.004325883487654321,
-          "time": 10162.5
+          "time": 10221.399999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10416.700000000012
+          "time": 10409.599999999991
         }
       ],
       "nextErrorOverlay": false,
@@ -284,7 +284,7 @@
       "screenshotPath": "visual-audit/desktop-1440/auto-parts--store.png",
       "title": "TORQUE — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/auto-parts",
-      "textLength": 3560,
+      "textLength": 3561,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5294,
@@ -377,7 +377,7 @@
       "screenshotPath": "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
       "title": "BULK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
-      "textLength": 3676,
+      "textLength": 3677,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5192,
@@ -503,11 +503,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 245.29999999998836
+          "time": 257
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10109.099999999977
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10263.899999999994
         }
       ],
       "nextErrorOverlay": false,
@@ -527,7 +535,7 @@
       "screenshotPath": "visual-audit/desktop-1440/b2b-wholesale--store.png",
       "title": "BULK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
-      "textLength": 3331,
+      "textLength": 3332,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5192,
@@ -653,19 +661,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 243.29999999998836
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10120.299999999988
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10239.399999999994
+          "time": 282.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -685,7 +685,7 @@
       "screenshotPath": "visual-audit/desktop-1440/bakery--store.png",
       "title": "CRUMB — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/bakery",
-      "textLength": 3289,
+      "textLength": 3290,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5223,
@@ -811,11 +811,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 246.79999999998836
+          "time": 408.20000000001164
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10240.600000000006
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10411.5
         }
       ],
       "nextErrorOverlay": false,
@@ -835,7 +843,7 @@
       "screenshotPath": "visual-audit/desktop-1440/books--store.png",
       "title": "POLKA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/books",
-      "textLength": 3394,
+      "textLength": 3395,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5050,
@@ -961,19 +969,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 350.1000000000058
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10228.700000000012
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10430.300000000017
+          "time": 271.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -993,7 +993,7 @@
       "screenshotPath": "visual-audit/desktop-1440/building--store.png",
       "title": "STENA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/building",
-      "textLength": 3185,
+      "textLength": 3186,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5039,
@@ -1086,7 +1086,7 @@
       "screenshotPath": "visual-audit/desktop-1440/cars--ai-open.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3617,
+      "textLength": 3618,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5125,
@@ -1216,7 +1216,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 274.3999999999942
+          "time": 352.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -1236,7 +1236,7 @@
       "screenshotPath": "visual-audit/desktop-1440/cars--store.png",
       "title": "VECTOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cars",
-      "textLength": 3272,
+      "textLength": 3273,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5125,
@@ -1362,11 +1362,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.000029741512345679014,
+      "cls": 0.00868150848765432,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 911.5999999999767
+          "time": 355.70000000001164
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10191.100000000006
+        },
+        {
+          "value": 0.004325883487654321,
+          "time": 10359
         }
       ],
       "nextErrorOverlay": false,
@@ -1386,7 +1394,7 @@
       "screenshotPath": "visual-audit/desktop-1440/coffee--store.png",
       "title": "ROAST — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/coffee",
-      "textLength": 3192,
+      "textLength": 3193,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5245,
@@ -1542,19 +1550,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 314
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10185.600000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10299.800000000003
+          "time": 1000.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -1576,7 +1576,7 @@
       "screenshotPath": "visual-audit/desktop-1440/cosmetics--store.png",
       "title": "LUMI — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/cosmetics",
-      "textLength": 3319,
+      "textLength": 3320,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5060,
@@ -1708,15 +1708,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 244.69999999998254
+          "time": 284.5
         },
         {
           "value": 0.004325883487654321,
-          "time": 10122.199999999983
+          "time": 10129.799999999988
         },
         {
           "value": 0.004325883487654321,
-          "time": 10242.599999999977
+          "time": 10328.299999999988
         }
       ],
       "nextErrorOverlay": false,
@@ -1736,7 +1736,7 @@
       "screenshotPath": "visual-audit/desktop-1440/doors--store.png",
       "title": "PORTA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/doors",
-      "textLength": 3267,
+      "textLength": 3268,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6073,
@@ -1862,19 +1862,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 305.09999999999127
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10181.599999999991
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10297.299999999988
+          "time": 388
         }
       ],
       "nextErrorOverlay": false,
@@ -1894,7 +1886,7 @@
       "screenshotPath": "visual-audit/desktop-1440/electronics--store.png",
       "title": "VOLT — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/electronics",
-      "textLength": 3450,
+      "textLength": 3451,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5090,
@@ -2024,15 +2016,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 232.1999999999971
+          "time": 712.3000000000029
         },
         {
           "value": 0.004325883487654321,
-          "time": 10115
+          "time": 10181
         },
         {
           "value": 0.004325883487654321,
-          "time": 10233.300000000003
+          "time": 10322.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -2052,7 +2044,7 @@
       "screenshotPath": "visual-audit/desktop-1440/farm--store.png",
       "title": "ZËRNO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/farm",
-      "textLength": 3413,
+      "textLength": 3414,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5080,
@@ -2145,7 +2137,7 @@
       "screenshotPath": "visual-audit/desktop-1440/fashion--ai-open.png",
       "title": "MIREL — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/fashion",
-      "textLength": 3238,
+      "textLength": 3239,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5126,
@@ -2307,7 +2299,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 260.6999999999971
+          "time": 471.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2329,7 +2321,7 @@
       "screenshotPath": "visual-audit/desktop-1440/fashion--store.png",
       "title": "MIREL — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/fashion",
-      "textLength": 2893,
+      "textLength": 2894,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5126,
@@ -2457,19 +2449,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 237.20000000001164
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10111.899999999994
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10229.700000000012
+          "time": 276.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2489,7 +2473,7 @@
       "screenshotPath": "visual-audit/desktop-1440/flowers--store.png",
       "title": "FLEUR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/flowers",
-      "textLength": 3379,
+      "textLength": 3464,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5242,
@@ -2619,15 +2603,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 287.5999999999767
+          "time": 256
         },
         {
           "value": 0.004325883487654321,
-          "time": 10208
+          "time": 10106.399999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10281.5
+          "time": 10317.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2647,7 +2631,7 @@
       "screenshotPath": "visual-audit/desktop-1440/food-delivery--store.png",
       "title": "EAT. — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/food-delivery",
-      "textLength": 3184,
+      "textLength": 3185,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5245,
@@ -2740,7 +2724,7 @@
       "screenshotPath": "visual-audit/desktop-1440/furniture--ai-open.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3543,
+      "textLength": 3544,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6163,
@@ -2902,7 +2886,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 275.3000000000029
+          "time": 323.09999999999127
         }
       ],
       "nextErrorOverlay": false,
@@ -2924,7 +2908,7 @@
       "screenshotPath": "visual-audit/desktop-1440/furniture--store.png",
       "title": "NOWN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/furniture",
-      "textLength": 3198,
+      "textLength": 3199,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6163,
@@ -3056,15 +3040,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 347.70000000001164
+          "time": 291.19999999998254
         },
         {
           "value": 0.004325883487654321,
-          "time": 10216.100000000006
+          "time": 10130.399999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10337.800000000017
+          "time": 10273.299999999988
         }
       ],
       "nextErrorOverlay": false,
@@ -3084,7 +3068,7 @@
       "screenshotPath": "visual-audit/desktop-1440/gifts--store.png",
       "title": "MOMENT — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/gifts",
-      "textLength": 3498,
+      "textLength": 3499,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5171,
@@ -3214,15 +3198,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 687.0999999999767
+          "time": 254.40000000002328
         },
         {
           "value": 0.004325883487654321,
-          "time": 10125.399999999994
+          "time": 10101.600000000006
         },
         {
           "value": 0.004325883487654321,
-          "time": 10454.599999999977
+          "time": 10272.300000000017
         }
       ],
       "nextErrorOverlay": false,
@@ -3242,7 +3226,7 @@
       "screenshotPath": "visual-audit/desktop-1440/home--store.png",
       "title": "SEN — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/home",
-      "textLength": 3361,
+      "textLength": 3362,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6122,
@@ -3335,10 +3319,10 @@
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 4748,
+      "textLength": 914,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 3693,
+      "scrollHeight": 5602,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -3346,240 +3330,6 @@
           "className": "PremiumSplitHeroShowcase-module__UKo-kW__ambient",
           "left": 602,
           "right": 1442
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 1432,
-          "right": 1762
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 1433,
-          "right": 1761
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 1432,
-          "right": 1763
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 1433,
-          "right": 1761
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 1451,
-          "right": 1743
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 1451,
-          "right": 1498
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 1642,
-          "right": 1743
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 1451,
-          "right": 1726
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 1451,
-          "right": 1743
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1451,
-          "right": 1579
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1587,
-          "right": 1743
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 1780,
-          "right": 2110
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 1781,
-          "right": 2109
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 1780,
-          "right": 2111
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 1781,
-          "right": 2109
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 1799,
-          "right": 2091
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 1799,
-          "right": 1873
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 2014,
-          "right": 2091
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 1799,
-          "right": 2074
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 1799,
-          "right": 2091
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1799,
-          "right": 1927
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1935,
-          "right": 2091
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 2128,
-          "right": 2458
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 2129,
-          "right": 2457
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 2128,
-          "right": 2459
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 2129,
-          "right": 2457
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 2147,
-          "right": 2439
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 2147,
-          "right": 2208
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 2353,
-          "right": 2439
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 2147,
-          "right": 2422
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 2147,
-          "right": 2439
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 2147,
-          "right": 2275
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 2283,
-          "right": 2439
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 2476,
-          "right": 2806
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 2477,
-          "right": 2805
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 2476,
-          "right": 2807
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 2477,
-          "right": 2805
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 2495,
-          "right": 2787
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 2495,
-          "right": 2533
         }
       ],
       "brokenImages": [],
@@ -3602,7 +3352,7 @@
       "screenshotPath": "visual-audit/desktop-1440/jewelry--ai-open.png",
       "title": "AURA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
-      "textLength": 3490,
+      "textLength": 3491,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5232,
@@ -3764,7 +3514,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 224.09999999999127
+          "time": 263.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3786,7 +3536,7 @@
       "screenshotPath": "visual-audit/desktop-1440/jewelry--store.png",
       "title": "AURA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
-      "textLength": 3145,
+      "textLength": 3146,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5232,
@@ -3914,19 +3664,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 282.8999999999942
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10162.199999999983
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10384.299999999988
+          "time": 264.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -3946,7 +3688,7 @@
       "screenshotPath": "visual-audit/desktop-1440/kids--store.png",
       "title": "PICO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/kids",
-      "textLength": 3386,
+      "textLength": 3387,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5217,
@@ -4076,15 +3818,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 254.5
+          "time": 291.3999999999942
         },
         {
           "value": 0.004325883487654321,
-          "time": 10124.100000000006
+          "time": 10126.399999999994
         },
         {
           "value": 0.004325883487654321,
-          "time": 10262
+          "time": 10304.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4104,7 +3846,7 @@
       "screenshotPath": "visual-audit/desktop-1440/lighting--store.png",
       "title": "LUX — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/lighting",
-      "textLength": 3025,
+      "textLength": 3026,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6406,
@@ -4230,19 +3972,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 250.79999999998836
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10172.699999999983
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10267.899999999994
+          "time": 333.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4262,7 +3996,7 @@
       "screenshotPath": "visual-audit/desktop-1440/meat-fish--store.png",
       "title": "PRIME — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/meat-fish",
-      "textLength": 3247,
+      "textLength": 3248,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5294,
@@ -4388,19 +4122,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 232.40000000002328
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10113.300000000017
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10226.5
+          "time": 284.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4420,7 +4146,7 @@
       "screenshotPath": "visual-audit/desktop-1440/optics--store.png",
       "title": "VIZOR — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/optics",
-      "textLength": 3213,
+      "textLength": 3214,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5214,
@@ -4558,15 +4284,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.008651766975308643,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
-          "value": 0.004325883487654321,
-          "time": 10107.5
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10226
+          "value": 0.000029741512345679014,
+          "time": 309.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4586,7 +4308,7 @@
       "screenshotPath": "visual-audit/desktop-1440/pets--store.png",
       "title": "LAPA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/pets",
-      "textLength": 3254,
+      "textLength": 3255,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5144,
@@ -4692,25 +4414,25 @@
       "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4742,32 +4464,32 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 269.30000000001746
+          "time": 308.1000000000058
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4783,7 +4505,7 @@
       "screenshotPath": "visual-audit/desktop-1440/plumbing--store.png",
       "title": "NORD — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/plumbing",
-      "textLength": 3173,
+      "textLength": 3174,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6122,
@@ -4875,36 +4597,31 @@
         "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10",
         "https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11"
       ],
-      "cls": 0.00043204396188994986,
-      "layoutShifts": [
-        {
-          "value": 0.00043204396188994986,
-          "time": 453.3999999999942
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4920,7 +4637,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--ai-open.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2981,
+      "textLength": 2982,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4210,
@@ -5050,7 +4767,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 331.1000000000058
+          "time": 391.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -5070,7 +4787,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--store.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2636,
+      "textLength": 2637,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4210,
@@ -5200,15 +4917,15 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 524.8999999999942
+          "time": 356.5
         },
         {
           "value": 0.004325883487654321,
-          "time": 10211.099999999991
+          "time": 10216.900000000009
         },
         {
           "value": 0.004325883487654321,
-          "time": 10330.899999999994
+          "time": 10367.800000000003
         }
       ],
       "nextErrorOverlay": false,
@@ -5228,7 +4945,7 @@
       "screenshotPath": "visual-audit/desktop-1440/shoes--store.png",
       "title": "FORMA — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/shoes",
-      "textLength": 3313,
+      "textLength": 3314,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5193,
@@ -5335,25 +5052,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5384,7 +5101,7 @@
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 234.60000000000582
+          "time": 320.5
         }
       ],
       "nextErrorOverlay": false,
@@ -5392,25 +5109,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5425,7 +5142,7 @@
       "screenshotPath": "visual-audit/desktop-1440/sport--store.png",
       "title": "PULSE — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/sport",
-      "textLength": 3122,
+      "textLength": 3123,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5126,
@@ -5517,32 +5234,37 @@
         "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10",
         "https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11"
       ],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0001474682315779321,
+      "layoutShifts": [
+        {
+          "value": 0.0001474682315779321,
+          "time": 630.7000000000116
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5590,19 +5312,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 230.80000000001746
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10116.600000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10230.700000000012
+          "time": 341.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -5622,7 +5336,7 @@
       "screenshotPath": "visual-audit/desktop-1440/tableware--store.png",
       "title": "ATELIER 12 — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tableware",
-      "textLength": 3323,
+      "textLength": 3324,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6448,
@@ -5748,19 +5462,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 237.6999999999971
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10124.100000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10265.600000000006
+          "time": 270.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -5780,7 +5486,7 @@
       "screenshotPath": "visual-audit/desktop-1440/tires--store.png",
       "title": "TRACK — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tires",
-      "textLength": 3375,
+      "textLength": 3376,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5223,
@@ -5906,19 +5612,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00868150848765432,
+      "cls": 0.000029741512345679014,
       "layoutShifts": [
         {
           "value": 0.000029741512345679014,
-          "time": 262.80000000001746
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10139.600000000006
-        },
-        {
-          "value": 0.004325883487654321,
-          "time": 10429.899999999994
+          "time": 294.69999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -5938,7 +5636,7 @@
       "screenshotPath": "visual-audit/desktop-1440/tools--store.png",
       "title": "PROTO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/tools",
-      "textLength": 3428,
+      "textLength": 3429,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5073,
@@ -7542,7 +7240,7 @@
       "screenshotPath": "visual-audit/mobile-390/fashion--ai-open.png",
       "title": "MIREL — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/fashion",
-      "textLength": 3228,
+      "textLength": 3229,
       "viewportWidth": 390,
       "scrollWidth": 375,
       "scrollHeight": 8464,
@@ -7722,7 +7420,7 @@
       "screenshotPath": "visual-audit/mobile-390/fashion--store.png",
       "title": "MIREL — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/fashion",
-      "textLength": 2886,
+      "textLength": 2887,
       "viewportWidth": 390,
       "scrollWidth": 375,
       "scrollHeight": 8464,
@@ -8480,10 +8178,10 @@
       "screenshotPath": "visual-audit/mobile-390/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 4603,
+      "textLength": 769,
       "viewportWidth": 390,
       "scrollWidth": 375,
-      "scrollHeight": 3732,
+      "scrollHeight": 5980,
       "horizontalOverflow": false,
       "overflowElements": [
         {
@@ -8503,228 +8201,6 @@
           "className": "PremiumSplitHeroShowcase-module__UKo-kW__frame",
           "left": -5,
           "right": 264
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 369,
-          "right": 705
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 370,
-          "right": 704
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 369,
-          "right": 705
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 370,
-          "right": 704
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 386,
-          "right": 688
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 386,
-          "right": 476
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 594,
-          "right": 688
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 386,
-          "right": 670
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 386,
-          "right": 688
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 386,
-          "right": 533
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 541,
-          "right": 688
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 716,
-          "right": 1051
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 717,
-          "right": 1050
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 715,
-          "right": 1052
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 717,
-          "right": 1050
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 733,
-          "right": 1034
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 733,
-          "right": 804
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 973,
-          "right": 1034
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 733,
-          "right": 1016
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 733,
-          "right": 1034
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 733,
-          "right": 879
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 887,
-          "right": 1034
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 1062,
-          "right": 1398
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 1063,
-          "right": 1397
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 1062,
-          "right": 1398
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 1063,
-          "right": 1397
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__identity",
-          "left": 1079,
-          "right": 1381
-        },
-        {
-          "tag": "strong",
-          "className": "",
-          "left": 1079,
-          "right": 1126
-        },
-        {
-          "tag": "span",
-          "className": "",
-          "left": 1280,
-          "right": 1381
-        },
-        {
-          "tag": "p",
-          "className": "",
-          "left": 1079,
-          "right": 1362
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__actions",
-          "left": 1079,
-          "right": 1381
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1079,
-          "right": 1226
-        },
-        {
-          "tag": "button",
-          "className": "",
-          "left": 1234,
-          "right": 1381
-        },
-        {
-          "tag": "article",
-          "className": "PremiumStoreCatalog-module__ztsrLW__card",
-          "left": 1409,
-          "right": 1744
-        },
-        {
-          "tag": "button",
-          "className": "PremiumStoreCatalog-module__ztsrLW__visual",
-          "left": 1410,
-          "right": 1743
-        },
-        {
-          "tag": "img",
-          "className": "",
-          "left": 1408,
-          "right": 1745
-        },
-        {
-          "tag": "div",
-          "className": "PremiumStoreCatalog-module__ztsrLW__body",
-          "left": 1410,
-          "right": 1743
         }
       ],
       "brokenImages": [],
@@ -9586,21 +9062,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9684,21 +9160,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9749,21 +9225,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10087,17 +9563,17 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
@@ -10185,17 +9661,17 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
@@ -10243,17 +9719,17 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
