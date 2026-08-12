@@ -1,140 +1,140 @@
 {
-  "generatedAt": "2026-08-12T13:43:37.570Z",
+  "generatedAt": "2026-08-12T15:13:11.480Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/home.png",
-    "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/electronics--store.png",
+    "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
-    "visual-audit/desktop-1440/furniture--store.png",
-    "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/cars--store.png",
-    "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
-    "visual-audit/desktop-1440/auto-parts--store.png",
-    "visual-audit/desktop-1440/cars--buyer-account.png",
-    "visual-audit/desktop-1440/tires--store.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
+    "visual-audit/desktop-1440/cars--store.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
+    "visual-audit/desktop-1440/cars--ai-open.png",
+    "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
-    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png",
+    "visual-audit/desktop-1440/tires--store.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/cosmetics--store.png",
+    "visual-audit/desktop-1440/cars--buyer-account.png",
+    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/tires--buyer-account.png",
     "visual-audit/desktop-1440/fashion--store.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/fashion--product.png",
-    "visual-audit/desktop-1440/shoes--store.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
-    "visual-audit/desktop-1440/fashion--seller-panel.png",
     "visual-audit/desktop-1440/cosmetics--buyer-account.png",
-    "visual-audit/desktop-1440/fashion--buyer-account.png",
+    "visual-audit/desktop-1440/shoes--store.png",
+    "visual-audit/desktop-1440/fashion--product.png",
     "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/jewelry--ai-open.png",
-    "visual-audit/desktop-1440/kids--store.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/jewelry--product.png",
     "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/fashion--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--ai-open.png",
+    "visual-audit/desktop-1440/jewelry--product.png",
+    "visual-audit/desktop-1440/fashion--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
-    "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--store.png",
-    "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/lighting--store.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
     "visual-audit/desktop-1440/home--seller-panel.png",
-    "visual-audit/desktop-1440/lighting--seller-panel.png",
+    "visual-audit/desktop-1440/tableware--store.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
-    "visual-audit/desktop-1440/plumbing--store.png",
-    "visual-audit/desktop-1440/doors--store.png",
-    "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--store.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
+    "visual-audit/desktop-1440/plumbing--store.png",
+    "visual-audit/desktop-1440/lighting--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
+    "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
     "visual-audit/desktop-1440/building--store.png",
-    "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/doors--seller-panel.png",
-    "visual-audit/desktop-1440/building--seller-panel.png",
-    "visual-audit/desktop-1440/tools--seller-panel.png",
+    "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/doors--buyer-account.png",
+    "visual-audit/desktop-1440/building--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--store.png",
+    "visual-audit/desktop-1440/tools--seller-panel.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
-    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/sport--seller-panel.png",
-    "visual-audit/desktop-1440/sport--buyer-account.png",
-    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/flowers--seller-panel.png",
-    "visual-audit/desktop-1440/pets--seller-panel.png",
-    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/pets--seller-panel.png",
+    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
+    "visual-audit/desktop-1440/sport--seller-panel.png",
     "visual-audit/desktop-1440/gifts--store.png",
+    "visual-audit/desktop-1440/sport--buyer-account.png",
+    "visual-audit/desktop-1440/books--seller-panel.png",
     "visual-audit/desktop-1440/coffee--store.png",
-    "visual-audit/desktop-1440/bakery--store.png",
-    "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--seller-panel.png",
-    "visual-audit/desktop-1440/coffee--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--buyer-account.png",
-    "visual-audit/desktop-1440/meat-fish--store.png",
-    "visual-audit/desktop-1440/food-delivery--store.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/gifts--buyer-account.png",
-    "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/optics--seller-panel.png",
+    "visual-audit/desktop-1440/coffee--seller-panel.png",
+    "visual-audit/desktop-1440/coffee--buyer-account.png",
+    "visual-audit/desktop-1440/meat-fish--store.png",
+    "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--store.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
+    "visual-audit/desktop-1440/optics--store.png",
     "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
+    "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/home.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
+    "visual-audit/mobile-390/home.png",
+    "visual-audit/desktop-1440/optics--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/premium-tech--store.png",
-    "visual-audit/desktop-1440/optics--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--ai-open.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
-    "visual-audit/mobile-390/premium-tech--seller-panel.png",
     "visual-audit/mobile-390/electronics--store.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/premium-tech--buyer-account.png",
     "visual-audit/mobile-390/furniture--ai-open.png",
     "visual-audit/mobile-390/electronics--seller-panel.png",
-    "visual-audit/mobile-390/furniture--product.png",
-    "visual-audit/mobile-390/farm--store.png",
     "visual-audit/mobile-390/electronics--buyer-account.png",
-    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/farm--store.png",
+    "visual-audit/mobile-390/premium-tech--seller-panel.png",
     "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/cars--store.png",
-    "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/cars--ai-open.png",
+    "visual-audit/mobile-390/premium-tech--buyer-account.png",
+    "visual-audit/mobile-390/furniture--product.png",
     "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/cars--store.png",
+    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/cars--ai-open.png",
     "visual-audit/mobile-390/auto-parts--store.png",
+    "visual-audit/mobile-390/furniture--buyer-account.png",
     "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/auto-parts--seller-panel.png",
-    "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--buyer-account.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
+    "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/fashion--store.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
     "visual-audit/mobile-390/cars--seller-panel.png",
-    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/fashion--store.png",
     "visual-audit/mobile-390/cosmetics--product.png",
-    "visual-audit/mobile-390/cosmetics--seller-panel.png",
     "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/cosmetics--seller-panel.png",
     "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/jewelry--store.png",
@@ -144,64 +144,64 @@
     "visual-audit/mobile-390/fashion--product.png",
     "visual-audit/mobile-390/kids--store.png",
     "visual-audit/mobile-390/fashion--seller-panel.png",
-    "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/fashion--buyer-account.png",
-    "visual-audit/mobile-390/kids--buyer-account.png",
+    "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/kids--buyer-account.png",
     "visual-audit/mobile-390/jewelry--product.png",
+    "visual-audit/mobile-390/jewelry--seller-panel.png",
     "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/home--seller-panel.png",
-    "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/jewelry--buyer-account.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
     "visual-audit/mobile-390/home--buyer-account.png",
-    "visual-audit/mobile-390/jewelry--buyer-account.png",
-    "visual-audit/mobile-390/tableware--buyer-account.png",
-    "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/lighting--store.png",
+    "visual-audit/mobile-390/plumbing--store.png",
+    "visual-audit/mobile-390/tableware--buyer-account.png",
+    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/doors--store.png",
     "visual-audit/mobile-390/plumbing--seller-panel.png",
-    "visual-audit/mobile-390/lighting--seller-panel.png",
+    "visual-audit/mobile-390/lighting--buyer-account.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/plumbing--buyer-account.png",
-    "visual-audit/mobile-390/lighting--buyer-account.png",
-    "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/building--store.png",
     "visual-audit/mobile-390/tools--store.png",
-    "visual-audit/mobile-390/flowers--store.png",
+    "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/building--seller-panel.png",
+    "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/tools--seller-panel.png",
-    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/building--buyer-account.png",
     "visual-audit/mobile-390/tools--buyer-account.png",
-    "visual-audit/mobile-390/flowers--buyer-account.png",
+    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/pets--store.png",
     "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/books--store.png",
+    "visual-audit/mobile-390/flowers--buyer-account.png",
     "visual-audit/mobile-390/pets--seller-panel.png",
+    "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/sport--seller-panel.png",
-    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
     "visual-audit/mobile-390/sport--buyer-account.png",
-    "visual-audit/mobile-390/books--buyer-account.png",
+    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/gifts--store.png",
     "visual-audit/mobile-390/coffee--store.png",
+    "visual-audit/mobile-390/books--buyer-account.png",
+    "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/coffee--seller-panel.png",
-    "visual-audit/mobile-390/bakery--seller-panel.png",
-    "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
-    "visual-audit/mobile-390/bakery--buyer-account.png",
+    "visual-audit/mobile-390/coffee--buyer-account.png",
+    "visual-audit/mobile-390/bakery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/food-delivery--store.png",
+    "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
+    "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
-    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
-    "visual-audit/mobile-390/optics--store.png",
+    "visual-audit/mobile-390/optics--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
-    "visual-audit/mobile-390/optics--seller-panel.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
@@ -256,7 +256,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 353.5
+          "time": 382.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -354,7 +354,7 @@
       "layoutShifts": [
         {
           "value": 0.0036633649359809027,
-          "time": 382.3999999999942
+          "time": 371.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -452,7 +452,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 287.79999999998836
+          "time": 470.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -509,7 +509,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 537.2999999999884
+          "time": 428.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -607,7 +607,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 287.79999999998836
+          "time": 470.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -664,7 +664,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 325.69999999998254
+          "time": 542.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -762,7 +762,7 @@
       "layoutShifts": [
         {
           "value": 0.0016429728190104167,
-          "time": 386.6000000000058
+          "time": 645.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -819,7 +819,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 250.90000000002328
+          "time": 409.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -917,7 +917,7 @@
       "layoutShifts": [
         {
           "value": 0.001408072509765625,
-          "time": 271.1000000000058
+          "time": 374.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -978,7 +978,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 273.20000000001164
+          "time": 435.69999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -1080,7 +1080,7 @@
       "layoutShifts": [
         {
           "value": 0.00446937513563368,
-          "time": 509.4000000000233
+          "time": 382.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -1178,8 +1178,13 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.004195759684244791,
+      "layoutShifts": [
+        {
+          "value": 0.004195759684244791,
+          "time": 485.59999999999127
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1230,11 +1235,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 278.5
+          "time": 401
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10224.200000000012
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10446.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1328,8 +1341,13 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.004195759684244791,
+      "layoutShifts": [
+        {
+          "value": 0.004195759684244791,
+          "time": 485.59999999999127
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1384,7 +1402,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 570.2000000000116
+          "time": 448.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -1482,7 +1500,7 @@
       "layoutShifts": [
         {
           "value": 0.0012486823187934028,
-          "time": 312
+          "time": 377.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1569,7 +1587,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 253.79999999998836
+          "time": 386.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -1669,7 +1687,7 @@
       "layoutShifts": [
         {
           "value": 0.001361922878689236,
-          "time": 368.8000000000029
+          "time": 337.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -1701,13 +1719,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--seller-panel",
@@ -1728,29 +1742,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 251.60000000000582
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10136.100000000006
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10272.199999999983
+          "time": 537
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--store",
@@ -1842,17 +1844,13 @@
       "layoutShifts": [
         {
           "value": 0.0035778272840711806,
-          "time": 424.79999999998836
+          "time": 446.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--buyer-account",
@@ -1876,13 +1874,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--seller-panel",
@@ -1907,17 +1901,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 353.1999999999971
+          "time": 1128
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--store",
@@ -2009,17 +1999,13 @@
       "layoutShifts": [
         {
           "value": 0.003411773952907986,
-          "time": 852.1000000000058
+          "time": 1095.6000000000058
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--buyer-account",
@@ -2066,19 +2052,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 362.1000000000058
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10206.699999999997
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10324.5
+          "time": 1097.699999999997
         }
       ],
       "nextErrorOverlay": false,
@@ -2176,7 +2154,7 @@
       "layoutShifts": [
         {
           "value": 0.0016810479058159721,
-          "time": 494.6000000000058
+          "time": 340.90000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -2358,7 +2336,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 613.8999999999942
+          "time": 914.7000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -2508,19 +2486,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 1025.6000000000058
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10141.900000000023
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10274.200000000012
+          "time": 431
         }
       ],
       "nextErrorOverlay": false,
@@ -2618,7 +2588,7 @@
       "layoutShifts": [
         {
           "value": 0.0013612664116753473,
-          "time": 495.0999999999767
+          "time": 390.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -2671,19 +2641,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 257.30000000001746
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10136.800000000017
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10261.899999999994
+          "time": 543.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2781,7 +2743,7 @@
       "layoutShifts": [
         {
           "value": 0.003887811008029514,
-          "time": 381.5
+          "time": 540.7999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -2879,7 +2841,7 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 279
+          "time": 942
         }
       ],
       "nextErrorOverlay": false,
@@ -2968,7 +2930,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 243.6999999999971
+          "time": 440.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3068,7 +3030,7 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 279
+          "time": 942
         }
       ],
       "nextErrorOverlay": false,
@@ -3123,19 +3085,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 271.20000000001164
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10153.799999999988
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10774.700000000012
+          "time": 531.8000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -3233,7 +3187,7 @@
       "layoutShifts": [
         {
           "value": 0.0014329854329427083,
-          "time": 377.70000000001164
+          "time": 355.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3290,7 +3244,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 288
+          "time": 420
         }
       ],
       "nextErrorOverlay": false,
@@ -3388,7 +3342,7 @@
       "layoutShifts": [
         {
           "value": 0.003537503797743055,
-          "time": 505.5
+          "time": 717.3000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -3408,7 +3362,7 @@
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 945,
+      "textLength": 861,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5602,
@@ -3422,11 +3376,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.001987083845727238,
+      "cls": 0.0011936267240547837,
       "layoutShifts": [
         {
-          "value": 0.001987083845727238,
-          "time": 877.3999999999942
+          "value": 0.0011936267240547837,
+          "time": 1235.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -3524,7 +3478,7 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 317.20000000001164
+          "time": 484.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3613,7 +3567,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 314.6000000000058
+          "time": 405
         }
       ],
       "nextErrorOverlay": false,
@@ -3713,7 +3667,7 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 317.20000000001164
+          "time": 484.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3772,7 +3726,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 320.6000000000058
+          "time": 564.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -3792,7 +3746,7 @@
       "screenshotPath": "visual-audit/desktop-1440/kids--store.png",
       "title": "PICO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/kids",
-      "textLength": 3471,
+      "textLength": 3387,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5217,
@@ -3870,7 +3824,7 @@
       "layoutShifts": [
         {
           "value": 0.0036917571343315974,
-          "time": 373.3000000000029
+          "time": 383.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3927,7 +3881,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 301.20000000001164
+          "time": 787.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4025,7 +3979,7 @@
       "layoutShifts": [
         {
           "value": 0.0037974319118923607,
-          "time": 620.7000000000116
+          "time": 672.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4078,19 +4032,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 263.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10136.200000000012
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10286.400000000023
+          "time": 482.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4188,7 +4134,7 @@
       "layoutShifts": [
         {
           "value": 0.0012400661892361111,
-          "time": 348.8999999999942
+          "time": 493.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4245,7 +4191,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 289.19999999998254
+          "time": 423.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4351,13 +4297,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.003649825303819444,
-      "layoutShifts": [
-        {
-          "value": 0.003649825303819444,
-          "time": 355.8999999999942
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -4408,19 +4349,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 310.79999999998836
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10181.399999999994
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10820.700000000012
+          "time": 437.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -4518,7 +4451,7 @@
       "layoutShifts": [
         {
           "value": 0.0038471100531684028,
-          "time": 535.1999999999825
+          "time": 365.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4552,24 +4485,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4601,7 +4534,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 371.3999999999942
+          "time": 395.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -4609,24 +4542,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4738,7 +4671,7 @@
       "layoutShifts": [
         {
           "value": 0.0035849171278211807,
-          "time": 387.80000000001746
+          "time": 529.3000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -4746,24 +4679,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4857,17 +4790,13 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 836.1999999999971
+          "time": 1114.199999999997
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -4891,13 +4820,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--seller-panel",
@@ -4922,17 +4847,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 324.70000000001164
+          "time": 484.1000000000058
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--store",
@@ -5024,17 +4945,13 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 836.1999999999971
+          "time": 1114.199999999997
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--buyer-account",
@@ -5081,19 +4998,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 456.1999999999971
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10159.300000000003
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10282.900000000009
+          "time": 392.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -5191,7 +5100,7 @@
       "layoutShifts": [
         {
           "value": 0.0014324110243055554,
-          "time": 1232.7000000000116
+          "time": 622.4000000000087
         }
       ],
       "nextErrorOverlay": false,
@@ -5221,29 +5130,32 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
       ]
     },
     {
@@ -5274,33 +5186,36 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 280
+          "time": 397.1000000000058
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
       ]
     },
     {
@@ -5411,33 +5326,36 @@
       "layoutShifts": [
         {
           "value": 0.004515820176866319,
-          "time": 384.6000000000058
+          "time": 417.6000000000058
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
       ]
     },
     {
@@ -5485,19 +5403,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 1114.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10170
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10301.5
+          "time": 396.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -5595,7 +5505,7 @@
       "layoutShifts": [
         {
           "value": 0.0034318126085069443,
-          "time": 776.7000000000116
+          "time": 449.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -5625,13 +5535,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--seller-panel",
@@ -5656,17 +5562,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 634.4000000000087
+          "time": 615.1999999999971
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--store",
@@ -5758,17 +5660,13 @@
       "layoutShifts": [
         {
           "value": 0.004337851969401041,
-          "time": 444.1000000000058
+          "time": 414.90000000000873
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--buyer-account",
@@ -5819,7 +5717,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 284
+          "time": 437.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -5917,7 +5815,7 @@
       "layoutShifts": [
         {
           "value": 0.004270383572048612,
-          "time": 623.7999999999884
+          "time": 1252.2999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -6045,8 +5943,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0011905142430624787,
+      "layoutShifts": [
+        {
+          "value": 0.0011905142430624787,
+          "time": 331
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -6075,7 +5978,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 365
+          "time": 372.19999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -6181,11 +6084,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10128.600000000035
+          "time": 10202.5
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10276.5
+          "time": 10411.700000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -6216,7 +6119,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 365
+          "time": 372.19999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -6337,7 +6240,7 @@
       "screenshotPath": "visual-audit/mobile-390/bakery--store.png",
       "title": "CRUMB — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/bakery",
-      "textLength": 2664,
+      "textLength": 2590,
       "viewportWidth": 390,
       "scrollWidth": 375,
       "scrollHeight": 8679,
@@ -6475,7 +6378,7 @@
       "layoutShifts": [
         {
           "value": 0.00004930875182282173,
-          "time": 314.20000000001164
+          "time": 379.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -6505,13 +6408,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--seller-panel",
@@ -6584,13 +6483,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--store",
@@ -6615,17 +6510,13 @@
       "layoutShifts": [
         {
           "value": 0.0014477610393021098,
-          "time": 285.30000000004657
+          "time": 525
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--ai-open",
@@ -6650,7 +6541,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 432.5
+          "time": 363
         }
       ],
       "nextErrorOverlay": false,
@@ -6756,11 +6647,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10194
+          "time": 10214.899999999994
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10339.5
+          "time": 10409.899999999994
         }
       ],
       "nextErrorOverlay": false,
@@ -6791,7 +6682,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 432.5
+          "time": 363
         }
       ],
       "nextErrorOverlay": false,
@@ -7211,7 +7102,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 429.20000000001164
+          "time": 335.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -7343,7 +7234,7 @@
       "layoutShifts": [
         {
           "value": 0.0012802514975646755,
-          "time": 323.8999999999942
+          "time": 492.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7836,7 +7727,7 @@
       "layoutShifts": [
         {
           "value": 0.00005561840253000745,
-          "time": 285.20000000001164
+          "time": 360
         }
       ],
       "nextErrorOverlay": false,
@@ -7968,7 +7859,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 531
+          "time": 385.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7999,7 +7890,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 309.19999999998254
+          "time": 314.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -8165,7 +8056,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 309.19999999998254
+          "time": 314.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -8433,7 +8324,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 282.4000000000233
+          "time": 375.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -8501,7 +8392,7 @@
       "layoutShifts": [
         {
           "value": 0.08616316777763763,
-          "time": 181.70000000001164
+          "time": 252.10000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -8822,7 +8713,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 300.4000000000233
+          "time": 452.80000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -8954,7 +8845,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 404.8999999999651
+          "time": 379.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -8984,9 +8875,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "meat-fish--seller-panel",
@@ -9059,9 +8954,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "meat-fish--store",
@@ -9085,9 +8984,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "optics--buyer-account",
@@ -9213,7 +9116,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 251.19999999995343
+          "time": 343.8999999999651
         }
       ],
       "nextErrorOverlay": false,
@@ -9345,7 +9248,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 292.29999999998836
+          "time": 324.19999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -9379,22 +9282,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9477,22 +9380,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9532,7 +9435,7 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 342
+          "time": 414.80000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -9540,22 +9443,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9577,8 +9480,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.001207446615512472,
+      "layoutShifts": [
+        {
+          "value": 0.001207446615512472,
+          "time": 336
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9678,8 +9586,17 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.000007181140101559679,
+      "layoutShifts": [
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10228.5
+        },
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10412
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9704,8 +9621,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.001207446615512472,
+      "layoutShifts": [
+        {
+          "value": 0.001207446615512472,
+          "time": 336
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9733,9 +9655,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "shoes--seller-panel",
@@ -9808,9 +9734,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "shoes--store",
@@ -9834,9 +9764,13 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      ],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [
+        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+      ]
     },
     {
       "state": "sport--buyer-account",
@@ -9865,21 +9799,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9963,21 +9897,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10017,7 +9951,7 @@
       "layoutShifts": [
         {
           "value": 0.001508924915294943,
-          "time": 282.70000000001164
+          "time": 341.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -10026,21 +9960,21 @@
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10163,8 +10097,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0009298982502639203,
+      "layoutShifts": [
+        {
+          "value": 0.0009298982502639203,
+          "time": 464
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -10192,13 +10131,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--seller-panel",
@@ -10271,13 +10206,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--store",
@@ -10309,17 +10240,13 @@
       "layoutShifts": [
         {
           "value": 0.0015315158101708267,
-          "time": 249.79999999998836
+          "time": 345.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--buyer-account",
@@ -10445,7 +10372,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 290.5999999999767
+          "time": 371.30000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -10460,7 +10387,7 @@
     "statusFailures": 8,
     "horizontalOverflow": 0,
     "brokenImages": 76,
-    "browserErrors": 38,
+    "browserErrors": 32,
     "highCls": 0
   }
 }
