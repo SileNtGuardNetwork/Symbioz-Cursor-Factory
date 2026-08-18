@@ -1,210 +1,210 @@
 {
-  "generatedAt": "2026-08-18T07:51:51.210Z",
+  "generatedAt": "2026-08-18T08:51:51.247Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/home.png",
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
     "visual-audit/desktop-1440/furniture--ai-open.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--product.png",
-    "visual-audit/desktop-1440/furniture--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/cars--store.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
-    "visual-audit/desktop-1440/tires--store.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/cosmetics--store.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/tires--store.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
+    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/cosmetics--store.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/tires--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--store.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
     "visual-audit/desktop-1440/shoes--store.png",
-    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
     "visual-audit/desktop-1440/fashion--product.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
-    "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/jewelry--ai-open.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
-    "visual-audit/desktop-1440/jewelry--product.png",
-    "visual-audit/desktop-1440/jewelry--seller-panel.png",
-    "visual-audit/desktop-1440/kids--store.png",
-    "visual-audit/desktop-1440/jewelry--buyer-account.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
     "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--store.png",
+    "visual-audit/desktop-1440/kids--store.png",
+    "visual-audit/desktop-1440/jewelry--ai-open.png",
+    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--product.png",
     "visual-audit/desktop-1440/home--store.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/jewelry--buyer-account.png",
+    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--store.png",
+    "visual-audit/desktop-1440/home--buyer-account.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
     "visual-audit/desktop-1440/lighting--store.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
-    "visual-audit/desktop-1440/lighting--seller-panel.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--store.png",
-    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
-    "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/doors--seller-panel.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/lighting--seller-panel.png",
+    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/building--store.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/building--seller-panel.png",
-    "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/flowers--store.png",
-    "visual-audit/desktop-1440/doors--buyer-account.png",
-    "visual-audit/desktop-1440/flowers--seller-panel.png",
-    "visual-audit/desktop-1440/pets--store.png",
+    "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
-    "visual-audit/desktop-1440/pets--seller-panel.png",
+    "visual-audit/desktop-1440/pets--store.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
     "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--seller-panel.png",
+    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
     "visual-audit/desktop-1440/books--store.png",
-    "visual-audit/desktop-1440/pets--buyer-account.png",
-    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/pets--seller-panel.png",
     "visual-audit/desktop-1440/gifts--store.png",
+    "visual-audit/desktop-1440/pets--buyer-account.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
-    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/coffee--store.png",
-    "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/gifts--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--store.png",
+    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
+    "visual-audit/desktop-1440/coffee--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
     "visual-audit/desktop-1440/coffee--buyer-account.png",
+    "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/food-delivery--store.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
     "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
     "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/home.png",
-    "visual-audit/mobile-390/electronics--store.png",
+    "visual-audit/desktop-1440/optics--seller-panel.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--store.png",
-    "visual-audit/mobile-390/premium-tech--ai-open.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/mobile-390/electronics--seller-panel.png",
-    "visual-audit/mobile-390/premium-tech--seller-panel.png",
+    "visual-audit/mobile-390/premium-tech--ai-open.png",
+    "visual-audit/mobile-390/electronics--store.png",
     "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/electronics--buyer-account.png",
-    "visual-audit/mobile-390/premium-tech--buyer-account.png",
     "visual-audit/mobile-390/furniture--ai-open.png",
-    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/electronics--seller-panel.png",
+    "visual-audit/mobile-390/electronics--buyer-account.png",
     "visual-audit/mobile-390/farm--store.png",
+    "visual-audit/mobile-390/premium-tech--seller-panel.png",
+    "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/premium-tech--buyer-account.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/furniture--product.png",
     "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/furniture--seller-panel.png",
-    "visual-audit/mobile-390/cars--ai-open.png",
-    "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/cars--seller-panel.png",
-    "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/cars--buyer-account.png",
     "visual-audit/mobile-390/auto-parts--store.png",
+    "visual-audit/mobile-390/cars--ai-open.png",
+    "visual-audit/mobile-390/furniture--buyer-account.png",
     "visual-audit/mobile-390/auto-parts--seller-panel.png",
     "visual-audit/mobile-390/tires--store.png",
-    "visual-audit/mobile-390/tires--seller-panel.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
-    "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/cosmetics--product.png",
     "visual-audit/mobile-390/auto-parts--buyer-account.png",
-    "visual-audit/mobile-390/fashion--store.png",
+    "visual-audit/mobile-390/cosmetics--store.png",
+    "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/tires--buyer-account.png",
-    "visual-audit/mobile-390/fashion--ai-open.png",
-    "visual-audit/mobile-390/fashion--product.png",
-    "visual-audit/mobile-390/shoes--store.png",
-    "visual-audit/mobile-390/fashion--seller-panel.png",
-    "visual-audit/mobile-390/shoes--seller-panel.png",
+    "visual-audit/mobile-390/cosmetics--product.png",
+    "visual-audit/mobile-390/cars--seller-panel.png",
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
-    "visual-audit/mobile-390/fashion--buyer-account.png",
-    "visual-audit/mobile-390/shoes--buyer-account.png",
+    "visual-audit/mobile-390/fashion--store.png",
+    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/cars--buyer-account.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
+    "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/jewelry--store.png",
     "visual-audit/mobile-390/jewelry--ai-open.png",
-    "visual-audit/mobile-390/kids--store.png",
-    "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/shoes--seller-panel.png",
     "visual-audit/mobile-390/jewelry--product.png",
-    "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/jewelry--seller-panel.png",
-    "visual-audit/mobile-390/home--seller-panel.png",
+    "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/jewelry--buyer-account.png",
-    "visual-audit/mobile-390/tableware--store.png",
-    "visual-audit/mobile-390/tableware--seller-panel.png",
-    "visual-audit/mobile-390/tableware--buyer-account.png",
+    "visual-audit/mobile-390/kids--store.png",
+    "visual-audit/mobile-390/fashion--product.png",
+    "visual-audit/mobile-390/fashion--seller-panel.png",
+    "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/kids--seller-panel.png",
+    "visual-audit/mobile-390/fashion--buyer-account.png",
+    "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
+    "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/plumbing--store.png",
-    "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
-    "visual-audit/mobile-390/doors--seller-panel.png",
+    "visual-audit/mobile-390/tableware--seller-panel.png",
     "visual-audit/mobile-390/lighting--seller-panel.png",
+    "visual-audit/mobile-390/tableware--buyer-account.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
+    "visual-audit/mobile-390/lighting--buyer-account.png",
+    "visual-audit/mobile-390/doors--store.png",
     "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/building--store.png",
+    "visual-audit/mobile-390/tools--store.png",
+    "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/building--seller-panel.png",
     "visual-audit/mobile-390/doors--buyer-account.png",
-    "visual-audit/mobile-390/lighting--buyer-account.png",
-    "visual-audit/mobile-390/tools--store.png",
-    "visual-audit/mobile-390/flowers--store.png",
-    "visual-audit/mobile-390/flowers--seller-panel.png",
-    "visual-audit/mobile-390/building--buyer-account.png",
-    "visual-audit/mobile-390/pets--store.png",
-    "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/tools--seller-panel.png",
+    "visual-audit/mobile-390/building--buyer-account.png",
+    "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/tools--buyer-account.png",
-    "visual-audit/mobile-390/flowers--buyer-account.png",
+    "visual-audit/mobile-390/pets--store.png",
+    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/books--store.png",
+    "visual-audit/mobile-390/pets--seller-panel.png",
+    "visual-audit/mobile-390/flowers--buyer-account.png",
     "visual-audit/mobile-390/sport--seller-panel.png",
-    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/gifts--store.png",
+    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
-    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/bakery--store.png",
-    "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
+    "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/coffee--buyer-account.png",
-    "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/food-delivery--store.png",
-    "visual-audit/mobile-390/optics--store.png",
+    "visual-audit/mobile-390/bakery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
-    "visual-audit/mobile-390/optics--seller-panel.png",
-    "visual-audit/mobile-390/optics--buyer-account.png",
-    "visual-audit/mobile-390/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
-    "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
-    "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
-    "visual-audit/mobile-390/food-delivery--buyer-account.png"
+    "visual-audit/mobile-390/optics--store.png",
+    "visual-audit/mobile-390/food-delivery--buyer-account.png",
+    "visual-audit/mobile-390/b2b-wholesale--store.png",
+    "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
+    "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/optics--buyer-account.png",
+    "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
   ],
   "pages": [
     {
@@ -229,13 +229,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "auto-parts--seller-panel",
@@ -260,17 +256,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 387
+          "time": 364.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "auto-parts--store",
@@ -362,17 +354,13 @@
       "layoutShifts": [
         {
           "value": 0.0036633649359809027,
-          "time": 564.6000000000058
+          "time": 420.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--ai-open",
@@ -464,17 +452,13 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 592.0999999999767
+          "time": 526.5999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--buyer-account",
@@ -498,13 +482,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--seller-panel",
@@ -529,17 +509,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 388.29999999998836
+          "time": 332.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--store",
@@ -631,17 +607,13 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 592.0999999999767
+          "time": 526.5999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--buyer-account",
@@ -665,13 +637,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--seller-panel",
@@ -692,21 +660,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 391.0999999999767
+          "time": 366.29999999998836
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10225.899999999965
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10365.699999999953
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--store",
@@ -798,17 +770,13 @@
       "layoutShifts": [
         {
           "value": 0.0016429728190104167,
-          "time": 585.9000000000233
+          "time": 368.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--buyer-account",
@@ -832,13 +800,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--seller-panel",
@@ -859,21 +823,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 368
+          "time": 406.79999999998836
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10211.599999999977
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10384.599999999977
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--store",
@@ -965,17 +933,13 @@
       "layoutShifts": [
         {
           "value": 0.001408072509765625,
-          "time": 540.0999999999767
+          "time": 469.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--buyer-account",
@@ -999,13 +963,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--seller-panel",
@@ -1030,17 +990,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 390.1000000000058
+          "time": 361.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--store",
@@ -1132,17 +1088,13 @@
       "layoutShifts": [
         {
           "value": 0.00446937513563368,
-          "time": 648.7000000000116
+          "time": 449.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--ai-open",
@@ -1234,17 +1186,13 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 456.30000000001746
+          "time": 530.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--buyer-account",
@@ -1268,13 +1216,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--seller-panel",
@@ -1299,17 +1243,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 441.6000000000058
+          "time": 349.4000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--store",
@@ -1401,17 +1341,13 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 456.30000000001746
+          "time": 530.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--buyer-account",
@@ -1435,13 +1371,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--seller-panel",
@@ -1462,21 +1394,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 347.4000000000233
+          "time": 373.0999999999767
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10219.099999999977
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10388.399999999965
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--store",
@@ -1568,17 +1504,13 @@
       "layoutShifts": [
         {
           "value": 0.0012486823187934028,
-          "time": 488
+          "time": 442.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--buyer-account",
@@ -1603,13 +1535,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--product",
@@ -1634,13 +1563,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--seller-panel",
@@ -1661,30 +1587,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 436.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10182.899999999994
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10440.5
+          "time": 404.4000000000233
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--store",
@@ -1776,18 +1691,15 @@
       "layoutShifts": [
         {
           "value": 0.001361922878689236,
-          "time": 496.29999999998836
+          "time": 554.2000000000116
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--buyer-account",
@@ -1811,13 +1723,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--seller-panel",
@@ -1842,17 +1750,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 420.0999999999767
+          "time": 301.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--store",
@@ -1944,17 +1848,13 @@
       "layoutShifts": [
         {
           "value": 0.0035778272840711806,
-          "time": 593.8000000000175
+          "time": 702.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--buyer-account",
@@ -1978,13 +1878,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--seller-panel",
@@ -2005,29 +1901,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 904.3000000000175
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10258.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10438.899999999994
+          "time": 535.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--store",
@@ -2119,17 +2003,13 @@
       "layoutShifts": [
         {
           "value": 0.003411773952907986,
-          "time": 1041.3000000000175
+          "time": 942.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--buyer-account",
@@ -2153,13 +2033,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--seller-panel",
@@ -2184,17 +2060,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 414.5999999999767
+          "time": 862.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--store",
@@ -2282,21 +2154,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0016810479058159721,
-      "layoutShifts": [
-        {
-          "value": 0.0016810479058159721,
-          "time": 542.2999999999884
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--ai-open",
@@ -2388,13 +2251,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--buyer-account",
@@ -2419,13 +2279,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--product",
@@ -2450,13 +2307,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--seller-panel",
@@ -2481,18 +2335,15 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 441.5
+          "time": 330.8999999999651
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--store",
@@ -2584,13 +2435,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--buyer-account",
@@ -2614,13 +2462,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--seller-panel",
@@ -2641,21 +2485,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 510.5
+          "time": 353.79999999998836
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10209.700000000012
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10359.099999999977
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--store",
@@ -2743,21 +2591,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0013612664116753473,
-      "layoutShifts": [
-        {
-          "value": 0.0013612664116753473,
-          "time": 535.3000000000175
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--buyer-account",
@@ -2781,13 +2620,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--seller-panel",
@@ -2808,21 +2643,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 360.20000000001164
+          "time": 415.5
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10189.399999999965
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10359
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--store",
@@ -2914,17 +2753,13 @@
       "layoutShifts": [
         {
           "value": 0.003887811008029514,
-          "time": 474.1000000000349
+          "time": 462
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--ai-open",
@@ -3016,18 +2851,15 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 578.6000000000058
+          "time": 318.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--buyer-account",
@@ -3052,13 +2884,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--product",
@@ -3083,13 +2912,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--seller-panel",
@@ -3114,18 +2940,15 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 361.19999999998254
+          "time": 295.0999999999767
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--store",
@@ -3217,18 +3040,15 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 578.6000000000058
+          "time": 318.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--buyer-account",
@@ -3252,13 +3072,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--seller-panel",
@@ -3283,17 +3099,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 462.70000000001164
+          "time": 308.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--store",
@@ -3385,17 +3197,13 @@
       "layoutShifts": [
         {
           "value": 0.0014329854329427083,
-          "time": 506.6000000000058
+          "time": 343.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--buyer-account",
@@ -3419,13 +3227,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--seller-panel",
@@ -3446,29 +3250,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 435.80000000001746
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10247.200000000012
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10713.400000000023
+          "time": 389.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--store",
@@ -3560,17 +3352,13 @@
       "layoutShifts": [
         {
           "value": 0.003537503797743055,
-          "time": 500.8999999999942
+          "time": 386.30000000004657
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home",
@@ -3584,7 +3372,7 @@
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 861,
+      "textLength": 945,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5602,
@@ -3602,7 +3390,7 @@
       "layoutShifts": [
         {
           "value": 0.001987083845727238,
-          "time": 907.1000000000058
+          "time": 601.7000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -3700,18 +3488,15 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 514.2000000000116
+          "time": 351.79999999998836
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--buyer-account",
@@ -3736,13 +3521,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--product",
@@ -3767,13 +3549,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--seller-panel",
@@ -3798,18 +3577,15 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 374.3999999999942
+          "time": 353
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--store",
@@ -3901,18 +3677,15 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 514.2000000000116
+          "time": 351.79999999998836
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--buyer-account",
@@ -3936,13 +3709,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--seller-panel",
@@ -3963,21 +3732,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 391.0999999999767
+          "time": 898.5999999999767
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10286.700000000012
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10446.899999999965
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--store",
@@ -4069,17 +3842,13 @@
       "layoutShifts": [
         {
           "value": 0.0036917571343315974,
-          "time": 491.80000000001746
+          "time": 365.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--buyer-account",
@@ -4103,13 +3872,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--seller-panel",
@@ -4130,21 +3895,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 476.69999999998254
+          "time": 483.8999999999651
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10330.599999999977
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10502.299999999988
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--store",
@@ -4236,17 +4005,13 @@
       "layoutShifts": [
         {
           "value": 0.0037974319118923607,
-          "time": 570.2999999999884
+          "time": 392.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--buyer-account",
@@ -4270,13 +4035,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--seller-panel",
@@ -4301,17 +4062,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 356.5999999999767
+          "time": 332.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--store",
@@ -4403,17 +4160,13 @@
       "layoutShifts": [
         {
           "value": 0.0012400661892361111,
-          "time": 477.4000000000233
+          "time": 384.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--buyer-account",
@@ -4437,13 +4190,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--seller-panel",
@@ -4464,21 +4213,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 363.8999999999651
+          "time": 335.0999999999767
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10184.700000000012
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10336.200000000012
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--store",
@@ -4582,17 +4335,13 @@
       "layoutShifts": [
         {
           "value": 0.003649825303819444,
-          "time": 551.7000000000116
+          "time": 442.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--buyer-account",
@@ -4616,13 +4365,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--seller-panel",
@@ -4643,21 +4388,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 323
+          "time": 322
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10207.200000000012
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10521.900000000023
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--store",
@@ -4749,17 +4498,13 @@
       "layoutShifts": [
         {
           "value": 0.0038471100531684028,
-          "time": 568.5
+          "time": 569.3000000000466
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "plumbing--buyer-account",
@@ -4783,32 +4528,29 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -4839,36 +4581,33 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 347.0999999999767
+          "time": 361.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -4979,36 +4718,33 @@
       "layoutShifts": [
         {
           "value": 0.0035849171278211807,
-          "time": 518.5
+          "time": 419.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5101,7 +4837,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 1121.7000000000116
+          "time": 1033.3000000000466
         }
       ],
       "nextErrorOverlay": false,
@@ -5158,7 +4894,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 496
+          "time": 357
         }
       ],
       "nextErrorOverlay": false,
@@ -5256,7 +4992,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 1121.7000000000116
+          "time": 1033.3000000000466
         }
       ],
       "nextErrorOverlay": false,
@@ -5286,13 +5022,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--seller-panel",
@@ -5317,17 +5049,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 395
+          "time": 322.1000000000349
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--store",
@@ -5419,17 +5147,13 @@
       "layoutShifts": [
         {
           "value": 0.0014324110243055554,
-          "time": 507.30000000001746
+          "time": 529.7999999999884
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "sport--buyer-account",
@@ -5453,32 +5177,29 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5509,36 +5230,33 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 368.20000000001164
+          "time": 311.30000000004657
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5649,36 +5367,33 @@
       "layoutShifts": [
         {
           "value": 0.004515820176866319,
-          "time": 656.2999999999884
+          "time": 442.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5703,13 +5418,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tableware--seller-panel",
@@ -5734,17 +5445,13 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 442.70000000001164
+          "time": 507.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tableware--store",
@@ -5836,17 +5543,13 @@
       "layoutShifts": [
         {
           "value": 0.0034318126085069443,
-          "time": 544.1999999999825
+          "time": 567.2999999999884
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--buyer-account",
@@ -5870,13 +5573,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--seller-panel",
@@ -5897,29 +5596,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 421.20000000001164
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10236.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10423.800000000017
+          "time": 331.4000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--store",
@@ -6011,17 +5698,13 @@
       "layoutShifts": [
         {
           "value": 0.004337851969401041,
-          "time": 523.7999999999884
+          "time": 395.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--buyer-account",
@@ -6045,13 +5728,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--seller-panel",
@@ -6072,29 +5751,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 459.9000000000233
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10241.100000000006
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10429.100000000006
+          "time": 464.19999999995343
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--store",
@@ -6186,17 +5853,13 @@
       "layoutShifts": [
         {
           "value": 0.004270383572048612,
-          "time": 632.5
+          "time": 509.5999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "auto-parts--buyer-account",
@@ -6220,13 +5883,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "auto-parts--seller-panel",
@@ -6299,13 +5958,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "auto-parts--store",
@@ -6330,17 +5985,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 452.6000000000349
+          "time": 358.3999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--ai-open",
@@ -6365,17 +6016,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 478.0999999999767
+          "time": 458.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--buyer-account",
@@ -6399,13 +6046,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--seller-panel",
@@ -6475,16 +6118,21 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
-      "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      "cls": 0.000007181140101559679,
+      "layoutShifts": [
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10167.70000000007
+        },
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10344.099999999977
+        }
       ],
+      "nextErrorOverlay": false,
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "b2b-wholesale--store",
@@ -6509,17 +6157,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 478.0999999999767
+          "time": 458.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--buyer-account",
@@ -6543,13 +6187,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--seller-panel",
@@ -6622,13 +6262,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "bakery--store",
@@ -6652,13 +6288,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--buyer-account",
@@ -6682,13 +6314,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--seller-panel",
@@ -6761,13 +6389,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "books--store",
@@ -6792,17 +6416,13 @@
       "layoutShifts": [
         {
           "value": 0.00004930875182282173,
-          "time": 451.80000000004657
+          "time": 361.20000000006985
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--buyer-account",
@@ -6826,13 +6446,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--seller-panel",
@@ -6905,13 +6521,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "building--store",
@@ -6936,17 +6548,13 @@
       "layoutShifts": [
         {
           "value": 0.0014477610393021098,
-          "time": 495.3999999999651
+          "time": 394.79999999993015
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--ai-open",
@@ -6971,17 +6579,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 525.2000000000116
+          "time": 423.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--buyer-account",
@@ -7005,13 +6609,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--seller-panel",
@@ -7081,16 +6681,21 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
-      "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      "cls": 0.000007181140101559679,
+      "layoutShifts": [
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10171.599999999977
+        },
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10352.700000000012
+        }
       ],
+      "nextErrorOverlay": false,
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cars--store",
@@ -7115,17 +6720,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 525.2000000000116
+          "time": 423.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--buyer-account",
@@ -7149,13 +6750,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--seller-panel",
@@ -7228,13 +6825,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "coffee--store",
@@ -7258,13 +6851,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--buyer-account",
@@ -7289,13 +6878,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--product",
@@ -7320,13 +6906,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--seller-panel",
@@ -7396,26 +6979,14 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.000007181140101559679,
-      "layoutShifts": [
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10150.900000000023
-        },
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10331.099999999977
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "cosmetics--store",
@@ -7440,13 +7011,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--buyer-account",
@@ -7470,13 +7038,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--seller-panel",
@@ -7549,13 +7113,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "doors--store",
@@ -7580,17 +7140,13 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 506.20000000001164
+          "time": 537.8000000000466
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--buyer-account",
@@ -7614,13 +7170,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--seller-panel",
@@ -7693,13 +7245,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "electronics--store",
@@ -7724,17 +7272,13 @@
       "layoutShifts": [
         {
           "value": 0.0012802514975646755,
-          "time": 562.7999999999884
+          "time": 431.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--buyer-account",
@@ -7758,13 +7302,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--seller-panel",
@@ -7837,13 +7377,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "farm--store",
@@ -7867,13 +7403,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--ai-open",
@@ -7917,13 +7449,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--buyer-account",
@@ -7948,13 +7477,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--product",
@@ -7979,13 +7505,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--seller-panel",
@@ -8059,13 +7582,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "fashion--store",
@@ -8109,13 +7629,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--buyer-account",
@@ -8139,13 +7656,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--seller-panel",
@@ -8218,13 +7731,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "flowers--store",
@@ -8256,17 +7765,13 @@
       "layoutShifts": [
         {
           "value": 0.00005561840253000745,
-          "time": 518.7000000000116
+          "time": 419.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--buyer-account",
@@ -8290,13 +7795,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--seller-panel",
@@ -8366,25 +7867,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.000007181140101559679,
-      "layoutShifts": [
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10213.400000000023
-        },
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10449.600000000035
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "food-delivery--store",
@@ -8409,17 +7897,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 489.70000000001164
+          "time": 400.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--ai-open",
@@ -8444,18 +7928,15 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 515.7999999999884
+          "time": 365.3999999999651
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--buyer-account",
@@ -8480,13 +7961,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--product",
@@ -8511,13 +7989,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--seller-panel",
@@ -8591,13 +8066,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "furniture--store",
@@ -8622,18 +8094,15 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 515.7999999999884
+          "time": 365.3999999999651
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--buyer-account",
@@ -8657,13 +8126,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--seller-panel",
@@ -8736,13 +8201,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "gifts--store",
@@ -8773,13 +8234,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--buyer-account",
@@ -8803,13 +8260,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--seller-panel",
@@ -8882,13 +8335,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home--store",
@@ -8913,17 +8362,13 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 574.2999999999884
+          "time": 434.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "home",
@@ -8985,7 +8430,7 @@
       "layoutShifts": [
         {
           "value": 0.08616316777763763,
-          "time": 582.8999999999651
+          "time": 266.5
         }
       ],
       "nextErrorOverlay": false,
@@ -9016,13 +8461,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--buyer-account",
@@ -9047,13 +8489,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--product",
@@ -9078,13 +8517,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--seller-panel",
@@ -9158,13 +8594,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "jewelry--store",
@@ -9189,13 +8622,10 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+        "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--buyer-account",
@@ -9219,13 +8649,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--seller-panel",
@@ -9298,13 +8724,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "kids--store",
@@ -9329,17 +8751,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 471.5
+          "time": 388.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--buyer-account",
@@ -9363,13 +8781,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--seller-panel",
@@ -9442,13 +8856,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "lighting--store",
@@ -9473,17 +8883,13 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 455.5
+          "time": 425.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--buyer-account",
@@ -9507,13 +8913,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--seller-panel",
@@ -9586,13 +8988,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "meat-fish--store",
@@ -9616,13 +9014,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--buyer-account",
@@ -9646,13 +9040,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--seller-panel",
@@ -9725,13 +9115,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "optics--store",
@@ -9756,17 +9142,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 530.2000000000116
+          "time": 465.79999999993015
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--buyer-account",
@@ -9790,13 +9172,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--seller-panel",
@@ -9869,13 +9247,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "pets--store",
@@ -9900,17 +9274,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 493.1000000000349
+          "time": 479.70000000006985
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "plumbing--buyer-account",
@@ -9934,29 +9304,26 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10035,29 +9402,26 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10097,33 +9461,30 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 451.6000000000349
+          "time": 379.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10149,17 +9510,13 @@
       "layoutShifts": [
         {
           "value": 0.001207446615512472,
-          "time": 468.5
+          "time": 372
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -10183,13 +9540,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--seller-panel",
@@ -10259,16 +9612,21 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
-      "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
+      "cls": 0.000007181140101559679,
+      "layoutShifts": [
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10185.599999999977
+        },
+        {
+          "value": 0.0000035905700507798395,
+          "time": 10327.900000000023
+        }
       ],
+      "nextErrorOverlay": false,
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "premium-tech--store",
@@ -10293,17 +9651,13 @@
       "layoutShifts": [
         {
           "value": 0.001207446615512472,
-          "time": 468.5
+          "time": 372
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--buyer-account",
@@ -10327,13 +9681,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--seller-panel",
@@ -10406,13 +9756,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "shoes--store",
@@ -10436,13 +9782,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "sport--buyer-account",
@@ -10466,20 +9808,18 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
@@ -10487,8 +9827,7 @@
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10567,20 +9906,18 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
@@ -10588,8 +9925,7 @@
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10629,24 +9965,22 @@
       "layoutShifts": [
         {
           "value": 0.001508924915294943,
-          "time": 500.29999999998836
+          "time": 419.69999999995343
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
@@ -10654,8 +9988,7 @@
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10680,13 +10013,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tableware--seller-panel",
@@ -10759,13 +10088,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tableware--store",
@@ -10790,17 +10115,13 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 477.70000000001164
+          "time": 412.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--buyer-account",
@@ -10824,13 +10145,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--seller-panel",
@@ -10903,13 +10220,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tires--store",
@@ -10937,21 +10250,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0015315158101708267,
-      "layoutShifts": [
-        {
-          "value": 0.0015315158101708267,
-          "time": 1118.6999999999534
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--buyer-account",
@@ -10975,13 +10279,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--seller-panel",
@@ -11051,25 +10351,12 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.000007181140101559679,
-      "layoutShifts": [
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10548
-        },
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10729.5
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     },
     {
       "state": "tools--store",
@@ -11094,17 +10381,13 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 543.5999999999767
+          "time": 398.69999999995343
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": [
-        "GET https://hdrc.yandex.net/ — net::ERR_CERT_AUTHORITY_INVALID"
-      ]
+      "requestFailures": []
     }
   ],
   "summary": {
@@ -11113,7 +10396,7 @@
     "statusFailures": 8,
     "horizontalOverflow": 0,
     "brokenImages": 76,
-    "browserErrors": 150,
+    "browserErrors": 24,
     "highCls": 0
   }
 }
