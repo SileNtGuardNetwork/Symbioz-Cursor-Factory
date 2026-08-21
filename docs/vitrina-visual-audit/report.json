@@ -1,140 +1,140 @@
 {
-  "generatedAt": "2026-08-21T19:35:59.063Z",
+  "generatedAt": "2026-08-21T20:38:47.339Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/furniture--store.png",
-    "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
-    "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--seller-panel.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
+    "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/tires--store.png",
-    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--store.png",
-    "visual-audit/desktop-1440/tires--seller-panel.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
-    "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/auto-parts--seller-panel.png",
+    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
-    "visual-audit/desktop-1440/shoes--store.png",
+    "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--store.png",
     "visual-audit/desktop-1440/fashion--store.png",
-    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
+    "visual-audit/desktop-1440/shoes--store.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
     "visual-audit/desktop-1440/jewelry--store.png",
     "visual-audit/desktop-1440/fashion--product.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--ai-open.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
-    "visual-audit/desktop-1440/jewelry--product.png",
-    "visual-audit/desktop-1440/shoes--buyer-account.png",
-    "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
     "visual-audit/desktop-1440/kids--store.png",
-    "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--store.png",
-    "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/tableware--seller-panel.png",
-    "visual-audit/desktop-1440/tableware--buyer-account.png",
-    "visual-audit/desktop-1440/kids--seller-panel.png",
     "visual-audit/desktop-1440/home--seller-panel.png",
-    "visual-audit/desktop-1440/lighting--store.png",
-    "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--product.png",
+    "visual-audit/desktop-1440/jewelry--seller-panel.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--store.png",
+    "visual-audit/desktop-1440/kids--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--store.png",
     "visual-audit/desktop-1440/lighting--seller-panel.png",
-    "visual-audit/desktop-1440/doors--store.png",
-    "visual-audit/desktop-1440/lighting--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--seller-panel.png",
+    "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--store.png",
-    "visual-audit/desktop-1440/building--store.png",
-    "visual-audit/desktop-1440/doors--seller-panel.png",
+    "visual-audit/desktop-1440/lighting--buyer-account.png",
+    "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
-    "visual-audit/desktop-1440/doors--buyer-account.png",
-    "visual-audit/desktop-1440/building--seller-panel.png",
+    "visual-audit/desktop-1440/building--store.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/doors--seller-panel.png",
+    "visual-audit/desktop-1440/building--seller-panel.png",
+    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/flowers--store.png",
-    "visual-audit/desktop-1440/tools--seller-panel.png",
     "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/tools--buyer-account.png",
-    "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/tools--seller-panel.png",
     "visual-audit/desktop-1440/flowers--seller-panel.png",
-    "visual-audit/desktop-1440/sport--buyer-account.png",
+    "visual-audit/desktop-1440/tools--buyer-account.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
+    "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
-    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
+    "visual-audit/desktop-1440/books--store.png",
+    "visual-audit/desktop-1440/sport--seller-panel.png",
     "visual-audit/desktop-1440/gifts--store.png",
-    "visual-audit/desktop-1440/coffee--store.png",
     "visual-audit/desktop-1440/books--seller-panel.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
-    "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--store.png",
-    "visual-audit/desktop-1440/coffee--buyer-account.png",
+    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
+    "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/gifts--buyer-account.png",
+    "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
     "visual-audit/desktop-1440/bakery--seller-panel.png",
-    "visual-audit/desktop-1440/gifts--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--buyer-account.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--buyer-account.png",
+    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
+    "visual-audit/desktop-1440/coffee--seller-panel.png",
     "visual-audit/desktop-1440/food-delivery--store.png",
     "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
+    "visual-audit/desktop-1440/coffee--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/optics--seller-panel.png",
     "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/home.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/premium-tech--store.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--ai-open.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/electronics--store.png",
+    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
+    "visual-audit/mobile-390/electronics--buyer-account.png",
     "visual-audit/mobile-390/furniture--store.png",
     "visual-audit/mobile-390/furniture--ai-open.png",
-    "visual-audit/mobile-390/electronics--seller-panel.png",
-    "visual-audit/mobile-390/electronics--buyer-account.png",
-    "visual-audit/mobile-390/farm--store.png",
     "visual-audit/mobile-390/premium-tech--seller-panel.png",
-    "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/farm--store.png",
     "visual-audit/mobile-390/premium-tech--buyer-account.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
-    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/farm--seller-panel.png",
     "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/cars--ai-open.png",
-    "visual-audit/mobile-390/auto-parts--store.png",
-    "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/tires--store.png",
-    "visual-audit/mobile-390/auto-parts--seller-panel.png",
-    "visual-audit/mobile-390/auto-parts--buyer-account.png",
-    "visual-audit/mobile-390/tires--seller-panel.png",
-    "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
     "visual-audit/mobile-390/cars--seller-panel.png",
+    "visual-audit/mobile-390/auto-parts--store.png",
+    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/furniture--seller-panel.png",
+    "visual-audit/mobile-390/auto-parts--seller-panel.png",
+    "visual-audit/mobile-390/furniture--buyer-account.png",
+    "visual-audit/mobile-390/auto-parts--buyer-account.png",
+    "visual-audit/mobile-390/tires--store.png",
+    "visual-audit/mobile-390/cosmetics--store.png",
+    "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/cosmetics--product.png",
     "visual-audit/mobile-390/fashion--store.png",
-    "visual-audit/mobile-390/fashion--ai-open.png",
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
-    "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
     "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/jewelry--store.png",
@@ -142,64 +142,64 @@
     "visual-audit/mobile-390/shoes--seller-panel.png",
     "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/fashion--product.png",
-    "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/kids--store.png",
+    "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/jewelry--product.png",
     "visual-audit/mobile-390/home--store.png",
-    "visual-audit/mobile-390/jewelry--seller-panel.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
-    "visual-audit/mobile-390/home--seller-panel.png",
+    "visual-audit/mobile-390/jewelry--seller-panel.png",
     "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/jewelry--buyer-account.png",
-    "visual-audit/mobile-390/home--buyer-account.png",
+    "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/lighting--store.png",
+    "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
     "visual-audit/mobile-390/plumbing--store.png",
-    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
+    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/doors--store.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
-    "visual-audit/mobile-390/plumbing--buyer-account.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
     "visual-audit/mobile-390/building--store.png",
+    "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/tools--store.png",
     "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/building--seller-panel.png",
-    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/building--buyer-account.png",
-    "visual-audit/mobile-390/tools--buyer-account.png",
+    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/pets--store.png",
+    "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/flowers--buyer-account.png",
-    "visual-audit/mobile-390/sport--seller-panel.png",
+    "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
-    "visual-audit/mobile-390/sport--buyer-account.png",
+    "visual-audit/mobile-390/sport--seller-panel.png",
     "visual-audit/mobile-390/gifts--store.png",
+    "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
-    "visual-audit/mobile-390/coffee--buyer-account.png",
+    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--store.png",
+    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
     "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
-    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
-    "visual-audit/mobile-390/food-delivery--buyer-account.png",
+    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
+    "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/optics--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
@@ -256,7 +256,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 908.0999999999913
+          "time": 474.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -354,7 +354,7 @@
       "layoutShifts": [
         {
           "value": 0.0036633649359809027,
-          "time": 589.3999999999942
+          "time": 497.09999999999127
         }
       ],
       "nextErrorOverlay": false,
@@ -452,7 +452,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 479
+          "time": 387.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -505,11 +505,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 454.69999999998254
+          "time": 413.4000000000233
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10225.100000000006
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10424.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -607,7 +615,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 479
+          "time": 387.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -664,7 +672,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 406.5
+          "time": 388.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -762,7 +770,7 @@
       "layoutShifts": [
         {
           "value": 0.0016429728190104167,
-          "time": 488.5
+          "time": 504.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -792,9 +800,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -821,13 +827,11 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 706.3999999999942
+          "time": 386.3999999999942
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -921,13 +925,11 @@
       "layoutShifts": [
         {
           "value": 0.001408072509765625,
-          "time": 639.1000000000058
+          "time": 381.69999999998254
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -980,7 +982,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 604.7000000000116
+          "time": 423.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1078,7 +1080,7 @@
       "layoutShifts": [
         {
           "value": 0.00446937513563368,
-          "time": 454.3999999999942
+          "time": 421.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1176,7 +1178,7 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 456.90000000000873
+          "time": 331.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1233,15 +1235,15 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 490
+          "time": 390.6000000000058
         },
         {
           "value": 0.00007278163580246914,
-          "time": 10249.5
+          "time": 10211.199999999997
         },
         {
           "value": 0.00007278163580246914,
-          "time": 10437.199999999997
+          "time": 10384.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -1339,7 +1341,7 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 456.90000000000873
+          "time": 331.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1392,11 +1394,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 618.5
+          "time": 388.19999999998254
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10203.899999999994
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10403
         }
       ],
       "nextErrorOverlay": false,
@@ -1494,7 +1504,7 @@
       "layoutShifts": [
         {
           "value": 0.0012486823187934028,
-          "time": 551.3999999999942
+          "time": 366.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1581,7 +1591,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 385.90000000000873
+          "time": 386.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1681,7 +1691,7 @@
       "layoutShifts": [
         {
           "value": 0.001361922878689236,
-          "time": 406.8000000000029
+          "time": 524.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1740,7 +1750,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 396.5
+          "time": 414
         }
       ],
       "nextErrorOverlay": false,
@@ -1838,7 +1848,7 @@
       "layoutShifts": [
         {
           "value": 0.0035778272840711806,
-          "time": 453.8999999999942
+          "time": 574.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -1895,7 +1905,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 424.5
+          "time": 436.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1993,7 +2003,7 @@
       "layoutShifts": [
         {
           "value": 0.003411773952907986,
-          "time": 910.8000000000029
+          "time": 730.4000000000015
         }
       ],
       "nextErrorOverlay": false,
@@ -2050,7 +2060,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 597.1000000000058
+          "time": 389.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -2148,7 +2158,7 @@
       "layoutShifts": [
         {
           "value": 0.0016810479058159721,
-          "time": 554.9000000000087
+          "time": 410.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -2330,7 +2340,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 683.3000000000029
+          "time": 675.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2480,19 +2490,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 371.5
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10199
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10402.100000000006
+          "time": 407.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -2590,7 +2592,7 @@
       "layoutShifts": [
         {
           "value": 0.0013612664116753473,
-          "time": 624.4000000000233
+          "time": 773
         }
       ],
       "nextErrorOverlay": false,
@@ -2643,11 +2645,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 464
+          "time": 384.1000000000058
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10194.5
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10373.300000000017
         }
       ],
       "nextErrorOverlay": false,
@@ -2745,7 +2755,7 @@
       "layoutShifts": [
         {
           "value": 0.003887811008029514,
-          "time": 414.0999999999767
+          "time": 431.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2839,13 +2849,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0016959497070312502,
-      "layoutShifts": [
-        {
-          "value": 0.0016959497070312502,
-          "time": 328.6999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()"
@@ -2932,7 +2937,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 462.8999999999942
+          "time": 409.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3028,13 +3033,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0016959497070312502,
-      "layoutShifts": [
-        {
-          "value": 0.0016959497070312502,
-          "time": 328.6999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()"
@@ -3087,19 +3087,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 449.8999999999942
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10233.600000000006
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10432
+          "time": 424.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -3197,7 +3189,7 @@
       "layoutShifts": [
         {
           "value": 0.0014329854329427083,
-          "time": 558.6999999999825
+          "time": 481.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3250,19 +3242,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 433.3000000000029
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10246.899999999994
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10516.600000000006
+          "time": 443.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3360,7 +3344,7 @@
       "layoutShifts": [
         {
           "value": 0.003537503797743055,
-          "time": 515.5
+          "time": 397
         }
       ],
       "nextErrorOverlay": false,
@@ -3398,7 +3382,7 @@
       "layoutShifts": [
         {
           "value": 0.001987083845727238,
-          "time": 819.3999999999942
+          "time": 1124.300000000003
         }
       ],
       "nextErrorOverlay": false,
@@ -3496,7 +3480,7 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 434.1999999999971
+          "time": 439.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -3585,7 +3569,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 456.59999999999127
+          "time": 402.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -3685,7 +3669,7 @@
       "layoutShifts": [
         {
           "value": 0.0013332352701822916,
-          "time": 434.1999999999971
+          "time": 439.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -3744,15 +3728,15 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 547.1000000000058
+          "time": 474.5
         },
         {
           "value": 0.00007278163580246914,
-          "time": 10308
+          "time": 10254.300000000003
         },
         {
           "value": 0.00007278163580246914,
-          "time": 10518.899999999994
+          "time": 10451.499999999985
         }
       ],
       "nextErrorOverlay": false,
@@ -3850,7 +3834,7 @@
       "layoutShifts": [
         {
           "value": 0.0036917571343315974,
-          "time": 417.3000000000029
+          "time": 416.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3907,7 +3891,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 495.80000000001746
+          "time": 373.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3927,7 +3911,7 @@
       "screenshotPath": "visual-audit/desktop-1440/lighting--store.png",
       "title": "LUX — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/lighting",
-      "textLength": 3026,
+      "textLength": 3110,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 6406,
@@ -4005,7 +3989,7 @@
       "layoutShifts": [
         {
           "value": 0.0037974319118923607,
-          "time": 424.1000000000058
+          "time": 460.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4062,7 +4046,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 584.5999999999767
+          "time": 404.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -4160,7 +4144,7 @@
       "layoutShifts": [
         {
           "value": 0.0012400661892361111,
-          "time": 453.3999999999942
+          "time": 433.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4217,7 +4201,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 390.5
+          "time": 409.69999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -4327,7 +4311,7 @@
       "layoutShifts": [
         {
           "value": 0.003649825303819444,
-          "time": 401.6000000000058
+          "time": 442.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4380,19 +4364,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 396.79999999998836
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10223
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10417
+          "time": 402.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4490,7 +4466,7 @@
       "layoutShifts": [
         {
           "value": 0.0038471100531684028,
-          "time": 592.5999999999767
+          "time": 474.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4524,24 +4500,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4573,7 +4549,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 393.19999999998254
+          "time": 473.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4581,24 +4557,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4710,7 +4686,7 @@
       "layoutShifts": [
         {
           "value": 0.0035849171278211807,
-          "time": 407.79999999998836
+          "time": 445.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4718,24 +4694,24 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
@@ -4751,7 +4727,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--ai-open.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2982,
+      "textLength": 3066,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4206,
@@ -4829,7 +4805,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 912
+          "time": 851.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -4886,7 +4862,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 489.3999999999942
+          "time": 408
         }
       ],
       "nextErrorOverlay": false,
@@ -4906,7 +4882,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--store.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2637,
+      "textLength": 2721,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4206,
@@ -4984,7 +4960,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 912
+          "time": 851.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -5041,7 +5017,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 495.5
+          "time": 357.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -5135,13 +5111,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0014324110243055554,
-      "layoutShifts": [
-        {
-          "value": 0.0014324110243055554,
-          "time": 558.8000000000029
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -5173,25 +5144,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5222,7 +5193,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 373.29999999998836
+          "time": 474.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -5230,25 +5201,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5359,7 +5330,7 @@
       "layoutShifts": [
         {
           "value": 0.004515820176866319,
-          "time": 417
+          "time": 505.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -5367,25 +5338,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -5437,7 +5408,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 474.3000000000029
+          "time": 390.69999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -5535,7 +5506,7 @@
       "layoutShifts": [
         {
           "value": 0.0034318126085069443,
-          "time": 516.5
+          "time": 384.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -5592,7 +5563,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 442.20000000001164
+          "time": 423.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -5690,7 +5661,7 @@
       "layoutShifts": [
         {
           "value": 0.004337851969401041,
-          "time": 429.8000000000029
+          "time": 876.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -5747,7 +5718,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 387.5
+          "time": 644.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -5845,7 +5816,7 @@
       "layoutShifts": [
         {
           "value": 0.004270383572048612,
-          "time": 405.5
+          "time": 1172.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -5977,7 +5948,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 327.5
+          "time": 362.5
         }
       ],
       "nextErrorOverlay": false,
@@ -6008,7 +5979,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 367.5999999999767
+          "time": 381.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -6114,11 +6085,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10210.799999999988
+          "time": 10212.400000000023
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10461.599999999977
+          "time": 10398.900000000023
         }
       ],
       "nextErrorOverlay": false,
@@ -6149,7 +6120,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 367.5999999999767
+          "time": 381.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -6408,7 +6379,7 @@
       "layoutShifts": [
         {
           "value": 0.00004930875182282173,
-          "time": 426.9000000000233
+          "time": 354.69999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -6540,7 +6511,7 @@
       "layoutShifts": [
         {
           "value": 0.0014477610393021098,
-          "time": 385.5
+          "time": 499
         }
       ],
       "nextErrorOverlay": false,
@@ -6571,7 +6542,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 385.79999999998836
+          "time": 431.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -6673,17 +6644,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.000007181140101559679,
-      "layoutShifts": [
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10213.799999999988
-        },
-        {
-          "value": 0.0000035905700507798395,
-          "time": 10398.699999999983
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -6712,7 +6674,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 385.79999999998836
+          "time": 431.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -7128,13 +7090,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0011862163577084626,
-      "layoutShifts": [
-        {
-          "value": 0.0011862163577084626,
-          "time": 398.19999999995343
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -7264,7 +7221,7 @@
       "layoutShifts": [
         {
           "value": 0.0012802514975646755,
-          "time": 374.79999999998836
+          "time": 331.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7757,7 +7714,7 @@
       "layoutShifts": [
         {
           "value": 0.00005561840253000745,
-          "time": 547
+          "time": 360.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -7889,7 +7846,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 371.6000000000349
+          "time": 493.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7920,7 +7877,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 459.30000000001746
+          "time": 612.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -8086,7 +8043,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 459.30000000001746
+          "time": 612.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -8118,7 +8075,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 500 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8193,7 +8152,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 500 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8226,7 +8187,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 500 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8350,13 +8313,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0011862163577084626,
-      "layoutShifts": [
-        {
-          "value": 0.0011862163577084626,
-          "time": 358.20000000001164
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -8422,7 +8380,7 @@
       "layoutShifts": [
         {
           "value": 0.08616316777763763,
-          "time": 309.20000000001164
+          "time": 231.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -8641,9 +8599,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8718,9 +8674,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8747,13 +8701,11 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 603.3000000000466
+          "time": 361.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 500 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -8881,7 +8833,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 340.70000000001164
+          "time": 409.1000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -9140,7 +9092,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 447.20000000001164
+          "time": 472.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -9268,13 +9220,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0011905142430624787,
-      "layoutShifts": [
-        {
-          "value": 0.0011905142430624787,
-          "time": 378.6000000000349
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9306,22 +9253,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9404,22 +9351,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9459,7 +9406,7 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 642.7000000000116
+          "time": 377.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -9467,22 +9414,22 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9508,7 +9455,7 @@
       "layoutShifts": [
         {
           "value": 0.001207446615512472,
-          "time": 526.8000000000175
+          "time": 326.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -9614,11 +9561,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10458
+          "time": 10229.300000000017
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10634
+          "time": 10403
         }
       ],
       "nextErrorOverlay": false,
@@ -9649,7 +9596,7 @@
       "layoutShifts": [
         {
           "value": 0.001207446615512472,
-          "time": 526.8000000000175
+          "time": 326.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -9810,22 +9757,21 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9908,22 +9854,21 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -9963,7 +9908,7 @@
       "layoutShifts": [
         {
           "value": 0.001508924915294943,
-          "time": 404
+          "time": 373.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -9971,22 +9916,21 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -10113,7 +10057,7 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 378.30000000004657
+          "time": 356.5
         }
       ],
       "nextErrorOverlay": false,
@@ -10252,7 +10196,7 @@
       "layoutShifts": [
         {
           "value": 0.0015315158101708267,
-          "time": 402.5
+          "time": 553.7000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -10384,7 +10328,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 346.79999999998836
+          "time": 339.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -10399,7 +10343,7 @@
     "statusFailures": 8,
     "horizontalOverflow": 0,
     "brokenImages": 76,
-    "browserErrors": 28,
+    "browserErrors": 26,
     "highCls": 0
   }
 }
