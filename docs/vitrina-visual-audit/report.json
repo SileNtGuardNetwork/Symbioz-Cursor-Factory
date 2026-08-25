@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-25T17:44:40.287Z",
+  "generatedAt": "2026-08-25T18:55:54.989Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
-    "visual-audit/desktop-1440/home.png",
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
+    "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/premium-tech--ai-open.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/furniture--store.png",
+    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--ai-open.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
-    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--product.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
@@ -19,120 +19,120 @@
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/cars--ai-open.png",
-    "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
-    "visual-audit/desktop-1440/cars--buyer-account.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
-    "visual-audit/desktop-1440/tires--store.png",
-    "visual-audit/desktop-1440/cosmetics--store.png",
+    "visual-audit/desktop-1440/farm--seller-panel.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/tires--seller-panel.png",
-    "visual-audit/desktop-1440/cosmetics--product.png",
+    "visual-audit/desktop-1440/cars--buyer-account.png",
+    "visual-audit/desktop-1440/tires--store.png",
+    "visual-audit/desktop-1440/auto-parts--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--store.png",
     "visual-audit/desktop-1440/fashion--store.png",
-    "visual-audit/desktop-1440/tires--buyer-account.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
+    "visual-audit/desktop-1440/tires--seller-panel.png",
     "visual-audit/desktop-1440/fashion--ai-open.png",
+    "visual-audit/desktop-1440/cosmetics--product.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
-    "visual-audit/desktop-1440/shoes--store.png",
-    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
+    "visual-audit/desktop-1440/tires--buyer-account.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
+    "visual-audit/desktop-1440/cosmetics--buyer-account.png",
+    "visual-audit/desktop-1440/shoes--store.png",
     "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--ai-open.png",
     "visual-audit/desktop-1440/kids--store.png",
-    "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--product.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--buyer-account.png",
     "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/home--store.png",
     "visual-audit/desktop-1440/jewelry--buyer-account.png",
+    "visual-audit/desktop-1440/home--store.png",
     "visual-audit/desktop-1440/kids--buyer-account.png",
-    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--store.png",
     "visual-audit/desktop-1440/lighting--store.png",
-    "visual-audit/desktop-1440/home--buyer-account.png",
+    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
-    "visual-audit/desktop-1440/plumbing--store.png",
+    "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
+    "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/lighting--buyer-account.png",
-    "visual-audit/desktop-1440/plumbing--seller-panel.png",
     "visual-audit/desktop-1440/doors--store.png",
-    "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/plumbing--seller-panel.png",
     "visual-audit/desktop-1440/building--store.png",
+    "visual-audit/desktop-1440/doors--seller-panel.png",
+    "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/building--seller-panel.png",
     "visual-audit/desktop-1440/tools--store.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
-    "visual-audit/desktop-1440/doors--seller-panel.png",
     "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
-    "visual-audit/desktop-1440/doors--buyer-account.png",
-    "visual-audit/desktop-1440/tools--buyer-account.png",
-    "visual-audit/desktop-1440/flowers--seller-panel.png",
     "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/flowers--seller-panel.png",
+    "visual-audit/desktop-1440/tools--buyer-account.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
-    "visual-audit/desktop-1440/books--store.png",
-    "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--buyer-account.png",
+    "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
-    "visual-audit/desktop-1440/sport--buyer-account.png",
-    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/gifts--store.png",
-    "visual-audit/desktop-1440/coffee--store.png",
-    "visual-audit/desktop-1440/books--buyer-account.png",
+    "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/books--seller-panel.png",
+    "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--store.png",
-    "visual-audit/desktop-1440/coffee--seller-panel.png",
+    "visual-audit/desktop-1440/books--buyer-account.png",
     "visual-audit/desktop-1440/gifts--buyer-account.png",
-    "visual-audit/desktop-1440/coffee--buyer-account.png",
-    "visual-audit/desktop-1440/bakery--seller-panel.png",
+    "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
-    "visual-audit/desktop-1440/food-delivery--store.png",
-    "visual-audit/desktop-1440/bakery--buyer-account.png",
+    "visual-audit/desktop-1440/bakery--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
-    "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
+    "visual-audit/desktop-1440/bakery--buyer-account.png",
     "visual-audit/desktop-1440/meat-fish--buyer-account.png",
-    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--store.png",
+    "visual-audit/desktop-1440/coffee--seller-panel.png",
+    "visual-audit/desktop-1440/optics--store.png",
+    "visual-audit/desktop-1440/coffee--buyer-account.png",
+    "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/desktop-1440/optics--seller-panel.png",
+    "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/home.png",
-    "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--ai-open.png",
+    "visual-audit/mobile-390/home.png",
     "visual-audit/mobile-390/premium-tech--store.png",
     "visual-audit/mobile-390/premium-tech--ai-open.png",
     "visual-audit/mobile-390/electronics--store.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
-    "visual-audit/mobile-390/furniture--store.png",
-    "visual-audit/mobile-390/furniture--ai-open.png",
     "visual-audit/mobile-390/electronics--seller-panel.png",
     "visual-audit/mobile-390/electronics--buyer-account.png",
-    "visual-audit/mobile-390/farm--store.png",
+    "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
+    "visual-audit/mobile-390/furniture--store.png",
+    "visual-audit/mobile-390/furniture--ai-open.png",
     "visual-audit/mobile-390/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--buyer-account.png",
-    "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/furniture--product.png",
+    "visual-audit/mobile-390/farm--store.png",
     "visual-audit/mobile-390/cars--store.png",
-    "visual-audit/mobile-390/farm--buyer-account.png",
     "visual-audit/mobile-390/cars--ai-open.png",
+    "visual-audit/mobile-390/farm--seller-panel.png",
+    "visual-audit/mobile-390/farm--buyer-account.png",
+    "visual-audit/mobile-390/furniture--product.png",
     "visual-audit/mobile-390/furniture--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--store.png",
     "visual-audit/mobile-390/furniture--buyer-account.png",
-    "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/auto-parts--seller-panel.png",
+    "visual-audit/mobile-390/tires--store.png",
+    "visual-audit/mobile-390/cars--seller-panel.png",
     "visual-audit/mobile-390/auto-parts--buyer-account.png",
+    "visual-audit/mobile-390/cars--buyer-account.png",
     "visual-audit/mobile-390/tires--seller-panel.png",
     "visual-audit/mobile-390/cosmetics--store.png",
-    "visual-audit/mobile-390/cars--seller-panel.png",
-    "visual-audit/mobile-390/tires--buyer-account.png",
-    "visual-audit/mobile-390/cars--buyer-account.png",
     "visual-audit/mobile-390/fashion--store.png",
-    "visual-audit/mobile-390/cosmetics--product.png",
+    "visual-audit/mobile-390/tires--buyer-account.png",
     "visual-audit/mobile-390/fashion--ai-open.png",
+    "visual-audit/mobile-390/cosmetics--product.png",
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
     "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
@@ -140,67 +140,67 @@
     "visual-audit/mobile-390/jewelry--store.png",
     "visual-audit/mobile-390/jewelry--ai-open.png",
     "visual-audit/mobile-390/shoes--buyer-account.png",
-    "visual-audit/mobile-390/kids--store.png",
     "visual-audit/mobile-390/fashion--seller-panel.png",
+    "visual-audit/mobile-390/kids--store.png",
     "visual-audit/mobile-390/fashion--buyer-account.png",
-    "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/home--store.png",
+    "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
     "visual-audit/mobile-390/jewelry--product.png",
-    "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/home--buyer-account.png",
-    "visual-audit/mobile-390/tableware--seller-panel.png",
     "visual-audit/mobile-390/jewelry--buyer-account.png",
-    "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/lighting--store.png",
+    "visual-audit/mobile-390/tableware--seller-panel.png",
+    "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
-    "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
     "visual-audit/mobile-390/lighting--seller-panel.png",
-    "visual-audit/mobile-390/plumbing--buyer-account.png",
-    "visual-audit/mobile-390/doors--seller-panel.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
+    "visual-audit/mobile-390/doors--store.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
+    "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/building--store.png",
-    "visual-audit/mobile-390/doors--buyer-account.png",
+    "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/tools--store.png",
-    "visual-audit/mobile-390/flowers--store.png",
+    "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/building--seller-panel.png",
     "visual-audit/mobile-390/tools--seller-panel.png",
+    "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/building--buyer-account.png",
-    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/pets--store.png",
-    "visual-audit/mobile-390/flowers--buyer-account.png",
+    "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/sport--store.png",
-    "visual-audit/mobile-390/books--store.png",
+    "visual-audit/mobile-390/flowers--buyer-account.png",
     "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/sport--seller-panel.png",
+    "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
-    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/gifts--store.png",
-    "visual-audit/mobile-390/books--buyer-account.png",
     "visual-audit/mobile-390/coffee--store.png",
-    "visual-audit/mobile-390/bakery--store.png",
+    "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
+    "visual-audit/mobile-390/books--buyer-account.png",
     "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
-    "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--store.png",
-    "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--store.png",
-    "visual-audit/mobile-390/optics--store.png",
+    "visual-audit/mobile-390/bakery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
+    "visual-audit/mobile-390/bakery--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
-    "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--ai-open.png",
+    "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
   ],
@@ -254,7 +254,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 435.79999999998836
+          "time": 472.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -352,7 +352,7 @@
       "layoutShifts": [
         {
           "value": 0.0036633649359809027,
-          "time": 539.5999999999767
+          "time": 542.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -450,7 +450,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 340.70000000001164
+          "time": 405
         }
       ],
       "nextErrorOverlay": false,
@@ -503,11 +503,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 497.5999999999767
+          "time": 449.70000000001164
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10253.800000000017
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10431.700000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -605,7 +613,7 @@
       "layoutShifts": [
         {
           "value": 0.004100161675347222,
-          "time": 340.70000000001164
+          "time": 405
         }
       ],
       "nextErrorOverlay": false,
@@ -662,7 +670,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 464.5
+          "time": 456.5
         }
       ],
       "nextErrorOverlay": false,
@@ -760,7 +768,7 @@
       "layoutShifts": [
         {
           "value": 0.0016429728190104167,
-          "time": 410.4000000000233
+          "time": 405.5
         }
       ],
       "nextErrorOverlay": false,
@@ -817,7 +825,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 465.6000000000349
+          "time": 417.5
         }
       ],
       "nextErrorOverlay": false,
@@ -915,7 +923,7 @@
       "layoutShifts": [
         {
           "value": 0.001408072509765625,
-          "time": 443.29999999998836
+          "time": 521.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -972,7 +980,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 450.20000000001164
+          "time": 410.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1070,7 +1078,7 @@
       "layoutShifts": [
         {
           "value": 0.00446937513563368,
-          "time": 531.4000000000233
+          "time": 594.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -1168,7 +1176,7 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 629
+          "time": 505.40000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -1221,11 +1229,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 449.69999999995343
+          "time": 416.40000000000873
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10220.800000000003
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10432.700000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -1323,7 +1339,7 @@
       "layoutShifts": [
         {
           "value": 0.004195759684244791,
-          "time": 629
+          "time": 505.40000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -1376,11 +1392,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 557.8999999999651
+          "time": 436.6000000000058
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10232.799999999988
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10459.100000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -1478,7 +1502,7 @@
       "layoutShifts": [
         {
           "value": 0.0012486823187934028,
-          "time": 589.1000000000349
+          "time": 584.3000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -1565,7 +1589,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 417.0999999999767
+          "time": 514.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -1665,7 +1689,7 @@
       "layoutShifts": [
         {
           "value": 0.001361922878689236,
-          "time": 458.0999999999767
+          "time": 432.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1720,19 +1744,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00018179976851851853,
+      "cls": 0.00003623649691358025,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 452.9000000000233
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10238.200000000012
-        },
-        {
-          "value": 0.00007278163580246914,
-          "time": 10466.299999999988
+          "time": 409.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1830,7 +1846,7 @@
       "layoutShifts": [
         {
           "value": 0.0035778272840711806,
-          "time": 464.1000000000349
+          "time": 462.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1887,7 +1903,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 409.5
+          "time": 432.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -1985,7 +2001,7 @@
       "layoutShifts": [
         {
           "value": 0.003411773952907986,
-          "time": 1195.0999999999767
+          "time": 761.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -2038,11 +2054,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00018179976851851853,
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 954.4000000000233
+          "time": 575.3000000000029
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10275.400000000009
+        },
+        {
+          "value": 0.00007278163580246914,
+          "time": 10472.200000000012
         }
       ],
       "nextErrorOverlay": false,
@@ -2136,8 +2160,13 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0016810479058159721,
+      "layoutShifts": [
+        {
+          "value": 0.0016810479058159721,
+          "time": 543.3000000000029
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -2233,7 +2262,7 @@
       "layoutShifts": [
         {
           "value": 0.000374546199845679,
-          "time": 598.7000000000116
+          "time": 357.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2290,7 +2319,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 487.70000000001164
+          "time": 509.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2388,7 +2417,7 @@
       "layoutShifts": [
         {
           "value": 0.000374546199845679,
-          "time": 598.7000000000116
+          "time": 357.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2445,7 +2474,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 468.79999999998836
+          "time": 782.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -2543,7 +2572,7 @@
       "layoutShifts": [
         {
           "value": 0.0013612664116753473,
-          "time": 425.5999999999767
+          "time": 551.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -2600,7 +2629,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 428.0999999999767
+          "time": 414.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -2698,7 +2727,7 @@
       "layoutShifts": [
         {
           "value": 0.003887811008029514,
-          "time": 484.3999999999651
+          "time": 443.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -2796,7 +2825,7 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 423
+          "time": 397.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -2885,7 +2914,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 410.79999999998836
+          "time": 400.40000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -2985,7 +3014,7 @@
       "layoutShifts": [
         {
           "value": 0.0016959497070312502,
-          "time": 423
+          "time": 397.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3007,10 +3036,10 @@
       "screenshotPath": "visual-audit/desktop-1440/gifts--buyer-account.png",
       "title": "Кабинет покупателя · Витрина",
       "finalUrl": "https://www.delaemdigital.com/buyer?store=gifts",
-      "textLength": 376,
+      "textLength": 336,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
-      "scrollHeight": 1082,
+      "scrollHeight": 1040,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -3033,18 +3062,18 @@
       "screenshotPath": "visual-audit/desktop-1440/gifts--seller-panel.png",
       "title": "Панель продавца — MOMENT · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/gifts/manage",
-      "textLength": 1525,
+      "textLength": 1527,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 1696,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.00003623649691358025,
+      "cls": 0.00002646053361304012,
       "layoutShifts": [
         {
-          "value": 0.00003623649691358025,
-          "time": 401.79999999998836
+          "value": 0.00002646053361304012,
+          "time": 2212
         }
       ],
       "nextErrorOverlay": false,
@@ -3142,7 +3171,7 @@
       "layoutShifts": [
         {
           "value": 0.0014329854329427083,
-          "time": 355.5
+          "time": 417.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3199,7 +3228,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 420.29999999998836
+          "time": 311.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3297,7 +3326,7 @@
       "layoutShifts": [
         {
           "value": 0.003537503797743055,
-          "time": 459.5
+          "time": 374.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -3317,7 +3346,7 @@
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Витрина — готовые интернет-магазины под ключ",
       "finalUrl": "https://www.delaemdigital.com/",
-      "textLength": 861,
+      "textLength": 945,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 5602,
@@ -3335,7 +3364,7 @@
       "layoutShifts": [
         {
           "value": 0.001987083845727238,
-          "time": 486.9000000000233
+          "time": 738.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3429,11 +3458,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0013332352701822916,
+      "cls": 0.00006523980034722222,
       "layoutShifts": [
         {
-          "value": 0.0013332352701822916,
-          "time": 429.4000000000233
+          "value": 0.00006523980034722222,
+          "time": 594
         }
       ],
       "nextErrorOverlay": false,
@@ -3522,7 +3551,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 427.20000000001164
+          "time": 425.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -3618,11 +3647,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0013332352701822916,
+      "cls": 0.00006523980034722222,
       "layoutShifts": [
         {
-          "value": 0.0013332352701822916,
-          "time": 429.4000000000233
+          "value": 0.00006523980034722222,
+          "time": 594
         }
       ],
       "nextErrorOverlay": false,
@@ -3681,7 +3710,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 425
+          "time": 461.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -3779,7 +3808,7 @@
       "layoutShifts": [
         {
           "value": 0.0036917571343315974,
-          "time": 478.4000000000233
+          "time": 1367.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3836,7 +3865,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 602.7000000000116
+          "time": 580.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3934,7 +3963,7 @@
       "layoutShifts": [
         {
           "value": 0.0037974319118923607,
-          "time": 508.5999999999767
+          "time": 428.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -3991,7 +4020,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 432.5999999999767
+          "time": 453.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4089,7 +4118,7 @@
       "layoutShifts": [
         {
           "value": 0.0012400661892361111,
-          "time": 360.5
+          "time": 496.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4146,7 +4175,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 609
+          "time": 427.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4256,7 +4285,7 @@
       "layoutShifts": [
         {
           "value": 0.003649825303819444,
-          "time": 366.8999999999651
+          "time": 437.69999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -4313,7 +4342,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 556.6000000000349
+          "time": 389.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4411,7 +4440,7 @@
       "layoutShifts": [
         {
           "value": 0.0038471100531684028,
-          "time": 673.4000000000233
+          "time": 584
         }
       ],
       "nextErrorOverlay": false,
@@ -4445,25 +4474,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -4494,7 +4523,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 297.69999999995343
+          "time": 423.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -4502,25 +4531,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -4631,7 +4660,7 @@
       "layoutShifts": [
         {
           "value": 0.0035849171278211807,
-          "time": 414.69999999995343
+          "time": 392.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4639,25 +4668,25 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-9 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-10 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB"
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB"
       ]
     },
     {
@@ -4672,7 +4701,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--ai-open.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2991,
+      "textLength": 3075,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4206,
@@ -4750,7 +4779,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 1193.8000000000466
+          "time": 977.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -4807,7 +4836,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 441
+          "time": 822.0999999999913
         }
       ],
       "nextErrorOverlay": false,
@@ -4827,7 +4856,7 @@
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--store.png",
       "title": "NEXO — интернет-магазин · Витрина",
       "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
-      "textLength": 2637,
+      "textLength": 2721,
       "viewportWidth": 1440,
       "scrollWidth": 1425,
       "scrollHeight": 4206,
@@ -4905,7 +4934,7 @@
       "layoutShifts": [
         {
           "value": 0.00698260986328125,
-          "time": 1193.8000000000466
+          "time": 977.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -4962,7 +4991,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 443.6000000000349
+          "time": 528.7999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -5060,7 +5089,7 @@
       "layoutShifts": [
         {
           "value": 0.0014324110243055554,
-          "time": 483.9000000000233
+          "time": 440
         }
       ],
       "nextErrorOverlay": false,
@@ -5094,23 +5123,23 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -5143,7 +5172,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 538.5
+          "time": 392.5
         }
       ],
       "nextErrorOverlay": false,
@@ -5151,23 +5180,23 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -5280,7 +5309,7 @@
       "layoutShifts": [
         {
           "value": 0.004515820176866319,
-          "time": 396
+          "time": 407.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -5288,23 +5317,23 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-9 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-11 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-8 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-10 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -5358,7 +5387,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 419.70000000001164
+          "time": 411.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -5456,7 +5485,7 @@
       "layoutShifts": [
         {
           "value": 0.0034318126085069443,
-          "time": 522.7999999999884
+          "time": 517.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -5513,7 +5542,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 444.79999999998836
+          "time": 418.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -5611,7 +5640,7 @@
       "layoutShifts": [
         {
           "value": 0.004337851969401041,
-          "time": 639.8999999999651
+          "time": 497.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -5668,7 +5697,7 @@
       "layoutShifts": [
         {
           "value": 0.00003623649691358025,
-          "time": 1038.5999999999767
+          "time": 598.3000000000175
         }
       ],
       "nextErrorOverlay": false,
@@ -5766,7 +5795,7 @@
       "layoutShifts": [
         {
           "value": 0.004270383572048612,
-          "time": 420.79999999998836
+          "time": 387.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -5898,7 +5927,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 363
+          "time": 329.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -5929,7 +5958,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 333.69999999995343
+          "time": 529
         }
       ],
       "nextErrorOverlay": false,
@@ -6035,11 +6064,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10215.29999999993
+          "time": 10257.700000000012
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10414.699999999953
+          "time": 10478.799999999988
         }
       ],
       "nextErrorOverlay": false,
@@ -6070,7 +6099,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 333.69999999995343
+          "time": 529
         }
       ],
       "nextErrorOverlay": false,
@@ -6329,7 +6358,7 @@
       "layoutShifts": [
         {
           "value": 0.00004930875182282173,
-          "time": 370.5
+          "time": 407.5
         }
       ],
       "nextErrorOverlay": false,
@@ -6461,7 +6490,7 @@
       "layoutShifts": [
         {
           "value": 0.0014477610393021098,
-          "time": 427.9000000000233
+          "time": 356.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -6492,7 +6521,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 331.20000000001164
+          "time": 356.5
         }
       ],
       "nextErrorOverlay": false,
@@ -6598,11 +6627,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10357.600000000035
+          "time": 10272.699999999983
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10549
+          "time": 10515.699999999983
         }
       ],
       "nextErrorOverlay": false,
@@ -6633,7 +6662,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 331.20000000001164
+          "time": 356.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7053,7 +7082,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 349.30000000004657
+          "time": 319.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -7185,7 +7214,7 @@
       "layoutShifts": [
         {
           "value": 0.0012802514975646755,
-          "time": 539.5
+          "time": 327.5
         }
       ],
       "nextErrorOverlay": false,
@@ -7554,7 +7583,7 @@
       "layoutShifts": [
         {
           "value": 0.030107307830531137,
-          "time": 397
+          "time": 385.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -7581,8 +7610,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.022856475574188847,
+      "layoutShifts": [
+        {
+          "value": 0.022856475574188847,
+          "time": 92.5
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -7660,11 +7694,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10224.300000000047
+          "time": 10233.700000000012
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10416.400000000023
+          "time": 10461.100000000035
         }
       ],
       "nextErrorOverlay": false,
@@ -7906,7 +7940,7 @@
       "layoutShifts": [
         {
           "value": 0.030107307830531137,
-          "time": 397
+          "time": 385.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -8041,13 +8075,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.00005561840253000745,
-      "layoutShifts": [
-        {
-          "value": 0.00005561840253000745,
-          "time": 350.20000000006985
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -8177,7 +8206,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 313
+          "time": 332.8999999999651
         }
       ],
       "nextErrorOverlay": false,
@@ -8208,7 +8237,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 324.79999999998836
+          "time": 342.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -8374,7 +8403,7 @@
       "layoutShifts": [
         {
           "value": 0.00004633657647298682,
-          "time": 324.79999999998836
+          "time": 342.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -8642,7 +8671,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 354.5
+          "time": 375.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -8706,13 +8735,8 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.08616316777763763,
-      "layoutShifts": [
-        {
-          "value": 0.08616316777763763,
-          "time": 236.5
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9031,7 +9055,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 358.20000000001164
+          "time": 340.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -9163,7 +9187,7 @@
       "layoutShifts": [
         {
           "value": 0.0011862163577084626,
-          "time": 388.29999999993015
+          "time": 438.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -9422,7 +9446,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 340.19999999995343
+          "time": 444.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -9554,7 +9578,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 355.20000000006985
+          "time": 371
         }
       ],
       "nextErrorOverlay": false,
@@ -9588,18 +9612,18 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
@@ -9686,18 +9710,18 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
@@ -9741,7 +9765,7 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 353.29999999993015
+          "time": 323.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -9749,18 +9773,18 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-5 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-4 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=960&q=82&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-3 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=1200&q=86&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1584622650111-993a426fbf0?auto=format&fit=crop&w=320&q=72&sig=plumbing-2 — net::ERR_BLOCKED_BY_ORB",
@@ -9786,13 +9810,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.001207446615512472,
-      "layoutShifts": [
-        {
-          "value": 0.001207446615512472,
-          "time": 877.1000000000349
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -9896,11 +9915,11 @@
       "layoutShifts": [
         {
           "value": 0.0000035905700507798395,
-          "time": 10219.700000000012
+          "time": 10228.899999999994
         },
         {
           "value": 0.0000035905700507798395,
-          "time": 10417.800000000047
+          "time": 10440.099999999977
         }
       ],
       "nextErrorOverlay": false,
@@ -9927,13 +9946,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.001207446615512472,
-      "layoutShifts": [
-        {
-          "value": 0.001207446615512472,
-          "time": 877.1000000000349
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -10092,20 +10106,20 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -10190,20 +10204,20 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -10245,7 +10259,7 @@
       "layoutShifts": [
         {
           "value": 0.001508924915294943,
-          "time": 339.20000000006985
+          "time": 515.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -10253,20 +10267,20 @@
       "pageErrors": [],
       "requestFailures": [
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-5 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-7 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-4 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-6 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=960&q=82&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-3 — net::ERR_BLOCKED_BY_ORB",
-        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=1200&q=86&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-0 — net::ERR_BLOCKED_BY_ORB",
+        "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-1 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-2 — net::ERR_BLOCKED_BY_ORB",
         "GET https://images.unsplash.com/photo-1517836357463-d25dfeac3438c6dd?auto=format&fit=crop&w=320&q=72&sig=sport-3 — net::ERR_BLOCKED_BY_ORB"
       ]
@@ -10395,7 +10409,7 @@
       "layoutShifts": [
         {
           "value": 0.0009298982502639203,
-          "time": 364.79999999993015
+          "time": 346.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -10534,7 +10548,7 @@
       "layoutShifts": [
         {
           "value": 0.0015315158101708267,
-          "time": 451.79999999998836
+          "time": 326.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -10666,7 +10680,7 @@
       "layoutShifts": [
         {
           "value": 0.0011905142430624787,
-          "time": 416.20000000006985
+          "time": 425.20000000001164
         }
       ],
       "nextErrorOverlay": false,
