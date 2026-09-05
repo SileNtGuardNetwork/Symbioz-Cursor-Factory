@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-05T09:02:10.881Z",
+  "generatedAt": "2026-09-05T12:40:16.624Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/cars--store.png",
-    "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/furniture--buyer-account.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
+    "visual-audit/desktop-1440/farm--store.png",
+    "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/cars--buyer-account.png",
     "visual-audit/desktop-1440/farm--buyer-account.png",
+    "visual-audit/desktop-1440/cars--buyer-account.png",
     "visual-audit/desktop-1440/tires--store.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
     "visual-audit/desktop-1440/cosmetics--store.png",
     "visual-audit/desktop-1440/tires--seller-panel.png",
-    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--store.png",
+    "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
     "visual-audit/desktop-1440/tires--buyer-account.png",
     "visual-audit/desktop-1440/cosmetics--buyer-account.png",
-    "visual-audit/desktop-1440/shoes--store.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--store.png",
-    "visual-audit/desktop-1440/shoes--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--store.png",
     "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
+    "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/shoes--buyer-account.png",
     "visual-audit/desktop-1440/jewelry--buyer-account.png",
-    "visual-audit/desktop-1440/home--store.png",
+    "visual-audit/desktop-1440/shoes--buyer-account.png",
     "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/home--store.png",
     "visual-audit/desktop-1440/tableware--store.png",
-    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/lighting--store.png",
+    "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
     "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
     "visual-audit/desktop-1440/tableware--buyer-account.png",
-    "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/lighting--buyer-account.png",
+    "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
     "visual-audit/desktop-1440/building--store.png",
@@ -57,8 +57,8 @@
     "visual-audit/desktop-1440/building--seller-panel.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
     "visual-audit/desktop-1440/doors--buyer-account.png",
-    "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/tools--store.png",
+    "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
     "visual-audit/desktop-1440/pets--store.png",
@@ -66,17 +66,17 @@
     "visual-audit/desktop-1440/pets--seller-panel.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
     "visual-audit/desktop-1440/flowers--buyer-account.png",
-    "visual-audit/desktop-1440/pets--buyer-account.png",
     "visual-audit/desktop-1440/sport--store.png",
+    "visual-audit/desktop-1440/pets--buyer-account.png",
     "visual-audit/desktop-1440/books--store.png",
-    "visual-audit/desktop-1440/gifts--store.png",
     "visual-audit/desktop-1440/sport--seller-panel.png",
+    "visual-audit/desktop-1440/gifts--store.png",
     "visual-audit/desktop-1440/books--seller-panel.png",
     "visual-audit/desktop-1440/gifts--seller-panel.png",
     "visual-audit/desktop-1440/sport--buyer-account.png",
     "visual-audit/desktop-1440/books--buyer-account.png",
-    "visual-audit/desktop-1440/gifts--buyer-account.png",
     "visual-audit/desktop-1440/coffee--store.png",
+    "visual-audit/desktop-1440/gifts--buyer-account.png",
     "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/coffee--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
@@ -84,21 +84,21 @@
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
     "visual-audit/desktop-1440/coffee--buyer-account.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
-    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/food-delivery--store.png",
+    "visual-audit/desktop-1440/meat-fish--buyer-account.png",
     "visual-audit/desktop-1440/optics--store.png",
-    "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/food-delivery--seller-panel.png",
     "visual-audit/desktop-1440/optics--seller-panel.png",
+    "visual-audit/desktop-1440/b2b-wholesale--store.png",
     "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
     "visual-audit/desktop-1440/food-delivery--buyer-account.png",
     "visual-audit/desktop-1440/optics--buyer-account.png",
-    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/home.png",
+    "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
     "visual-audit/mobile-390/premium-tech--store.png",
     "visual-audit/mobile-390/electronics--store.png",
-    "visual-audit/mobile-390/premium-tech--seller-panel.png",
     "visual-audit/mobile-390/furniture--store.png",
+    "visual-audit/mobile-390/premium-tech--seller-panel.png",
     "visual-audit/mobile-390/electronics--seller-panel.png",
     "visual-audit/mobile-390/furniture--seller-panel.png",
     "visual-audit/mobile-390/premium-tech--buyer-account.png",
@@ -108,11 +108,11 @@
     "visual-audit/mobile-390/cars--store.png",
     "visual-audit/mobile-390/auto-parts--store.png",
     "visual-audit/mobile-390/farm--seller-panel.png",
-    "visual-audit/mobile-390/auto-parts--seller-panel.png",
     "visual-audit/mobile-390/cars--seller-panel.png",
+    "visual-audit/mobile-390/auto-parts--seller-panel.png",
     "visual-audit/mobile-390/farm--buyer-account.png",
-    "visual-audit/mobile-390/auto-parts--buyer-account.png",
     "visual-audit/mobile-390/cars--buyer-account.png",
+    "visual-audit/mobile-390/auto-parts--buyer-account.png",
     "visual-audit/mobile-390/tires--store.png",
     "visual-audit/mobile-390/cosmetics--store.png",
     "visual-audit/mobile-390/fashion--store.png",
@@ -131,55 +131,55 @@
     "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/jewelry--buyer-account.png",
     "visual-audit/mobile-390/kids--buyer-account.png",
-    "visual-audit/mobile-390/home--store.png",
     "visual-audit/mobile-390/tableware--store.png",
+    "visual-audit/mobile-390/home--store.png",
     "visual-audit/mobile-390/lighting--store.png",
-    "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
+    "visual-audit/mobile-390/home--seller-panel.png",
     "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
     "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/doors--store.png",
-    "visual-audit/mobile-390/plumbing--seller-panel.png",
     "visual-audit/mobile-390/building--store.png",
+    "visual-audit/mobile-390/plumbing--seller-panel.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
     "visual-audit/mobile-390/building--seller-panel.png",
     "visual-audit/mobile-390/plumbing--buyer-account.png",
+    "visual-audit/mobile-390/building--buyer-account.png",
     "visual-audit/mobile-390/doors--buyer-account.png",
     "visual-audit/mobile-390/tools--store.png",
-    "visual-audit/mobile-390/building--buyer-account.png",
     "visual-audit/mobile-390/flowers--store.png",
-    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/pets--store.png",
+    "visual-audit/mobile-390/tools--seller-panel.png",
     "visual-audit/mobile-390/flowers--seller-panel.png",
     "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/flowers--buyer-account.png",
-    "visual-audit/mobile-390/sport--store.png",
     "visual-audit/mobile-390/pets--buyer-account.png",
+    "visual-audit/mobile-390/sport--store.png",
     "visual-audit/mobile-390/books--store.png",
-    "visual-audit/mobile-390/sport--seller-panel.png",
     "visual-audit/mobile-390/gifts--store.png",
+    "visual-audit/mobile-390/sport--seller-panel.png",
     "visual-audit/mobile-390/books--seller-panel.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/books--buyer-account.png",
-    "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
+    "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/bakery--store.png",
-    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--store.png",
+    "visual-audit/mobile-390/coffee--seller-panel.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
-    "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
+    "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/optics--store.png",
-    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
+    "visual-audit/mobile-390/food-delivery--seller-panel.png",
     "visual-audit/mobile-390/optics--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/food-delivery--buyer-account.png",
@@ -236,7 +236,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 125.10000000000582
+          "time": 189.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -263,15 +263,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 180.59999999999127
+          "time": 344.79999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 209
+          "value": 0.01555896829487365,
+          "time": 450.1000000000349
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 464.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -302,7 +306,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 283.40000000000873
+          "time": 216.40000000002328
         }
       ],
       "nextErrorOverlay": false,
@@ -337,7 +341,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 113.5
+          "time": 193.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -368,15 +372,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 203.60000000000582
+          "time": 325.30000000004657
         },
         {
-          "value": 0.04801282793209877,
-          "time": 217
+          "value": 0.051291264904634454,
+          "time": 405.6000000000349
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 442.5
         }
       ],
       "nextErrorOverlay": false,
@@ -407,8 +415,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 179.80000000004657
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -441,7 +454,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 102.69999999999709
+          "time": 183.5
         }
       ],
       "nextErrorOverlay": false,
@@ -472,15 +485,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 155.59999999999127
+          "time": 333.29999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 182.09999999999127
+          "value": 0.051291264904634454,
+          "time": 407.5
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 443.5
         }
       ],
       "nextErrorOverlay": false,
@@ -511,8 +528,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 217.29999999998836
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -545,7 +567,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 126.59999999999127
+          "time": 216.89999999996508
         }
       ],
       "nextErrorOverlay": false,
@@ -576,19 +598,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 173.70000000001164
+          "time": 330.4000000000233
         },
         {
-          "value": 0.051291264904634454,
-          "time": 188.8000000000029
+          "value": 0.01555896829487365,
+          "time": 404.4000000000233
         },
         {
-          "value": 0.0005536438666449652,
-          "time": 203.60000000000582
+          "value": 0.04663811728395062,
+          "time": 417.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -623,7 +645,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 166.5
+          "time": 223.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -658,7 +680,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 133.5
+          "time": 210.40000000002328
         }
       ],
       "nextErrorOverlay": false,
@@ -689,15 +711,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 192
+          "time": 445.20000000001164
         },
         {
-          "value": 0.04801282793209877,
-          "time": 204.40000000000873
+          "value": 0.051291264904634454,
+          "time": 505.1000000000349
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 540.6000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -728,8 +754,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 180.5
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -758,7 +789,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 148.10000000000582
+          "time": 252.89999999996508
         }
       ],
       "nextErrorOverlay": false,
@@ -785,15 +816,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 230.8000000000029
+          "time": 332.79999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 239.1999999999971
+          "value": 0.01555896829487365,
+          "time": 420.5
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 427.1000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -824,7 +859,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 102.59999999999127
+          "time": 212.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -859,7 +894,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 127.30000000000291
+          "time": 276.5
         }
       ],
       "nextErrorOverlay": false,
@@ -890,15 +925,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 175.1999999999971
+          "time": 344.29999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 199.10000000000582
+          "value": 0.01555896829487365,
+          "time": 436
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 443.1000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -929,10 +968,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 181.09999999997672
+        }
+      ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -959,11 +1005,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 160.5
+          "time": 211.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -986,19 +1034,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 182.10000000000582
+          "time": 320.0999999999767
         },
         {
-          "value": 0.04801282793209877,
-          "time": 195.1999999999971
+          "value": 0.01555896829487365,
+          "time": 418.8999999999651
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 427.20000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1021,15 +1075,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 383.8000000000029
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -1059,11 +1109,12 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 119.79999999998836
+          "time": 185.60000000003492
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -1089,19 +1140,24 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 160.10000000000582
+          "time": 426.69999999995343
         },
         {
-          "value": 0.04801282793209877,
-          "time": 179.8000000000029
+          "value": 0.051291264904634454,
+          "time": 498
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 510.5999999999767
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -1131,7 +1187,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 168.3000000000029
+          "time": 182.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1162,7 +1218,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 155.70000000000437
+          "time": 200.89999999996508
         }
       ],
       "nextErrorOverlay": false,
@@ -1193,11 +1249,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1170.2999999999956
+          "time": 1194.1999999999534
         },
         {
           "value": 0.04801282793209877,
-          "time": 1184.9000000000015
+          "time": 1315.399999999965
         }
       ],
       "nextErrorOverlay": false,
@@ -1228,7 +1284,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 138.6999999999971
+          "time": 216.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1259,7 +1315,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 446.6000000000058
+          "time": 199.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1286,15 +1342,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 239.3000000000029
+          "time": 363.5
         },
         {
-          "value": 0.04801282793209877,
-          "time": 255.10000000000582
+          "value": 0.051291264904634454,
+          "time": 445.20000000001164
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 484
         }
       ],
       "nextErrorOverlay": false,
@@ -1321,10 +1381,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 191.39999999996508
+        }
+      ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1351,11 +1418,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 118.10000000000582
+          "time": 214.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1382,19 +1451,21 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 200
+          "time": 409.9000000000233
         },
         {
           "value": 0.051291264904634454,
-          "time": 218.59999999999127
+          "time": 485.9000000000233
         },
         {
           "value": 0.0005536438666449652,
-          "time": 229.59999999999127
+          "time": 513.7999999999884
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1417,13 +1488,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 166.40000000000873
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -1456,7 +1522,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 159.5
+          "time": 298.3999999999651
         }
       ],
       "nextErrorOverlay": false,
@@ -1487,15 +1553,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 167.1999999999971
+          "time": 327
         },
         {
-          "value": 0.04801282793209877,
-          "time": 185.6999999999971
+          "value": 0.051291264904634454,
+          "time": 403.29999999998836
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 439.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1530,7 +1600,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 194.3000000000029
+          "time": 172.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1565,7 +1635,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 261.6000000000058
+          "time": 198.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1596,19 +1666,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 175.59999999999127
+          "time": 322.70000000001164
         },
         {
-          "value": 0.01555896829487365,
-          "time": 188.5
+          "value": 0.051291264904634454,
+          "time": 381.70000000001164
         },
         {
-          "value": 0.04663811728395062,
-          "time": 205.09999999999127
+          "value": 0.0005536438666449652,
+          "time": 415.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1639,13 +1709,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 117.30000000000291
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1670,8 +1735,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 212.80000000004657
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1696,15 +1766,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 224.60000000000582
+          "time": 330.6000000000349
         },
         {
-          "value": 0.04801282793209877,
-          "time": 253.60000000000582
+          "value": 0.051291264904634454,
+          "time": 417.20000000001164
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 450.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1735,7 +1809,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 117.30000000000291
+          "time": 185.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -1770,7 +1844,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 147.40000000000873
+          "time": 170.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1801,15 +1875,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 188.60000000000582
+          "time": 322.8999999999651
         },
         {
-          "value": 0.04801282793209877,
-          "time": 219.39999999999418
+          "value": 0.051291264904634454,
+          "time": 396.3999999999651
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 420.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1844,11 +1922,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 124.80000000000291
+          "time": 181
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1875,11 +1957,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 159
+          "time": 236
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1902,19 +1988,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 186.6999999999971
+          "time": 556
         },
         {
-          "value": 0.04801282793209877,
-          "time": 214.60000000000582
+          "value": 0.01555896829487365,
+          "time": 645.1000000000349
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 653.7999999999884
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1941,15 +2035,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1102.5
+          "time": 1385.4000000000233
         },
         {
           "value": 0.01555896829487365,
-          "time": 1120.5
+          "time": 1469.600000000035
         },
         {
           "value": 0.04663811728395062,
-          "time": 1146.7000000000044
+          "time": 1476.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1976,15 +2070,14 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 169.5
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2011,11 +2104,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 132.3000000000029
+          "time": 214.60000000003492
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2038,19 +2135,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 481.6999999999971
+          "time": 323.8999999999651
         },
         {
-          "value": 0.04801282793209877,
-          "time": 495.1999999999971
+          "value": 0.051291264904634454,
+          "time": 384.69999999995343
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 404.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2077,11 +2182,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 189.1999999999971
+          "time": 186.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2108,11 +2217,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 91.79999999998836
+          "time": 224.39999999996508
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2139,15 +2252,19 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 162.39999999999418
+          "time": 363.79999999998836
         },
         {
           "value": 0.04801282793209877,
-          "time": 187.1999999999971
+          "time": 469.0999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2174,11 +2291,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 116.30000000000291
+          "time": 190
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2205,11 +2326,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 193.89999999999418
+          "time": 194.60000000003492
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2232,19 +2357,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 190.10000000000582
+          "time": 302.69999999995343
         },
         {
-          "value": 0.04801282793209877,
-          "time": 198.6999999999971
+          "value": 0.051291264904634454,
+          "time": 442.8999999999651
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 455.8999999999651
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2271,7 +2404,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 109.89999999999418
+          "time": 196.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2306,7 +2439,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 161.1999999999971
+          "time": 189.59999999997672
         }
       ],
       "nextErrorOverlay": false,
@@ -2337,15 +2470,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 236
+          "time": 333.79999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 249.5
+          "value": 0.051291264904634454,
+          "time": 433.4000000000233
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 469
         }
       ],
       "nextErrorOverlay": false,
@@ -2376,13 +2513,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 92.40000000000873
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2415,7 +2547,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 117.10000000000582
+          "time": 179.39999999996508
         }
       ],
       "nextErrorOverlay": false,
@@ -2446,15 +2578,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 190.89999999999418
+          "time": 305.70000000001164
         },
         {
-          "value": 0.04801282793209877,
-          "time": 213.89999999999418
+          "value": 0.01555896829487365,
+          "time": 376.9000000000233
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 385.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2485,8 +2621,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 189.29999999998836
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2515,13 +2656,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 108.30000000000291
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2550,15 +2686,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 246.90000000000873
+          "time": 393.5
         },
         {
-          "value": 0.04801282793209877,
-          "time": 261.1000000000058
+          "value": 0.051291264904634454,
+          "time": 475
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 491.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2589,15 +2729,12 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 195.29999999998836
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2626,11 +2763,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 120.19999999999709
+          "time": 294.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2655,19 +2794,25 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 177.29999999998836
+          "time": 338.29999999998836
         },
         {
-          "value": 0.04801282793209877,
-          "time": 192.89999999999418
+          "value": 0.051291264904634454,
+          "time": 395.4000000000233
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 429.29999999998836
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2696,7 +2841,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 112.09999999999854
+          "time": 233.30000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -2727,7 +2872,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 137.6999999999971
+          "time": 208.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -2754,11 +2899,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.057087384259259265,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
-          "value": 0.057087384259259265,
-          "time": 1027.2000000000044
+          "value": 0.0022276466049382716,
+          "time": 1236.0999999999767
+        },
+        {
+          "value": 0.04801282793209877,
+          "time": 1314.2999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -2789,11 +2938,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 118.59999999999127
+          "time": 174.29999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2820,11 +2973,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 226.59999999999127
+          "time": 191.29999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2847,19 +3004,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 183.70000000001164
+          "time": 1723.4000000000233
         },
         {
-          "value": 0.04801282793209877,
-          "time": 193.5
+          "value": 0.01555896829487365,
+          "time": 1772.100000000035
+        },
+        {
+          "value": 0.04663811728395062,
+          "time": 1782.600000000035
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2882,13 +3047,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 101.19999999999709
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2921,7 +3081,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 99.30000000000291
+          "time": 181.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2952,15 +3112,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05024047453703704,
+      "cls": 0.05407255537621769,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 174.90000000000873
+          "time": 305.70000000001164
         },
         {
-          "value": 0.04801282793209877,
-          "time": 205.40000000000873
+          "value": 0.051291264904634454,
+          "time": 384
+        },
+        {
+          "value": 0.0005536438666449652,
+          "time": 401.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2995,11 +3159,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 122.60000000000582
+          "time": 197.80000000004657
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3026,11 +3194,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 169.8000000000029
+          "time": 248.59999999997672
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3053,23 +3225,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 192.3000000000029
+          "time": 449.20000000001164
         },
         {
-          "value": 0.051291264904634454,
-          "time": 208.59999999999127
+          "value": 0.01555896829487365,
+          "time": 534.5
         },
         {
-          "value": 0.0005536438666449652,
-          "time": 224.5
+          "value": 0.04663811728395062,
+          "time": 547.8000000000466
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3096,7 +3272,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 118
+          "time": 290.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -3127,7 +3303,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 115.20000000001164
+          "time": 200
         }
       ],
       "nextErrorOverlay": false,
@@ -3158,11 +3334,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 208.6999999999971
+          "time": 346.4000000000233
         },
         {
           "value": 0.04801282793209877,
-          "time": 226.3000000000029
+          "time": 437.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3189,13 +3365,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 179.3000000000029
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -3228,7 +3399,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 108.39999999999418
+          "time": 179.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -3263,15 +3434,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 160.60000000000582
+          "time": 317.4000000000233
         },
         {
           "value": 0.051291264904634454,
-          "time": 178.39999999999418
+          "time": 390.79999999998836
         },
         {
           "value": 0.0005536438666449652,
-          "time": 194.10000000000582
+          "time": 428.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -3354,11 +3525,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 203.3000000000029
+          "value": 0.000546702535651571,
+          "time": 401.4000000000233
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 408.80000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -3445,11 +3620,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 334.70000000001164
+          "value": 0.14388723609805068,
+          "time": 426.3999999999651
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 443.19999999995343
         }
       ],
       "nextErrorOverlay": false,
@@ -3540,11 +3719,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14429551360926837,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 223.10000000000582
+          "value": 0.14388723609805068,
+          "time": 459.79999999998836
+        },
+        {
+          "value": 0.0004082775112176967,
+          "time": 489.1000000000349
         }
       ],
       "nextErrorOverlay": false,
@@ -3578,7 +3761,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3604,7 +3791,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3627,15 +3818,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 191
+          "value": 0.000546702535651571,
+          "time": 425.20000000001164
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 431.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3661,7 +3860,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3687,7 +3890,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3710,19 +3917,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14429551360926837,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 227.5
+          "value": 0.14388723609805068,
+          "time": 402.5
         },
         {
-          "value": 0.1434435338787292,
-          "time": 233.20000000001164
+          "value": 0.0004082775112176967,
+          "time": 431.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3797,11 +4008,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 193.89999999999418
+          "value": 0.000546702535651571,
+          "time": 436
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 443.9000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -3888,11 +4103,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 186.70000000001164
+          "value": 0.14388723609805068,
+          "time": 400.79999999998836
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 414.4000000000233
         }
       ],
       "nextErrorOverlay": false,
@@ -3975,11 +4194,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14392285439547325,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14392285439547325,
-          "time": 225.39999999999418
+          "value": 0.14396254335545844,
+          "time": 397
         }
       ],
       "nextErrorOverlay": false,
@@ -4010,6 +4229,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4038,6 +4259,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4062,15 +4285,21 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 187
+          "value": 0.000546702535651571,
+          "time": 434.70000000001164
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 442
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4099,8 +4328,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4129,8 +4356,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4155,17 +4380,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14392285439547325,
+      "cls": 0.14429551360926837,
       "layoutShifts": [
         {
-          "value": 0.14392285439547325,
-          "time": 401.1999999999971
+          "value": 0.14388723609805068,
+          "time": 427.6000000000349
+        },
+        {
+          "value": 0.0004082775112176967,
+          "time": 462.5
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4242,11 +4469,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14392285439547325,
+      "cls": 0.14429551360926837,
       "layoutShifts": [
         {
-          "value": 0.14392285439547325,
-          "time": 181.1999999999971
+          "value": 0.14388723609805068,
+          "time": 426
+        },
+        {
+          "value": 0.0004082775112176967,
+          "time": 465.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4325,11 +4556,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14392285439547325,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14392285439547325,
-          "time": 205.5
+          "value": 0.14388723609805068,
+          "time": 371.69999999995343
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 397
         }
       ],
       "nextErrorOverlay": false,
@@ -4359,7 +4594,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4385,7 +4624,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4408,15 +4651,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 207
+          "value": 0.000546702535651571,
+          "time": 427.1000000000349
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 435.6000000000349
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4499,15 +4750,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14433520256925356,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14392692505803587,
-          "time": 241.19999999998254
-        },
-        {
-          "value": 0.0004082775112176967,
-          "time": 252.19999999998254
+          "value": 0.14396254335545844,
+          "time": 422
         }
       ],
       "nextErrorOverlay": false,
@@ -4542,8 +4789,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4572,8 +4817,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4602,17 +4845,15 @@
       "layoutShifts": [
         {
           "value": 0.000546702535651571,
-          "time": 180.8000000000029
+          "time": 409.19999999995343
         },
         {
           "value": 0.1434435338787292,
-          "time": 187.5
+          "time": 416.5999999999767
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4640,7 +4881,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4666,7 +4911,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4689,15 +4938,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 200.70000000001164
+          "value": 0.000546702535651571,
+          "time": 426.1000000000349
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 433.4000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4780,11 +5037,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 170.20000000001164
+          "value": 0.14388723609805068,
+          "time": 637.3999999999651
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 664.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -4815,11 +5076,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 696.9000000000087
+          "value": 0.000546702535651571,
+          "time": 446.9000000000233
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 455.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -4852,6 +5117,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4880,6 +5147,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4904,15 +5173,21 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 261.79999999998836
+          "value": 0.000546702535651571,
+          "time": 417.30000000004657
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 423.5
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4941,6 +5216,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4969,6 +5246,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4993,15 +5272,21 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 255.10000000000582
+          "value": 0.14388723609805068,
+          "time": 561
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 580
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5086,15 +5371,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 552.9000000000233
+          "value": 0.000546702535651571,
+          "time": 518.7000000000116
         },
         {
-          "value": 0.001804355939202416,
-          "time": 558.1000000000058
+          "value": 0.1434435338787292,
+          "time": 526.7999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -5185,11 +5470,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 217.10000000000582
+          "value": 0.14388723609805068,
+          "time": 431.70000000001164
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 451.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -5280,15 +5569,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 192.39999999999418
+          "value": 0.14388723609805068,
+          "time": 406.8999999999651
         },
         {
-          "value": 0.1434435338787292,
-          "time": 199.89999999999418
+          "value": 0.001804355939202416,
+          "time": 427.5999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -5322,7 +5611,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5348,7 +5641,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5371,15 +5668,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 302.8999999999942
+          "value": 0.000546702535651571,
+          "time": 435.19999999995343
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 443
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5406,6 +5711,7 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -5436,6 +5742,7 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5460,15 +5767,20 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 183.10000000000582
+          "value": 0.14388723609805068,
+          "time": 389.9000000000233
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 407.5999999999767
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -5498,8 +5810,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5528,8 +5838,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5554,17 +5862,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 216.6999999999971
+          "value": 0.14388723609805068,
+          "time": 402.0999999999767
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 415.0999999999767
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5593,6 +5903,7 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5621,6 +5932,7 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5645,15 +5957,20 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14399023641438077,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 230.5
+          "value": 0.000546702535651571,
+          "time": 406.20000000001164
+        },
+        {
+          "value": 0.1434435338787292,
+          "time": 413.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5681,7 +5998,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5707,7 +6028,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5730,15 +6055,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 434.4000000000233
+          "value": 0.14388723609805068,
+          "time": 357.79999999998836
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 384.29999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5821,15 +6154,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 200.80000000001746
+          "value": 0.14388723609805068,
+          "time": 401.80000000004657
         },
         {
-          "value": 0.1434435338787292,
-          "time": 214.90000000002328
+          "value": 0.001804355939202416,
+          "time": 423.30000000004657
         }
       ],
       "nextErrorOverlay": false,
@@ -5912,11 +6245,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.1456915920372531,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 196.3000000000029
+          "value": 0.14388723609805068,
+          "time": 404.9000000000233
+        },
+        {
+          "value": 0.001804355939202416,
+          "time": 432.5
         }
       ],
       "nextErrorOverlay": false,
@@ -5946,7 +6283,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5972,7 +6313,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -5995,15 +6340,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14396254335545844,
+      "cls": 0.14429551360926837,
       "layoutShifts": [
         {
-          "value": 0.14396254335545844,
-          "time": 273.79999999998836
+          "value": 0.14388723609805068,
+          "time": 378.5
+        },
+        {
+          "value": 0.0004082775112176967,
+          "time": 412.9000000000233
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     }
@@ -6014,7 +6367,7 @@
     "statusFailures": 0,
     "horizontalOverflow": 0,
     "brokenImages": 0,
-    "browserErrors": 166,
+    "browserErrors": 261,
     "highCls": 31
   }
 }
